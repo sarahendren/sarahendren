@@ -3,6 +3,9 @@ title: Sara Hendren
 url: http://sarahendren.siteleaf.net
 timezone: UTC
 collections:
+  posts:
+    title: Posts
+    output: true
   projects:
     title: Projects
     output: true
