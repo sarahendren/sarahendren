@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<main class="main">
+  <div class="content">
+    {% include shared-includes/lead.html %}
+    <section>
+      {% include shared-includes/subhead.html %}
+    </section>
+    <section class="section">
+      <h2>People</h2>
+      <div class="cards cards--four">
+  			{% for item in page.people %}
+  				{% include shared-includes/person.html %}
+  			{% endfor %}
+  		</div>
+    </section>
+    <hr>
+    <section class="section">
+      <article class="article article--center article--dropcaps article--nosubtitle">
+      {{ content | markdownify }}
+      </article>
+    </section>
+  </div>
+</main>

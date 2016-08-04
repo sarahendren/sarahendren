@@ -1,0 +1,53 @@
+
+.prefsEditor-demo-theme {
+    color: #3E606F;
+    background-image: url("../images/background_texture.png");
+    background-position: left top;
+    background-repeat: repeat;
+}
+.prefsEditor-demo-theme a {
+    color: #3E606F;
+}
+.prefsEditor-demo-theme .disp-opts-button-container {
+    background-color: #0071BC;
+    background-image: url("../images/arrow_right.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.prefsEditor-demo-theme .disp-opts-button {
+    color: white;
+    background-color: #0071BC;
+}
+.prefsEditor-demo-theme .disp-opts-button a {
+    color: white;
+}
+.prefsEditor-demo-theme .feedback-form input,
+.prefsEditor-demo-theme .feedback-form textarea {
+    color: grey;
+}
+
+/* Overriding some of the default colours of Preference Editor - separated panel */
+.prefsEditor-demo-theme .fl-prefsEditor-separatedPanel .fl-panelBar .fl-prefsEditor-buttons {
+    background-color: #0071BC;
+}
+.fl-prefsEditor-separatedPanel .fl-panelBar button {
+    font-family: "Myriad Pro", Helvetica, Tahoma, Verdana, sans-serif;
+    border: 0;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.prefsEditor-demo-theme .fl-prefsEditor-separatedPanel .fl-prefsEditor-showHide,
+.prefsEditor-demo-theme .fl-prefsEditor-separatedPanel .fl-prefsEditor-reset  {
+    background-color: #0071BC;
+    color: white;
+}
+
+.prefsEditor-demo-theme .fl-prefsEditor-separatedPanel .fl-prefsEditor-reset  {
+    border-right: 1px solid #fff;
+}
+
+.fl-prefsEditor-separatedPanel .fl-panelBar .fl-prefsEditor-reset  {
+    border-right: 1px solid #fff;
+}

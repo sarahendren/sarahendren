@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% assign item = page %}
+{% include shared-includes/image-full.html %}
+<main class="main">
+  <article class="article article--has-toc">
+    <header class="article__header">
+      {% include shared-includes/title-headline.html %}
+      {% include shared-includes/date-display.html %}
+      {% include shared-includes/subhead.html %}
+    </header>
+    <div class="article__row">
+      {% include shared-includes/toc.html %}
+      <div class="content">
+        {{ page.content | markdownify }}
+        {% include shared-includes/page.html %}
+      </div>
+    </div>
+  </article>
+</main>
