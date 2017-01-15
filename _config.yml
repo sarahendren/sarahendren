@@ -2,16 +2,13 @@
 title: Sara Hendren
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   projects:
     title: Projects
     output: true
   reading-notes:
     title: Reading Notes
     output: true
-  talks-plus-essays:
+  talks-essays:
     title: Talks + Essays
     output: true
   uploads:
@@ -20,13 +17,37 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
     type: pages
   values:
+    layout: page
+- scope:
+    path: ''
+    type: projects
+  values:
+    parent: "/projects/"
+    image: http://placehold.it/400x300
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    subtitle: SUBTITLE
+    layout: project
+- scope:
+    path: ''
+    type: reading-notes
+  values:
+    parent: "/reading-notes/"
+    image: http://placehold.it/400x300
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    subtitle: SUBTITLE
+    layout: page
+- scope:
+    path: ''
+    type: talks-essays
+  values:
+    parent: "/talks-essays/"
+    image: http://placehold.it/400x300
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    subtitle: SUBTITLE
     layout: page
 permalink: pretty
