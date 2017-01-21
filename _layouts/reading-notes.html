@@ -3,13 +3,13 @@ layout: default
 ---
 
 <main class="main">
-	<div class="content">
+	<header class="main__header">
 		{% include shared-includes/lead.html text=page.welcome-text %}
-		<section>
-			{% include shared-includes/subhead.html %}
-		</section>
+		{% include shared-includes/subhead.html %}
+	</header>
+	<div class="cards">
 		{% for item in site.reading-notes reversed %}
-			{% include shared-includes/report.html %}
+		{% include shared-includes/report.html %}
 		{% endfor %}
 		{{ content | markdownify }}
 	</div>
