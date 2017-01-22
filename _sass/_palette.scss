@@ -3,3 +3,11 @@ $secondary:  $silver;
 $link:       $silver;
 $accent:     $silver;
 $background: $gray;
+
+.nav--cross .nav__link:link,
+.nav--cross .nav__link:visited,
+.nav--primary .nav__link:link,
+.nav--primary .nav__link:visited {
+  color: $accent!important;
+  text-decoration: none;
+}

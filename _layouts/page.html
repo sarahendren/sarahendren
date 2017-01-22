@@ -4,13 +4,17 @@ layout: default
 
 {% assign item = page %}
 <main class="main">
-  <div class="content">
-    <article class="article article--center article--noimage">
+  <article class="article article--center article--noimage">
+    <section class="article__header">
       {% include shared-includes/title-headline.html %}
       {% include shared-includes/byline.html %}
-      {% include shared-includes/date-month-day-year.html %}
-      {{ page.content | markdownify }}
-      {% include shared-includes/page.html %}
-    </article>
-  </div>
+      {% if page.date-display != "DISPLAY DATE" %}
+        {% include shared-includes/date-display.html %}
+      {% else %}
+        {% include shared-includes/date-month-day-year.html %}
+      {% endif %}
+    </section>
+    {{ page.content | markdownify }}
+    {% include shared-includes/page.html %}
+  </article>
 </main>

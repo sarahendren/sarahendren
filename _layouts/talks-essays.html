@@ -8,7 +8,7 @@ layout: default
 		{% include shared-includes/subhead.html %}
 		<div class="cards cards--three">
 			{% for item in site.talks-essays reversed %}
-				{% include shared-includes/project.html %}
+				{% include shared-includes/talk-essay-interview.html %}
 			{% endfor %}
 		</div>
 		{{ content | markdownify }}
