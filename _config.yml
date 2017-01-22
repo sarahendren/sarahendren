@@ -53,7 +53,6 @@ permalink: pretty
 gems:
 - jekyll-redirect-from
 imgix: http://sarahendren.imgix.net
-permalink: pretty
 exclude:
 - node_modules
 - gulpfile.js
