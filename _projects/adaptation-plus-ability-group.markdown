@@ -1,6 +1,7 @@
 ---
 title: adaptation + ability group
 date: 2017-01-04 21:48:00 Z
+image: "/uploads/aplusa-grid.jpg"
 Field name: 
 ---
 
