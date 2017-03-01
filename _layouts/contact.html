@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% assign item = page %}
+<main class="main">
+  <article class="article article--center article--noimage">
+    <section class="contact">
+      <div class="contact__info">
+        {{ page.content | markdownify }}
+      </div>
+      {% include shared-includes/contact-form.html %}
+    </section>
+  </article>
+</main>
