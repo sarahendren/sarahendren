@@ -1,6 +1,6 @@
 ---
 title: accessible icon project
-date: 2017-02-04 16:45:00 -05:00
+date: 2016-12-04 16:45:00 -05:00
 position: 1
 image: "/uploads/uptonstreetcambridgeclosewe%20(1).jpg"
 image-caption: an image of the original guerrilla icon, with a clear-backed sticker
