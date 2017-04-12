@@ -1,6 +1,7 @@
 ---
 title: first book!
 date: 2017-01-07 16:45:00 -05:00
+position: 0
 image: "/uploads/riverhead%20logo%20jpg.jpg"
 date-display: 01/07/17
 ---
