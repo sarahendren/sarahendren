@@ -1,7 +1,8 @@
 ---
 title: first book!
-date: 2017-01-04 16:45:00 -05:00
+date: 2017-01-07 16:45:00 -05:00
 image: "/uploads/riverhead%20logo%20jpg.jpg"
+date-display: 01/07/17
 ---
 
 Friends, I’m so happy to say that my first book is under contract with [Riverhead/Penguin](http://www.penguin.com/publishers/riverhead/?ref=2B4575AB81AF)! I’m just thrilled—I can’t even tell you.
