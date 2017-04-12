@@ -10,5 +10,5 @@ layout: about
 
 Her recent work includes collaborative mixed media projects and social design work on technology, the human body, and the politics of disability. She frequently writes and lectures on prosthetics, disability studies, hybrid art-engineering practices, critical design, and related topics. Her first book, on the unexpected places where disability is at the heart of design in everyday objects and environments, is forthcoming from [Riverhead Books/Penguin Random House](http://www.penguin.com/meet/publishers/riverhead/?ref=2B4575AB81AF). She lives in Cambridge, Mass., with her [husband](http://www.brianfunck.com/) and three children.
 
-**Downloadable portfolio pdf is here; CV is [here](https://drive.google.com/file/d/0B59TJ2hc29NFTTVmX0Q5R05ZZWs/view?usp=sharing).**
+Downloadable portfolio pdf is here; CV is [here](https://drive.google.com/file/d/0B59TJ2hc29NFTTVmX0Q5R05ZZWs/view?usp=sharing).
 
