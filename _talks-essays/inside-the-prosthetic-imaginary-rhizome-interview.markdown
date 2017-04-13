@@ -7,6 +7,8 @@ image-caption: 'a screenshot of the interview in Rhizome: on bodies and technolo
 date-display: 2012
 ---
 
+![inside prosthetic imaginary jpg.jpg](/uploads/inside%20prosthetic%20imaginary%20jpg.jpg)
+
 [An interview with Ana Alvarez at Rhizome](http://rhizome.org/editorial/2012/oct/4/inside-prosthetic-imaginary-interview-sara-hendren/):
 
 **Q: One of the things that piqued my interest most when I read your work is your ideas surrounding the cyborg. What is the cyborg to you, and what does this cyborgian future entail?
