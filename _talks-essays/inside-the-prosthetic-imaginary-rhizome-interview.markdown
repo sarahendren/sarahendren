@@ -11,8 +11,8 @@ date-display: 2012
 
 [An interview with Ana Alvarez at Rhizome](http://rhizome.org/editorial/2012/oct/4/inside-prosthetic-imaginary-interview-sara-hendren/):
 
-**Q: One of the things that piqued my interest most when I read your work is your ideas surrounding the cyborg. What is the cyborg to you, and what does this cyborgian future entail?
-**
+**Q: One of the things that piqued my interest most when I read your work is your ideas surrounding the cyborg. What is the cyborg to you, and what does this cyborgian future entail?**
+
 
 A: There tends to be either an overly sanguine story about the cyborg self—like, in the future, there will be no disability because, “Oh these legs don’t work anymore? I’ll just strap on new ones.” Or, conversely, there’s a kind of dystopian fascination with our dependence on technological proxies. People either imagine the liberatory cyborg, where we merge bodies and machines in a way that is clean and utopian, or where: Yikes! We’re all going to die, because the machine overlords—they’re coming! But both of those stories make a big leap over harder questions.
 
