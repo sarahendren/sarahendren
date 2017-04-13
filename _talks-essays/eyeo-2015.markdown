@@ -1,6 +1,8 @@
 ---
 title: 'Investigating Normal: Technology and Ability, Eyeo 2015'
-date: 2016-05-13 19:51:00 Z
+date: 2016-05-13 15:51:00 -04:00
+image: "/uploads/eyeo%202015%20jpg.jpg"
+image-caption: " screenshot of the  opening slide from eyeo"
 ---
 
 <iframe src="https://player.vimeo.com/video/134764010?color=99cd4f" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\
