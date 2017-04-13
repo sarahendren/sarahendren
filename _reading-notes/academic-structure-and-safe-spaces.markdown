@@ -1,6 +1,6 @@
 ---
 title: academic structure and safe spaces
-date: 2016-08-28 22:55:00 Z
+date: 2017-01-01 18:55:00 -05:00
 ---
 
 Lots to think about in this piece by Henry Farrell [over at Crooked Timber](http://crookedtimber.org/2016/08/27/the-university-of-chicago-is-nothing-more-and-nothing-less-than-a-complex-of-safe-spaces/#comment-689873):
