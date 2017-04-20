@@ -7,4 +7,4 @@ Last year I read—inhaled—the newest novel from Ann Patchett, [Commonwealth](
 
 [Something to Say.wav](/uploads/Something%20to%20Say.wav)
 
-
+"People love to ask—everyone—can writing be taught? And I always believe: I can teach you how to write dialogue. I can teach you how to write a plot; I can teach you how to write a clear image. I can do all sorts of things to technically improve almost anyone as a writer. But I cannot teach you how to have something to say."
