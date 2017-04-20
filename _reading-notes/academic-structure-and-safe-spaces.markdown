@@ -17,5 +17,5 @@ In fact, Farrell quotes Lohmann on how universities perpetuate a far too safe cu
 
 Existing institutions do change—some of them, some of the time. When institutional change occurs, it is typically in response to the political or economic threat posed by entrants. Departments have a harder time reinventing themselves, and when they do, it is because of generational turnover, for individual scholars tend not to change at all."
 
-But the most memorable in this nuanced piece 
+
 
