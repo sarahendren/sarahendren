@@ -8,6 +8,8 @@ image-caption: an image of the original guerrilla icon, with a clear-backed stic
 date-display: 2010–ongoing
 ---
 
+![uptonstreetcambridgeclosewe (1).jpg](/uploads/uptonstreetcambridgeclosewe%20(1).jpg)
+
 The Accessible Icon Project is an ongoing work of design activism. It started in 2010 with a graphic icon, free for use in the public domain, and continues its work as a collaboration between people with disabilities and their allies toward a more accessible world. More about this project on its own web site, where there are downloadable files of the icon in multiple formats.
 
 I answer some of the FAQs about the project in the following essays:
