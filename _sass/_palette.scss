@@ -1,8 +1,8 @@
-$primary:    $white;
-$secondary:  $silver;
-$link:       $silver;
-$accent:     $silver;
-$background: $gray;
+$primary:    $silver;
+$secondary:  #687576;
+$link:       #f8bc27;
+$accent:     #405154;
+$background: #88abb0;
 
 .nav--cross .nav__link:link,
 .nav--cross .nav__link:visited,
@@ -10,4 +10,20 @@ $background: $gray;
 .nav--primary .nav__link:visited {
   color: $accent!important;
   text-decoration: none;
+}
+
+#footer {
+  margin-top: 0;
+}
+
+.fluid-width-video-wrapper {
+  margin-bottom: 0!important;
+}
+
+#footer {
+  background-color: $secondary;
+  color: $silver;
+  a:link, a:visited {
+    color: $link;
+  }
 }
