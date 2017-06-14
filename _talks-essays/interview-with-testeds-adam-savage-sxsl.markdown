@@ -1,6 +1,7 @@
 ---
 title: Tested's Adam Savage, SXSL
-date: 2017-01-04 21:43:00 Z
+date: 2017-01-04 16:43:00 -05:00
+position: 1
 image: "/uploads/adamsavage.jpg"
 subtitle: Interview
 date-display: December 2016
