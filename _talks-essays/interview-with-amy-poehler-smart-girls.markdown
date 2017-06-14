@@ -8,6 +8,6 @@ date-display: November 2016
 subtitle: Interview
 ---
 
-At South by South Lawn, Obama's public event on the arts, technology, and activism at the White House in October 2016, i talked with Amy Poehler's Smart Girls team about the lab and my work. 
+At South by South Lawn, Obama's public event on the arts, technology, and activism at the White House in October 2016, I talked with Amy Poehler's Smart Girls team about the lab and my work. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Arbk_xnXUcc" frameborder="0" allowfullscreen></iframe>
