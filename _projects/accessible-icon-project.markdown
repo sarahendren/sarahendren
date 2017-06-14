@@ -6,7 +6,6 @@ image: "/uploads/uptonstreetcambridgeclosewe%20(1).jpg"
 image-caption: an image of the original guerrilla icon, with a clear-backed sticker
   showing the old ISA and the new one, superimposed on top.
 date-display: 2010–ongoing
-subtitle: design
 ---
 
 ![uptonstreetcambridgeclosewe (1).jpg](/uploads/uptonstreetcambridgeclosewe%20(1).jpg)
