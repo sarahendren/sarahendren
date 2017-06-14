@@ -1,6 +1,6 @@
 ---
 title: Adaptive Tech with Tested's Adam Savage, SXSL
-date: 2017-01-04 16:43:00 -05:00
+date: 2016-11-09 16:43:00 -05:00
 position: 2
 image: "/uploads/adamsavage.jpg"
 date-display: December 2016
