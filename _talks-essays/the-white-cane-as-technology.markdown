@@ -1,6 +1,6 @@
 ---
 title: The White Cane as Technology
-date: 2017-01-04 16:26:00 -05:00
+date: 2013-11-04 16:26:00 -05:00
 image: "/uploads/white%20cane%20as%20tech%20jpg.jpg"
 ---
 
