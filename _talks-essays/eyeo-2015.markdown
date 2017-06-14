@@ -5,5 +5,7 @@ image: "/uploads/eyeo%202015%20jpg.jpg"
 image-caption: " screenshot of the  opening slide from eyeo"
 ---
 
+This is the talk that's the most comprehensive portfolio-style presentation of the kind of work I do. It's told in three chapters, but backwards: 3, 2, 1. How I do my work, but then: What came before? Where the was unknowing and the uncertainty?
+
 <iframe src="https://player.vimeo.com/video/134764010?color=99cd4f" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\
 <p><a href="https://vimeo.com/134764010">Eyeo 2015 &ndash; Sara Hendren</a> from <a href="https://vimeo.com/eyeofestival">Eyeo Festival  //  INSTINT</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
