@@ -1,7 +1,7 @@
 ---
 title: 'Engineering for an Inclusive World: Amy Poehler Smart Girls, SXSL'
 date: 2016-10-13 16:43:00 -04:00
-position: 8
+position: 9
 image: "/uploads/amypoehler.jpg"
 image-caption: a still from the video showing Alice Sheppard mid-dance in Seoul, with
   Engineering for an Inclusive World in type

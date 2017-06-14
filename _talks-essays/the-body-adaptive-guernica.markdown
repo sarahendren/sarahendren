@@ -1,7 +1,7 @@
 ---
 title: 'The Body Adaptive: Guernica'
 date: 2016-12-19 12:26:00 -05:00
-position: 10
+position: 1
 image: "/uploads/guernica%20thumbnail%20jpg.jpg"
 image-caption: The masthead for Guernica's Future of the Body issue.
 ---
