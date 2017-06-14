@@ -1,7 +1,7 @@
 ---
 title: adaptation + ability group
 date: 2016-09-04 16:48:00 -04:00
-position: 5
+position: 1
 image: "/uploads/aplusa-grid.jpg"
 image-caption: a montage of projects housed under the Adaptation + Ability group
 date-display: 2014–ongoing
