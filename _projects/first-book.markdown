@@ -2,8 +2,10 @@
 title: first book!
 date: 2017-01-07 16:45:00 -05:00
 position: 0
-image: "/uploads/riverhead%20logo%20jpg.jpg"
-date-display: 01/07/17
+image: "/uploads/tumblr_static_9bmz1i1704kk4kkcoc8kkk08k_2048_v2.jpg"
+image-caption: a series of variations on the Riverhead R logo, from their Tumblr site
+date-display: Dec 2016-ongoing
+subtitle: writing
 ---
 
 Friends, I’m so happy to say that my first book is under contract with [Riverhead/Penguin](http://www.penguin.com/publishers/riverhead/?ref=2B4575AB81AF)! I’m just thrilled—I can’t even tell you.
