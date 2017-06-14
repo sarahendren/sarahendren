@@ -1,7 +1,7 @@
 ---
 title: engineering at home
 date: 2016-10-04 16:46:00 -04:00
-position: 3
+position: 2
 image: "/uploads/cindy%20fork%20holder%20jpg.jpg"
 image-caption: a silicon cap for placing over Cindy's residual limb, outfitted with
   a fork for ease of use in self-feeding.
