@@ -1,7 +1,7 @@
 ---
 title: Inside the Prosthetic Imaginary, Rhizome Interview
 date: 2012-10-30 16:40:00 -04:00
-position: 6
+position: 7
 image: "/uploads/inside%20prosthetic%20imaginary%20jpg.jpg"
 image-caption: 'a screenshot of the interview in Rhizome: on bodies and technology,  prosthetics
   and  design,  public amateurism, and more.'

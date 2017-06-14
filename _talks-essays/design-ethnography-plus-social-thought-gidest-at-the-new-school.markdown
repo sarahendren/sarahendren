@@ -1,7 +1,7 @@
 ---
 title: 'Design, Ethnography, + Social Thought: GIDEST at the New School'
 date: 2017-05-14 12:27:00 -04:00
-position: 10
+position: 6
 image: "/uploads/GIDEST%20Sara%20still%20jpg.jpg"
 image-caption: A video still of Sara speaking about her work.
 ---
