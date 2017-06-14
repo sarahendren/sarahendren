@@ -5,7 +5,6 @@ position: 1
 image: "/uploads/aplusa-grid.jpg"
 image-caption: a montage of projects housed under the Adaptation + Ability group
 date-display: 2014–ongoing
-subtitle: research
 Field name: 
 ---
 
