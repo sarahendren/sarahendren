@@ -11,6 +11,7 @@ image-caption: 'Design for Know-Nothings, Dilettantes, and Melancholy Interloper
   she talks about the creative work of others: in marine biology, architecture, politics,
   education. Lots of nerdy history, folks.'
 date-display: 2016
+subtitle: talk
 ---
 
 <iframe src="https://player.vimeo.com/video/179040817?color=d9d0d0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
