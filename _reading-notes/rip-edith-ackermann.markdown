@@ -1,9 +1,9 @@
 ---
 title: rip edith ackermann
-date: 2017-01-04 22:18:00 Z
+date: 2017-01-04 17:18:00 -05:00
 ---
 
-Everyone knows 2016 was just one big heartbreak of loss after another—so many brilliant and creative people who died in those 12 months. These days I'm thinking a lot about John Berger, who I first encountered in college twenty-some years ago with Ways of Seeing (more on that in other Notes), but today I'm recalling the vibrancy and generosity of [Edith Ackermann](https://en.wikipedia.org/wiki/Edith_Ackermann), research affiliate across departments at MIT, scholar and consultant, beloved at design crits for her sharp eye and unfailingly earnest interest in all ideas and artifacts. She died on 12/14, and she'll be missed by so many people I know and respect. I couldn't call her friend, but I watched her closely at design reviews and around town.
+Everyone knows 2016 was just one big heartbreak of loss after another—so many brilliant and creative people who died in those 12 months. These days I'm thinking a lot about John Berger, who I first encountered in college twenty-some years ago with Ways of Seeing (more on that in other Notes), but today I'm recalling the vibrancy and generosity of [Edith Ackermann](https://en.wikipedia.org/wiki/Edith_Ackermann), research affiliate across departments at MIT, scholar and consultant, beloved at design crits for her sharp eye and unfailingly earnest curiosity about all ideas and artifacts. She died on 12/14, and she'll be missed by so many people I know and respect. I couldn't call her friend, but I watched her closely at design reviews and around town.
 
 Here's an excerpt from an interview she did with Urs Hirschberg [in GAM architecture](http://www.eurozine.com/articles/2014-07-31-ackermann-en.html) magazine back in 2014: on embodied learning, design education, thinking and making, and more. Packed with a good bibliography.
 
