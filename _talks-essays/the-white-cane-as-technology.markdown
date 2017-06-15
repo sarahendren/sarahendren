@@ -3,6 +3,9 @@ title: The White Cane as Technology
 date: 2013-11-16 16:26:00 -05:00
 position: 6
 image: "/uploads/white%20cane%20as%20tech%20jpg.jpg"
+image-caption: an image of the Atlantic Tech with the article's headline
+date-display: 2013
+subtitle: essay
 ---
 
 ![white cane as tech jpg.jpg](/uploads/white%20cane%20as%20tech%20jpg.jpg)
