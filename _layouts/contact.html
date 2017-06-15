@@ -4,6 +4,10 @@ layout: default
 
 {% assign item = page %}
 <main class="main">
+  <header class="main__header">
+		{% include shared-includes/lead.html text=page.welcome-text %}
+		{% include shared-includes/subhead.html %}
+	</header>
   <article class="article article--center article--noimage">
     <section class="contact">
       <div class="contact__info">
