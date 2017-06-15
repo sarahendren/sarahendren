@@ -5,4 +5,7 @@ position: 5
 layout: contact
 ---
 
-Please do get in touch! 
+Please do get in touch! I'd love to hear from you. And, in 2017 and for the foreseeable future: with a book to write, an evolving job, and three small children, I'm not very available for meetups and conversations. But I do love [Twitter](https://twitter.com/ablerism), and, if you like, I'll send you occasional news via Tinyletter. Sign up is [here](https://tinyletter.com/sarahendren).
+
+Speaking requests go through [Lydia Wills](http://lydiawills.com/).
+
