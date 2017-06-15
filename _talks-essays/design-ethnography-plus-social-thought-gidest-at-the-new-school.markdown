@@ -4,6 +4,8 @@ date: 2017-05-14 12:27:00 -04:00
 position: 8
 image: "/uploads/GIDEST%20Sara%20still%20jpg.jpg"
 image-caption: A video still of Sara speaking about her work.
+date-display: 2017
+subtitle: interview
 ---
 
 I talked with Hugh Raffles at GIDEST for the short video series connected to their ongoing seminar at the New School. GIDEST is the Graduate Institute for Design, Ethnography, and Social Thought, and the seminar was run in such a smart and probing way. I prepared a series of slides from my work that looped in the background while I opened with some very brief remarks. 10 minutes, I think? And after that, I stayed silent for a half hour or so while others in the room made remarks and asked questions. I finally rejoined them, after which our discussion was one of the liveliest and most challenging that I've had. 
