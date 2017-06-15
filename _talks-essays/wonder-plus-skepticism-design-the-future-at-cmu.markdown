@@ -1,6 +1,7 @@
 ---
 title: Wonder + Skepticism, Design the Future at CMU
 date: 2017-06-15 15:05:00 -04:00
+position: 5
 image: "/uploads/Carl%20Sagan%20hands.jpg"
 image-caption: cover still from the first slide of my talk, with the title and date
 date-display: 2017
