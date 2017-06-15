@@ -2,7 +2,7 @@
 title: Design for Know-Nothings, Dilettantes, and Melancholy Interlopers, Eyeo 2016
 date: 2017-01-04 16:42:00 -05:00
 position: 3
-image: "/uploads/eyeo%202016%20jpg.jpg"
+image: "/uploads/eyeo%20new%20nouns%20jpg.jpg"
 image-caption: 'Design for Know-Nothings, Dilettantes, and Melancholy Interlopers
   – Translators, impresarios, believers, and the heartbroken—this is a talk about
   design outside of authorship and ownership, IP or copyright, and even outside of
