@@ -1,9 +1,10 @@
 ---
 title: Wonder + Skepticism, Design the Future at CMU
 date: 2017-06-15 15:05:00 -04:00
-image: "/uploads/wonder%20and%20skepticism%20jpg.jpg"
+image: "/uploads/Carl%20Sagan%20hands.jpg"
 image-caption: cover still from the first slide of my talk, with the title and date
 date-display: 2017
+subtitle: talk
 ---
 
 This is a talk about Carl Sagan, the hard work of wonder and skepticism in the arts and STEM fields, and making access in design. (Just remembered this has no closed captioning; I'll update when that's available.)
