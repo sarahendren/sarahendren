@@ -1,7 +1,6 @@
 ---
 title: under-narrated
 date: 2017-07-11 11:07:00 -04:00
-published: false
 ---
 
 The last couple of years have been a busy season for weddings in my immediate circles. These seasons come and go, and I'm always thrilled when they come back around. Nothing else can move me so much as two people declaring such staggeringly uninformed promises to one another in front of people who love them, their wild optimism laid bare for a few open hours. What could be more impractical?
