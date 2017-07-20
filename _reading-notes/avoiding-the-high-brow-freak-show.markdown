@@ -11,7 +11,7 @@ I'm thinking about Sacks as I write my own words, interpreting my own many encou
 
 I keep circling around [this review in the LRB](https://www.lrb.co.uk/v18/n20/jenny-diski/life-death-and-the-whole-damn-thing) of Sacks's *An Anthropologist on Mars* and *The Island of the Colorblind*—analysis of which includes his book *Awakenings* and could also be applied to *The Man Who Mistook His Wife For a Hat*. Jenny Diski admires Sacks's projects and his craft, but she also has this to say:
 
-*“A story needs a conclusion whereas a case-history may not have one. In fact, stories have all kinds of needs that a case-history will not supply, and Sacks is insistent that he is writing the stories of his patients, not their cases. This is not intended to fudge fact and fiction, but to enlarge patients into people. 
+*“A story needs a conclusion whereas a case-history may not have one. In fact, stories have all kinds of needs that a case-history will not supply, and Sacks is insistent that he is writing the stories of his patients, not their cases. This is not intended to fudge fact and fiction, but to enlarge patients into people.* 
 
 On the other hand, he is describing people with more or less devastating illnesses— that is his raison d’être—and his explicit purpose is to generalize from these, usually unhappy, accidents of life and nature, to a greater understanding of the human condition. In Awakenings he states: ‘If we seek a “curt epitome” of the human condition—of long-standing sickness, suffering and sadness; of a sudden, complete, almost preternatural “awakening”; and, alas! of entanglements which may follow this “cure”—there is no better one than the story of these patients.’ 
 
