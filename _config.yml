@@ -50,9 +50,19 @@ defaults:
     subtitle: SUBTITLE
     layout: page
 permalink: pretty
-gems:
+plugins:
 - jekyll-redirect-from
+- jekyll-feed
+- jekyll-assets
 imgix: http://sarahendren.imgix.net
 exclude:
 - node_modules
 - gulpfile.js
+assets:
+  prefix: "/assets"
+  digest: true
+  assets:
+  - "*.png"
+  - "*.jpg"
+  sources:
+  - _uploads
