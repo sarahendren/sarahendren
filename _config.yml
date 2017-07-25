@@ -54,7 +54,6 @@ plugins:
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-assets
-imgix: http://sarahendren.imgix.net
 exclude:
 - node_modules
 - gulpfile.js
