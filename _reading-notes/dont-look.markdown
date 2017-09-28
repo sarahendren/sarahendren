@@ -11,4 +11,4 @@ Sometimes I'm so tempted! I have an instinct to share his attention. To break th
 
 But I hold back. I don't want to intrude on his experience of just the story itself, being delivered to him aurally and mostly without my mediation as to what things mean, what context we're missing. He is having his own encounter, and that's another kind of circuitry altogether. It's one to which I'm sometimes best as a witness. Because this is also how a story does its work: sending a charge to its boy and back again, blooming both partial and replete in his singular comprehension. 
 
-Part of parenting is surely this—acting as nothing more and nothing less than a hedge around experiences we may watch but perhaps refrain from sharing. Maybe I'll change my mind about this, but all I can think now is: Keep reading. Don't look.
+Part of parenting is surely this—acting as nothing more and nothing less than a hedge around experiences we may watch but perhaps refrain from sharing. All I can think now is: Keep reading. Don't look.
