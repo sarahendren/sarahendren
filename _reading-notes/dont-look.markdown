@@ -7,7 +7,7 @@ While reading to my three children at night, my youngest, age 7, will often be l
 
 This perfect quietude usually only lasts a dozen seconds or so at a time, after which he'll go back to kneading his pillow or looking at the stickers on his bed frame while the story continues. But each time this happens, I'm aware of it. I can see him in my peripheral vision. And for many reasons, at least right now, I don't meet his eyes. I keep reading.
 
-Sometimes I'm so tempted! I'm aware of what's happening, and I have an instinct to share his attention. To break the spell of the narrative to say: See here, here we are, watching the same characters move their way through time. That would be the completion of one kind of circuit: you and I, caught up in this same tale together.
+Sometimes I'm so tempted! I have an instinct to share his attention. To break the spell of the narrative to say: See here, here we are, watching the same characters move their way through time. That would be the completion of one kind of circuit: you and I, caught up in this same tale together.
 
 But I hold back. I don't want to intrude on his experience of just the story itself, being delivered to him aurally and mostly without my mediation as to what things mean, what context we're missing. He is having his own encounter, and that's another kind of circuitry altogether. It's one to which I'm sometimes best as a witness. Because this is also how a story does its work: sending a charge to its boy and back again, blooming both partial and replete in his singular comprehension. 
 
