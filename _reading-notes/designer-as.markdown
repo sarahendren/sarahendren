@@ -1,6 +1,6 @@
 ---
 title: designer as
-date: 2017-08-25 12:01:00 -04:00
+date: 2017-10-04 12:01:00 -04:00
 ---
 
 ![eyeo new nouns jpg-901b6f.jpg](/uploads/eyeo%20new%20nouns%20jpg-901b6f.jpg)
