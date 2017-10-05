@@ -9,6 +9,6 @@ Speaking of [roles for the designer](http://sarahendren.com/reading-notes/ninety
 
 I like his ending:
 
-"*If we really need to coin a phrase to describe an activity encompassing imaging, editing, narration, chronicling, performing, translating, organizing and directing, I'll conclude with a suggestion:
+"If we really need to coin a phrase to describe an activity encompassing imaging, editing, narration, chronicling, performing, translating, organizing and directing, I'll conclude with a suggestion:
 
-designer = designer*."
+designer = designer."
