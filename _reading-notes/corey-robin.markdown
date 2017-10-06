@@ -1,7 +1,6 @@
 ---
 title: summoning a public
-date: 2017-09-09 17:30:00 -04:00
-published: false
+date: 2017-10-06 11:30:00 -04:00
 ---
 
 Lisa Brawley recently pointed me to Corey Robin's 2016 essay, [How Intellectuals Create a Public](http://www.chronicle.com/article/How-Intellectuals-Create-a/234984). I can't believe I didn't see it before now, because it names something so vital about writing for a non-specialist reader. Robin says it's not merely a choice between esoteric language versus lay speech, as though a writer merely hopes to bring a fully formed complex idea "to the people." It's never as one-way as that. It's that there are some ideas for which there's not yet an established public, and that a book written outside its core expert audience seeks precisely to summon that public. 
