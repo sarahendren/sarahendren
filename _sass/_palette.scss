@@ -1,15 +1,36 @@
-$primary:    $silver;
-$secondary:  #687576;
-$link:       #f8bc27;
-$accent:     #405154;
-$background: #88abb0;
+$primary:    #000000;
+$secondary:  #040707;
+$link:       #000000;
+$accent:     #f7bb39;
+$background: #ffffff;
 
+.site-header {
+  background: $secondary;
+}
+
+.article__header .lead,
+.article__header .lead a:link,
+.article__header .lead a:visited {
+  color: $accent;
+}
+
+.lead a:link,
+.lead a:visited {
+  border-bottom: 1px solid $accent!important;
+}
+
+.nav--cross .nav__site-title a:link,
+.nav--cross .nav__site-title a:visited,
 .nav--cross .nav__link:link,
 .nav--cross .nav__link:visited,
 .nav--primary .nav__link:link,
 .nav--primary .nav__link:visited {
-  color: $accent!important;
+  color: $background!important;
   text-decoration: none;
+}
+
+.nav--primary {
+  padding-top: 50px!important;
 }
 
 body#home #footer {
@@ -20,10 +41,58 @@ body#home #footer {
   margin-bottom: 0!important;
 }
 
-#footer {
-  background-color: $secondary;
-  color: $silver;
+.footer__background--accent {
+  background-color: $accent;
+  color: $background;
   a:link, a:visited {
-    color: $link;
+    color: $background;
   }
+}
+
+.footer__background--secondary {
+  background-color: $secondary;
+  color: $background;
+  a:link, a:visited {
+    color: $background;
+  }
+}
+
+hr {
+  border-bottom: 0!important;
+  border-top: 1px solid $accent!important;
+}
+
+.reading-notes .item--row {
+  border-bottom: 1px solid $accent!important;
+}
+
+blockquote {
+  margin: 15px;
+  border-left: 7px solid $accent;
+  font-style: italic;
+}
+
+blockquote p {
+  margin-left: 15px;
+}
+
+.article__header {
+  border-bottom: 1px solid $accent!important;
+}
+
+
+.nav--page {
+  border-top: 1px solid $accent;
+  margin-top:35px;
+}
+
+.nav--page .nav__item {
+  background: $background!important;
+  color: $primary!important;
+  margin-top: 0!important;
+}
+
+.nav--page .nav__item small {
+  font-weight: bold;
+  color: $accent;
 }

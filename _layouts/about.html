@@ -6,7 +6,13 @@ layout: default
   <header class="article__header">
     {% include shared-includes/lead.html %}
   </header>
-  <article class="article article--center article--dropcaps article--nosubtitle">
-    {{ content | markdownify }}
-  </article>
+  <hr>
+  <div class="about">
+    <figure class="about__image">
+      <img src="http://placehold.it/350x350" alt="">
+    </figure>
+    <div class="about__text">
+      {{ content | markdownify }}
+    </div>
+  </div>
 </main>
