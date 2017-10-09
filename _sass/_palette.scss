@@ -12,6 +12,9 @@ $background: #ffffff;
 .article__header .lead a:link,
 .article__header .lead a:visited {
   color: $accent;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 64px;
 }
 
 .lead a:link,
