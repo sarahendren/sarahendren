@@ -1,0 +1,7 @@
+---
+title: it never was that way again
+date: 2017-10-10 09:29:00 -04:00
+published: false
+---
+
+"She remembered that day years later, out of al the flapping days, because she had vowed she would. She fancied that it would be difficult, or she would have vowed to remember every other day as well. For that was many years ago, and she was right; it was never again like that."
