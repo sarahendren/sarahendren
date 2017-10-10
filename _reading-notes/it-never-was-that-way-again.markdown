@@ -1,5 +1,5 @@
 ---
-title: it never was that way again
+title: it was never again like that
 date: 2017-10-10 09:29:00 -04:00
 published: false
 ---
