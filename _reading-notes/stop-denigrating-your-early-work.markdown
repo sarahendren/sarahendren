@@ -6,7 +6,7 @@ published: false
 
 Khakpour: I've been thinking a lot about your first book, Grimus, actually...
 
-Rushdie: Nobody really liked it when it came out...except ursula LeGuin. She's been my loyal critic from the very beginning.
+Rushdie: Nobody really liked it when it came out...except Ursula LeGuin. She's been my loyal critic from the very beginning.
 
 Khakpour: I think it's a great first novel.
 
