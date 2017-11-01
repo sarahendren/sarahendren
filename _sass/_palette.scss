@@ -99,3 +99,35 @@ blockquote p {
   font-weight: bold;
   color: $accent;
 }
+
+#home {
+  background: $primary;
+}
+
+#home article {
+  display: block;
+  width: 100vw;
+  height: 10vh;
+  z-index: -1;
+  position:absolute;
+    top: 0;
+    left: 0;
+}
+
+#home .site-header {
+  background: transparent;
+  height: 100vh;
+}
+
+#home .site-header {
+  position: relative;
+  display: block;
+}
+
+#home .nav--primary-container {
+  position: absolute;
+    bottom: 0;
+    left: 0;
+  display: block;
+  width: 100vw!important;
+}
