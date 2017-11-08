@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Six+Caps');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
+// Typography
+$base-font-family: 'Noto Serif', serif;
+$display-font-family: "Graphik Web", sans-serif;
+$heading-font-family: 'Six Caps', sans-serif;
+
+.nav__site-title,
+.title {
+  font-family: $heading-font-family;
+  font-weight: 100!important;
+}
+
+.nav__site-title {
+  font-size: 72px;
+  font-weight: 100;
+}
+
+.article__header .lead, 
+.article__header .lead a:link, 
+.article__header .lead a:visited {
+	font-family: $base-font-family;
+	text-transform: none!important;
+	font-size: 46px;
+}
+
+h2.title {
+  font-size: 2.776889em!important;
+}
+
+h1.title {
+	font-size: 4.776889em!important;
+}
