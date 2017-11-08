@@ -54,6 +54,8 @@ plugins:
 exclude:
 - node_modules
 - gulpfile.js
+include:
+- _redirects
 assets:
   prefix: "/assets"
   digest: true
