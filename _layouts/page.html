@@ -14,7 +14,9 @@ layout: default
         {% include shared-includes/byline.html %}
       </div>
     </section>
-    {{ page.content | markdownify }}
+    <section class="content">
+      {{ page.content | markdownify }}
+    </section>
     {% include shared-includes/page.html %}
   </article>
 </main>
