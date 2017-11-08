@@ -2,6 +2,9 @@
 title: sara hendren
 timezone: America/New_York
 collections:
+  posts:
+    title: Posts
+    output: true
   projects:
     title: Projects
     output: true
