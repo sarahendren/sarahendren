@@ -4,15 +4,15 @@ layout: default
 
 {% assign item = page %}
 <main class="main">
-  <article class="article article--center article--noimage">
+  <article class="article article--askew article--noimage">
     <section class="article__header">
-      {% include shared-includes/title-headline.html %}
-      {% include shared-includes/byline.html %}
-      {% if page.date-display != "DISPLAY DATE" %}
-        {% include shared-includes/date-display.html %}
-      {% else %}
+      <div class="article__header__date">
         {% include shared-includes/date-month-day-year.html %}
-      {% endif %}
+      </div>
+      <div class="article__header__title">
+        {% include shared-includes/title-headline.html %}
+        {% include shared-includes/byline.html %}
+      </div>
     </section>
     {{ page.content | markdownify }}
     {% include shared-includes/page.html %}
