@@ -7,10 +7,12 @@ layout: default
 <main class="main">
   <div class="content">
     <article class="article article--center">
-      {% include shared-includes/title-headline.html %}
-      {% include shared-includes/subtitle.html %}
-      {% include shared-includes/date-display.html %}
-      {% include shared-includes/byline.html %}
+      <section class="article__header">
+        {% include shared-includes/title-headline.html %}
+        {% include shared-includes/subtitle.html %}
+        {% include shared-includes/date-display.html %}
+        {% include shared-includes/byline.html %}
+      </section>
       {{ page.content | markdownify }}
       {% include shared-includes/page.html %}
     </article>

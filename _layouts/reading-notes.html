@@ -3,10 +3,6 @@ layout: default
 ---
 
 <main class="main">
-	<header class="main__header">
-		{% include shared-includes/lead.html text=page.welcome-text %}
-		{% include shared-includes/subhead.html %}
-	</header>
 	<div class="cards reading-notes">
 		{% for item in site.posts %}
 		{% include shared-includes/report.html %}
