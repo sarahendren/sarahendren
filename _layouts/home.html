@@ -19,6 +19,7 @@
 		<link rel="stylesheet" type="text/css" href="/css/infusion/SeparatedPanelPrefsEditor.css" />
 
 		<link rel="stylesheet" href="/css/main.css">
+		{% feed_meta %}
 	</head>
 	<body {% if page.collection %}class="body--subpage"{% endif %} id="{{ page.title | slugify }}">
 		<!--[if lt IE 8]>
