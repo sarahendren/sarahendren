@@ -51,7 +51,7 @@ plugins:
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-assets
-author: "Sara Hendren"
+author: Sara Hendren
 exclude:
 - node_modules
 - gulpfile.js
