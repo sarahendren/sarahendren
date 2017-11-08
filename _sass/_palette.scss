@@ -147,6 +147,30 @@ blockquote p {
   width: 100vw!important;
 }
 
+#home {
+  .nav__link--about {
+    background: url(/uploads/about.svg)!important;
+  }
+
+  .fl-prefsEditor-reset {
+    background: url(/uploads/reset.svg)!important;
+  }
+  .fl-prefsEditor-showHide {
+    background: url(/uploads/settings.svg)!important;
+  }
+}
+
+.nav__link--about {
+  background: url(/uploads/about-white.svg)!important;
+}
+
+.fl-prefsEditor-reset {
+  background: url(/uploads/reset-white.svg)!important;
+}
+.fl-prefsEditor-showHide {
+  background: url(/uploads/settings-white.svg)!important;
+}
+
 /* Video background */
 
 .videobg {
