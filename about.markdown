@@ -2,6 +2,7 @@
 title: about
 date: 2016-05-13 15:58:00 -04:00
 position: 1
+image: "/uploads/sara-hendren.png"
 welcome-text: Sara Hendren is an Artist, Designer, and Researcher in Residence at
   [Olin College of Engineering](http://www.olin.edu/), outside Boston, where she runs
   the [Adaptation \+ Ability Group](aplusa.org).

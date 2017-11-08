@@ -22,13 +22,28 @@ $heading-font-family: 'Six Caps', sans-serif;
 .article__header .lead a:visited {
 	font-family: $base-font-family;
 	text-transform: none!important;
-	font-size: 46px;
+	font-size: 36px;
+}
+
+.article__header {
+	padding: 1.5em 0 2.5em 0;
 }
 
 h2.title {
-  font-size: 2.776889em!important;
+	font-size: 3em!important;
+	text-transform: uppercase;
 }
 
 h1.title {
-	font-size: 4.776889em!important;
+	font-size: 5em!important;
+ 	text-transform: uppercase;
+}
+
+.date {
+	font-family: $display-font-family;
+	padding-top: .7em!important;
+}
+
+.figure__caption {
+	font-family: $base-font-family!important;
 }

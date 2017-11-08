@@ -51,6 +51,11 @@ body#home {
   background: #FFFEF1!important;
 }
 
+.figure__caption {
+    background: none;
+    color: $accent;
+}
+
 body#home #footer {
   margin-top: 0;
 }
@@ -85,23 +90,21 @@ hr {
 }
 
 blockquote {
-  margin: 15px;
+  margin: 25px;
   border-left: 7px solid $accent;
   font-style: italic;
 }
 
-blockquote p {
-  margin-left: 15px;
-}
-
 .article__header {
+  padding-bottom: 1.5em;
   border-bottom: 1px solid $accent!important;
+  margin-bottom: 1.5em;
 }
 
 
 .nav--page {
   border-top: 1px solid $accent;
-  margin-top:35px;
+  clear: both;
 }
 
 .nav--page .nav__item {
