@@ -2,11 +2,11 @@
 title: sara hendren
 timezone: America/New_York
 collections:
-  posts:
-    title: Posts
-    output: true
   projects:
     title: Projects
+    output: true
+  posts:
+    title: Reading Notes
     output: true
   talks-essays:
     title: Talks + Essays
