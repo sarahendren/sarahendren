@@ -8,7 +8,7 @@ layout: default
 		{% include shared-includes/subhead.html %}
 	</header>
 	<div class="cards reading-notes">
-		{% for item in site.posts reversed %}
+		{% for item in site.posts %}
 		{% include shared-includes/report.html %}
 		{% endfor %}
 		{{ content | markdownify }}
