@@ -13,8 +13,8 @@ The design community sort of wants it both ways, he seems to be saying. Asking d
 
 I like his ending:
 
-"If we really need to coin a phrase to describe an activity encompassing imaging, editing, narration, chronicling, performing, translating, organizing and directing, I'll conclude with a suggestion:
-
-designer = designer."
+> "If we really need to coin a phrase to describe an activity encompassing imaging, editing, narration, chronicling, performing, translating, organizing and directing, I'll conclude with a suggestion:
+> 
+> designer = designer."
 
 Thanks to Jarrett Fuller, who pointed me to Rock's work when I spoke with him [on his podcast](https://soundcloud.com/scratchingthesurfacefm/24-sara-hendren).
