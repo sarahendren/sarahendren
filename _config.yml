@@ -51,8 +51,7 @@ plugins:
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-assets
-author:
-  twitter: ablerism
+author: Sara Hendren
 exclude:
 - node_modules
 - gulpfile.js
