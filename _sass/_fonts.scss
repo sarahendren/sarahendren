@@ -6,10 +6,17 @@ $base-font-family: 'Noto Serif', serif;
 $display-font-family: "Graphik Web", sans-serif;
 $heading-font-family: 'Six Caps', sans-serif;
 
-.nav__site-title,
-.title {
+.nav__site-title {
   font-family: $heading-font-family;
   font-weight: 100!important;
+}
+
+.title {
+	font-family: $base-font-family;
+}
+
+h2.title {
+	margin-bottom: .25em!important;
 }
 
 .nav__site-title {
@@ -17,8 +24,8 @@ $heading-font-family: 'Six Caps', sans-serif;
   font-weight: 100;
 }
 
-.article__header .lead, 
-.article__header .lead a:link, 
+.article__header .lead,
+.article__header .lead a:link,
 .article__header .lead a:visited {
 	font-family: $base-font-family;
 	text-transform: none!important;
