@@ -1,9 +1,9 @@
 ---
 title: math melodrama
-date: 2017-11-16 12:35:00 -05:00
+date: 2017-11-24 10:35:00 -05:00
 ---
 
-My colleague [Oscar Mur-Miranda](http://olin.edu/faculty/profile/jose-oscar-mur-miranda) has been kind enough to walk me through some basics of higher mathematics in the last couple of years: the conics, especially, as I try to put together some thoughts linking the idea of *parabola* with the often-misunderstood work of *parables* in wisdom literature. 
+My colleague [Oscar Mur-Miranda](http://olin.edu/faculty/profile/jose-oscar-mur-miranda) has been kind enough to walk me through some basics of higher mathematics in the last couple of years: the conics especially, as I try to put together some thoughts linking the idea of *parabola* with the often-misunderstood work of *parables* in wisdom literature. 
 
 Sometimes, no kidding, what Oscar is telling me is so beautiful that I have to fight an emotional response—not just about the elegance of the ideas themselves, but at the profound loss I feel at having missed this *real math*—the not-about-numbers math, this mysterious-but-precise way of describing the world. Oscar was a classic prodigy; he's shown me his childhood notebooks full of equations in his third grade hand. He was working out the sublime at an early age, and I was missing it, over and over and over. The only glimmer in my memory is being in geometry class in rural Arkansas and idly enjoying the relative ease with which I could turn shapes in my head. Geometry came naturally, where algebra was intractably opaque. I chalked up my affinity for geometry to the same spatial capacities that made me into an art-kid, and I was probably right. But I never saw any reason to take the classes offered beyond what was absolutely required.
 
