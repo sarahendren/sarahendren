@@ -1,7 +1,6 @@
 ---
 title: math melodrama
 date: 2017-11-16 12:35:00 -05:00
-published: false
 ---
 
 My colleague [Oscar Mur-Miranda](http://olin.edu/faculty/profile/jose-oscar-mur-miranda) has been kind enough to walk me through some basics of higher mathematics in the last couple of years: the conics, especially, as I try to put together some thoughts linking the idea of *parabola* with the often-misunderstood work of *parables* in wisdom literature. 
@@ -14,4 +13,4 @@ So my sense loss was doubled when I came across David Foster Wallace's "Math Mel
 >
 >It may be that mathematics is not generally recognized as one of the arts precisely because so much pyramidal training and practice is required in order to appreciate its aesthetics; math is perhaps the ultimate in acquired tastes. And it's maybe because of math's absolute, wholly abstract Truth that so many people still view the discipline as dry and passionless and its practitioners as social dweebs.
 
-I was deluded by all these myths about math and mathematicians. But Wallace essentially says that A Mathematician's Apology by G.H. Hardy is the classic to read, so it's not too late! More on parabola/parable to come.
+I was deluded by all these myths about math and mathematicians. But Wallace essentially says that [A Mathematician's Apology](http://shop.harvard.com/search/site/a%20mathematician%27s%20apology) by G.H. Hardy is the classic to read, so it's not too late! More on parabola/parable to come.
