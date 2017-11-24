@@ -1,6 +1,6 @@
 ---
 title: math melodrama
-date: 2017-11-24 10:35:00 -05:00
+date: 2017-11-23 10:35:00 -05:00
 ---
 
 My colleague [Oscar Mur-Miranda](http://olin.edu/faculty/profile/jose-oscar-mur-miranda) has been kind enough to walk me through some basics of higher mathematics in the last couple of years: the conics especially, as I try to put together some thoughts linking the idea of *parabola* with the often-misunderstood work of *parables* in wisdom literature. 
