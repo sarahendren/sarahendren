@@ -1,6 +1,8 @@
 ---
 title: designer as
 date: 2017-10-04 12:01:00 -04:00
+tags:
+- design
 ---
 
 ![eyeo new nouns jpg-901b6f.jpg](/uploads/eyeo%20new%20nouns%20jpg-901b6f.jpg)

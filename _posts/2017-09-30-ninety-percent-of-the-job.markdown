@@ -1,6 +1,8 @@
 ---
 title: ninety percent of the job
 date: 2017-09-30 08:57:00 -04:00
+tags:
+- design
 ---
 
 I loved [this interview with Rory Hyde](http://yalepaprika.com/interview-with-rory-hyde/):

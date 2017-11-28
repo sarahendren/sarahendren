@@ -1,6 +1,8 @@
 ---
 title: reminiscence of being a woman
 date: 2017-10-18 21:28:00 -04:00
+tags:
+- feminism
 ---
 
 ![iGNANT_Art_Csilla_Klenyanszki_The_Reminiscence_Of_Being_A_Woman_10-1080x720.jpg](/uploads/iGNANT_Art_Csilla_Klenyanszki_The_Reminiscence_Of_Being_A_Woman_10-1080x720.jpg)

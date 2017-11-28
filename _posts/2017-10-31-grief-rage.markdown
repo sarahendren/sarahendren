@@ -1,6 +1,8 @@
 ---
 title: grief, rage
 date: 2017-10-31 21:51:00 -04:00
+tags:
+- reading
 ---
 
 > "What was this? Not grief. Grief she knew. Grief was the stepsibling they'd grown up with, unwanted and inevitable. Grief the amniotic fluid of their lives. Grief she could look in the eyes while her twin stared over its shoulder and told her of the world that lay beyond. Grief changed its shape to fit your contours—enveloping you as a second skin you eventually learned to slip into and resume your life. Grief was the deal God struck with the angel of death, who wanted an unpassable river to separate the living from the dead; grief the bridge that would allow the dead to flit among the living, their footsteps overhead, their laughter around the corner, their posture recognizable in the bodies of strangers you would follow down the street, willing them never to turn around. Grief was what you owed the dead for the necessary crime of living on without them.
