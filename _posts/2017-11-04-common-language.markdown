@@ -1,6 +1,9 @@
 ---
 title: common language
 date: 2017-11-04 13:00:00 -04:00
+tags:
+- language
+- travel
 ---
 
 I've spent the last 72 hours in Montreal and in southern Belgium. In these places, every encounter starts with the question of which language we'll proceed to speak, and always it's a mishmash: some French, some English, and even a bit of the Flemish/Dutch that I learned some 15 years ago now.
