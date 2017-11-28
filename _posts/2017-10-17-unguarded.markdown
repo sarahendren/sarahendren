@@ -1,6 +1,8 @@
 ---
 title: unguarded
 date: 2017-10-17 11:17:00 -04:00
+tags:
+- writing
 ---
 
 Couldn't help but love coming across novelist Jim Harrison's saying that he'd "rather give full vent to all human loves and disappointments, and take a chance on being corny, than die a smartass." A thousand times yes. "Giving full vent" is surely part of [writing to learn](http://sarahendren.com/reading-notes/to-grow-and-cook-a-message/), and full of [getting it wrong](http://blog.ayjay.org/writing-by-the-always-wrong/). But you're there, in it—you're after the formal representation of the real thing, awake and alert to life and how to describe its weirdness in the most precise language you can muster, not hiding behind cleverness. 

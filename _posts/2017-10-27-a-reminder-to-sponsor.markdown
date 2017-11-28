@@ -1,6 +1,8 @@
 ---
 title: a reminder to sponsor
 date: 2017-10-27 10:27:00 -04:00
+tags:
+- feminism
 ---
 
 Autumn 2017 seems to be as good a time as any to remind you: [there's a difference between mentoring and sponsoring women](https://siliconslopes.com/want-more-women-in-tech-dont-just-mentor-sponsor-106f6e3d529f) and their work. This is for men and for senior women too: You can talk all day about women you respect, admire, even that you think are brilliant at what they do. But it's another step altogether to say: You should lead, you should run this initiative, you're the visionary who's the most capable. Step up if you want; I'll recommend you. You're the one most qualified. It's your voice that's needed. Full stop.
