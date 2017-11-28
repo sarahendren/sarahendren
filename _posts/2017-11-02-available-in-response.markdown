@@ -4,7 +4,7 @@ date: 2017-11-02 19:54:00 -04:00
 published: false
 ---
 
-Rob Giampietro's [Lined and Unlined](https://linedandunlined.com/archive/being-available) had this excerpt from Lawrence Weschler's terrific book on the artist Robert Irwin, [Seeing is Forgetting the Name of the Thing One Sees](http://shop.harvard.com/search/site/seeing+is+forgetting), way back in 2010. I had read *Seeing* in the late 90s and since then, I can pretty much predict that Irwin People will almost always be My People too. But in 2010, and now, the part that particularly resonates is this idea of Irwin's on his practices of aesthetic encounters in the late 60s and early 70s: being *available in response.*
+Rob Giampietro's [Lined and Unlined](https://linedandunlined.com/archive/being-available) had this excerpt from Lawrence Weschler's terrific book on the artist Robert Irwin, [Seeing is Forgetting the Name of the Thing One Sees](http://shop.harvard.com/search/site/seeing+is+forgetting), way back in 2010. I had read *Seeing* in the late 90s and since then, I can pretty much predict that Irwin People will almost always be My People too.* But in 2010, and now, the part that particularly resonates is this idea of Irwin's on his practices of aesthetic encounters in the late 60s and early 70s: being *available in response.*
 
 >"I just sort of let it be known that I was available, in a way like I’m saying it to you. I mean, I didn’t put out any ads or anything, but word got around. And you could be, let’s say, up at UCLA, and you’d say, ‘Well, let’s take advantage of that. We’ll have him come up and talk to the students.’ And that’s what I’d do. Or, ‘We’ll have him come up and do a piece on the patio.’ And I would just come up and do that.
 >
@@ -18,5 +18,5 @@ The availability thing really came alive, though, when I spent a couple of days 
 
 I got a little glimpse of this, too, when just a couple of weeks ago I spent time with students in the ID2 program of the Angewandte (university for applied arts) in Vienna. Students were at a halfway point in their course, which had nothing to do with disability. I came and introduced some ideas, and then they prototyped rapidly: a series of responses, held in the provisional. There are so many reasons this kind of workshop should ultimately fail. The teacher drops in from outside; there's no extrinsic motive for them to come along for your invitation. When it works, it's because of availability in response. I'll be wholly here, holding space for you to do some good work.
 
-
+*If you want more Irwin, I strongly recommend the documentary on him and his work, [The Beauty of Questions](http://www.worldcat.org/title/robert-irwin-the-beauty-of-questions/oclc/61432058).
 
