@@ -24,7 +24,7 @@ of love’s austere and lonely offices?<br/>
 
 (via the [Poetry Foundation](https://www.poetryfoundation.org/poems/46461/those-winter-sundays))
 
-All the discussion sent me back back back some 25 years to when I first fell hard for poetry as an undergraduate. It was my professors [Jill Palaez Baumgaertner](https://www.wheaton.edu/academics/programs/english/faculty/faculty-emeriti/jill-pelaez-baumgaertner-phd/) and Gail Kienitz who really blew open the doors for me, helping me see what language could do. And Zapruder's text made me re-connect again with the poets who meant most to me in those days: Denise Levertov, Marianne Moore, Elizabeth Bishop. But this one, Peeling Onions, this little humble thing by Adrienne Rich is the one poem that lives with me most, oddly. Day in and day out:
+All the discussion sent me back back back some 25 years to when I first fell hard for poetry as an undergraduate. It was my professors [Jill Palaez Baumgaertner](https://www.wheaton.edu/academics/programs/english/faculty/faculty-emeriti/jill-pelaez-baumgaertner-phd/) and Gail Kienitz who really blew open the doors for me, helping me see what language could do. And Zapruder's reading made me re-connect again with the poets who meant most to me in those days: Denise Levertov, Marianne Moore, Elizabeth Bishop. But this one, Peeling Onions, this little humble thing by Adrienne Rich is the one poem that lives with me most, oddly. Day in and day out:
 
 >Only to have a grief<br/>
 equal to all these tears!
