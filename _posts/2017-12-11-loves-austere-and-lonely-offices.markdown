@@ -5,7 +5,7 @@ date: 2017-12-11 15:35:00 -05:00
 
 I went to hear Matthew Zapruder and Alex Zapruder [at the Houghton Library](http://houghton75.org/?event=the-artifactual-consciousness-a-nonfiction-poetry-reading-and-discussion) last week, both of whom were interviewed by [Michael Downing](http://michaeldowningbooks.com/)—and what a terrific conversation, about language, memory, history, and more. Matthew read his own poems and passages from his new book, [Why Poetry](https://www.harpercollins.com/9780062343079/why-poetry), including a discussion of Richard Hayden's "Those Winter Sundays," which is surely never more appropriate than at this time of year, when we're in mixed company with our families:
 
-Sundays too my father got up early 
+Sundays too my father got up early<br/> 
 and put his clothes on in the blueblack cold, 
 then with cracked hands that ached 
 from labor in the weekday weather made 
