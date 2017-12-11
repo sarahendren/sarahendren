@@ -2,7 +2,7 @@
 title: first book!
 date: 2017-01-07 16:45:00 -05:00
 position: 0
-image: "/uploads/riverheadlogo.jpg"
+image: "/uploads/Riverhead-PRH-logo-1.jpg"
 image-caption: a series of variations on the Riverhead R logo, from their Tumblr site
 date-display: Dec 2016-ongoing
 ---
