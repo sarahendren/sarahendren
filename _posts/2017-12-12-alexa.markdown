@@ -1,7 +1,6 @@
 ---
 title: alexa / snips
-date: 2017-12-07 16:00:00 -05:00
-published: false
+date: 2017-12-12 14:00:00 -05:00
 ---
 
 Sometime in the past year my son, nearly 12 and has Down syndrome, got to play with Alexa at a friend's house. I only knew this once I went to pick him up, and he exclaimed over how much he loved it. My friends, fellow parents, enjoyed his pleasure so much that they offered to buy him one as a gift that Christmas. I stifled a *hell no,* but it gave me pause.
