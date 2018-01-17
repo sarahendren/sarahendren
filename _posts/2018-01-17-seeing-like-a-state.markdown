@@ -3,7 +3,7 @@ title: a rat is killed, a man broken, a horse splashes
 date: 2018-01-17 09:36:00 -05:00
 ---
 
-It's hard not to read James Scott's [Seeing Like A State: How Certain Schemes to Improve the Human Condition Have Failed](https://yalebooks.yale.edu/book/9780300078152/seeing-state) without thinking about the hubris, homogenizing effects, and unforeseen social consequences of a platform like Facebook, and the obsession with arbitrarily "optimized" scalable media in general:
+It's hard not to read James Scott's [Seeing Like A State: How Certain Schemes to Improve the Human Condition Have Failed](https://yalebooks.yale.edu/book/9780300078152/seeing-state) without thinking about the hubris, the homogenizing effects, the unforeseen social consequences of a platform like Facebook, and the obsession with arbitrarily "optimized" scalable media in general:
 
 >What is perhaps most striking about high-modernist schemes, despite their quite genuine egalitarian and often socialist impulses, is how little confidence they repose in the skills, intelligence, and experience of ordinary people. This is clear enough in the Taylorist factory, where the logic of work organization is to reduce the factory hands' contribution to a series of repetitive, if practiced, movements—operations as machine-like as possible... The more ambitious and meticulous the plans, the less is left, theoretically, to change and to local initiative and experience.
 
@@ -21,7 +21,7 @@ And later:
 
 Note, too:
 
->This analysis of high modernism, then, may appear to be to be a case for the invisible hand of market coordination as opposed to centralized economies. An important caution, however, is in order. The market itself is an instituted, formal system of coordination, despite the elbow room that it provides to its participants, and it is therefore similarly dependent on a larger system of social relations which its own calculus does not acknowledge and which it can neither create nor maintain. Here I have in mind not only the obvious elements of contract and property law, as well as the state's coercive power to enforce them, but antecedent patters and norms of social trust, community, and cooperation, without which market exchange is inconceivable. Finally, and most importantly, the economy is "a subsystem of a finite and non-growing ecosystem," whose carrying capacity and interactions it must respect as a condition of its persistence.
+>This analysis of high modernism, then, may appear to be a case for the invisible hand of market coordination as opposed to centralized economies. An important caution, however, is in order. The market itself is an instituted, formal system of coordination, despite the elbow room that it provides to its participants, and it is therefore similarly dependent on a larger system of social relations which its own calculus does not acknowledge and which it can neither create nor maintain. Here I have in mind not only the obvious elements of contract and property law, as well as the state's coercive power to enforce them, but antecedent patterns and norms of social trust, community, and cooperation, without which market exchange is inconceivable. Finally, and most importantly, the economy is "a subsystem of a finite and non-growing ecosystem," whose carrying capacity and interactions it must respect as a condition of its persistence.
 
 He ends with four modest proposals for social engineering and planner types to do better, but of course they're relevant for designers too:
 
