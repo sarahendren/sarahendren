@@ -1,5 +1,5 @@
 ---
-title: not in any particular order, and not a gospel
+title: not in any particular order, and not exactly a gospel, but
 date: 2018-03-06 15:54:00 -05:00
 ---
 
