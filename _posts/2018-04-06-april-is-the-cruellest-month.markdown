@@ -15,7 +15,7 @@ Winter kept us warm, covering<br />
 Earth in forgetful snow, feeding<br />
 A little life with dried tubers.<br />
 >
->Think for a moment is this were written in prose. Would you find it confusing? Maybe a bit elusive—what is the point, why is he telling us this?—but not mystifying. There is not a single complicated word in the passage.
+>Think for a moment if this were written in prose. Would you find it confusing? Maybe a bit elusive—what is the point, why is he telling us this?—but not mystifying. There is not a single complicated word in the passage.
 >
 >The poem begins with an odd, subjective assertion: "April is the cruellest month." Why? Things are starting to come alive again. Our expectations are low in winter: we are just trying to survive. In spring, big things start to happen, "Memory and desire." The "Dull roots" are starting to come to life again, because of the spring rain. The poem talks about the month like it's a person, asserting that it is somehow responsible for "breeding" these flowers—lilacs—out of the dead land. The elements of time–April and winter—are personified, and switch their usual roles, April becoming something cruel and terrible, because it starts to make us aware of some things we might have forgotten: memory and desire.
 >
