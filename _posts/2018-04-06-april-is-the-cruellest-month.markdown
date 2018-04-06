@@ -7,13 +7,13 @@ Those of us on the east coast are starting April with snow and wind and rain, th
 
 >Before the beginning of The Waste Land there is a short epigraph in both Latin and Greek, a quote about an ancient Greek oracle known as the Sybil, from The Satyricon by Petronius. Despite what we might have been told by scholars and teachers, our ultimate understanding of the poem does not depend upon this immediate demand for erudition. Yes this demand can be so intimidating and destabilizing that it establishes a certain mentality about reading poetry, such that when the poem itself begins, we might not notice that it is written in plain English that anyone can read: 
 >
->April is the cruellest month, breeding
-Lilacs out of the dead land, mixing
-Memory and desire, stirring
-Dull roots with spring rain.
-Winter kept us warm, covering
-Earth in forgetful snow, feeding
-A little life with dried tubers.
+>April is the cruellest month, breeding<br />
+Lilacs out of the dead land, mixing<br />
+Memory and desire, stirring<br />
+Dull roots with spring rain.<br />
+Winter kept us warm, covering<br />
+Earth in forgetful snow, feeding<br />
+A little life with dried tubers.<br />
 >
 >Think for a moment is this were written in prose. Would you find it confusing? Maybe a bit elusive—what is the point, why is he telling us this?—but not mystifying. There is not a single complicated word in the passage.
 >
