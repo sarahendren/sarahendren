@@ -1,5 +1,5 @@
 ---
-title: april is the cruellest month
+title: april is the cruelest month
 date: 2018-04-06 14:04:00 -04:00
 ---
 
