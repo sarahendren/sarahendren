@@ -3,7 +3,7 @@ title: april is the cruelest month
 date: 2018-04-06 14:04:00 -04:00
 ---
 
-Those of us on the east coast are starting April with snow and wind and rain, the stuff of deep winter. We lie in wait. So it was a particularly beautiful provocation to read this excerpt and commentary by Matthew Zapruder in his new book, [Why Poetry](https://shop.harvard.com/book/9780062343079) on T.S. Eliot's poem, The Waste Land. I'm thinking not just about the work of poetry but the promise usually associated with our current spot on the calendar:
+Those of us on the east coast are starting April with snow and wind and rain, the stuff of deep winter. We lie in wait. So it was a particularly beautiful provocation to read this excerpt and commentary by Matthew Zapruder in his new book, [Why Poetry](https://shop.harvard.com/book/9780062343079) on T.S. Eliot's poem, *The Waste Land*. I'm thinking not just about the work of poetry but the promise usually associated with our current spot on the calendar:
 
 >Before the beginning of The Waste Land there is a short epigraph in both Latin and Greek, a quote about an ancient Greek oracle known as the Sybil, from The Satyricon by Petronius. Despite what we might have been told by scholars and teachers, our ultimate understanding of the poem does not depend upon this immediate demand for erudition. Yes this demand can be so intimidating and destabilizing that it establishes a certain mentality about reading poetry, such that when the poem itself begins, we might not notice that it is written in plain English that anyone can read: 
 >
