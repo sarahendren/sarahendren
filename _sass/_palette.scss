@@ -30,7 +30,7 @@ $background: #ffffff;
   .nav--cross .nav__link:visited {
     color: $primary!important;
     text-decoration: none;
-  }  
+  }
 }
 
 .nav--cross .nav__site-title a:link,
@@ -92,7 +92,6 @@ hr {
 blockquote {
   margin: 25px;
   border-left: 7px solid $accent;
-  font-style: italic;
 }
 
 .article__header {
@@ -203,7 +202,7 @@ blockquote {
   margin: auto;
   padding-bottom: 56.25%; /* 16:9 ratio */
   overflow: hidden;
-  
+
 }
 
 .videobg-make-height {
@@ -218,7 +217,7 @@ blockquote {
   width: 100%;
   /* Vimeo timeline and play button are ~55px high */
   padding: 55px 97.7777px; /* 16:9 ratio */
-  top: -55px; 
+  top: -55px;
   left: -97.7777px; /* 16:9 ratio */
 }
 
