@@ -1,7 +1,6 @@
 ---
 title: decentering, unselfing, adjacency, equality
 date: 2018-05-27 20:21:00 -04:00
-published: false
 ---
 
 I've been revisiting Elaine Scarry's [On Beauty and Being Just](https://www.indiebound.org/book/9780691089591), which I first encountered many years ago via Zadie Smith's novel inspired by it, called [On Beauty](https://www.indiebound.org/book/9780143037743). The first part of the book is a lengthy qualification of what is meant by beauty; Scarry understands the notion as a capacious one, not allied with symmetry and lyricism, or verisimilitude and replication, or the legacy of Anglo-European aesthetics. Trust me on that one; it's a big notion of the beautiful that I can't do justice to here. What I'm thinking a lot about now is the ways she has enumerated the "great work of labor" she says that we do when we attend the beautiful and let ourselves be influenced by it. Namely below, where she cites the writer Iris Murdoch to set up this analysis of "unselfing": 
