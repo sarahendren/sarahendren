@@ -1,5 +1,5 @@
 ---
-title: thinking and making and thinking through making
+title: a journalist and a furniture maker
 date: 2018-05-28 12:31:00 -04:00
 published: false
 ---
