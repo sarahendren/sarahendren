@@ -1,5 +1,5 @@
 ---
-title: decentering, unselfing, adjacency, equality
+title: 'art at work: unselfing, donor figures, opiated adjacency'
 date: 2018-05-27 20:21:00 -04:00
 ---
 
