@@ -16,7 +16,7 @@ Not only that, but having parents and others with substantial work-life ties cre
 
 Happily, residencies finally seem to be coming around to this insight! In addition to Yaddo, the residency programs at MacDowell, Vermont Studio Center, and others now have two week minimums. The very exciting Sustainable Arts Foundation supports individual artists and co-sponsors specific residency programs for parents. And take a look at this Family Residency at Marble House in Vermont! What a beautiful innovation.
 
-But there are other ways to think about short-term engagements 
+But there are other ways to think about short-term engagements inside standard structures that are longer. When I approached Tom Jennings of the Carey Institute, he immediately suggested two two-week sessions, dates for which we could work out separately, if my application was successful. We co-designed the date range; 
 
 
 
