@@ -1,7 +1,6 @@
 ---
 title: residency re-imagined
-date: 2018-05-04 12:17:00 -04:00
-published: false
+date: 2018-05-31 12:17:00 -04:00
 ---
 
 I recently returned from round two of my four-week residency at the [Carey Institute for Global Good](https://careyinstitute.org/programs/nonfiction/). I was a Logan Non-fiction Fellow, working in the company of journalists, documentary filmmakers, and photojournalists on our respective longform projects addressing socio-political topics. It was a fantastic time, socially and for my book, and I was only able to do it because I asked the Carey folks to flex their structure for me. Normally stays there last between 4 and 10 weeks, and my life with three children doesn't allow for that. So I asked [Tom Jennings](https://www.pbs.org/wgbh/frontline/person/tom-jennings/), the director, if he could help me create a structure that *would* work, and together, we did. Two weeks at the start of the session, the better to cement my relationships with others who would just be arriving, and then two weeks near the end of the session. 
