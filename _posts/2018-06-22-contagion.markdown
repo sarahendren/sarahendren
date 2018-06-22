@@ -1,5 +1,5 @@
 ---
-title: contagion
+title: contagion and quality of life
 date: 2018-06-22 19:26:00 -04:00
 ---
 
