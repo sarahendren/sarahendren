@@ -11,5 +11,5 @@ You get trade-offs with using art monster or media inventor: trade-offs between 
 
 For me, it's *form giver.* That's the phrase I ended up generating when my friend Diana asked me, in a pointed conversation: "*Who are you really*?" Who am I? Artist-designer-researcher-writer and erstwhile engineering "facilitator"? At its most essential, it's form giver: a person who has to sense and synthesize in concrete modes, where the modes are every bit as interesting a teacher as is the content  of the work, and where the need for new and alternate kinds of engagement wins out over deep expertise in one medium. 
 
-
+Note: I gave a talk about this topic a couple of years ago at Eyeo: [a process talk](https://sarahendren.com/talks-essays/design-for-know-nothings-dilettantes-and-melancholy-interlopers-eyeo-2016/) about design where finding new nouns and verbs is an essential part of what I do. That talk is a little weird, threatening to go off the rails at multiple points, but I'm still proud of it.
 
