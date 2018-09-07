@@ -1,7 +1,6 @@
 ---
 title: rethinking table fellowship
 date: 2018-09-07 15:58:00 -04:00
-published: false
 ---
 
 Earlier this year, I read Sunaura Taylor's book, [Beasts of Burden](https://www.indiebound.org/book/9781620971284)—wolfed it down, as it were, in a couple of days. It's full of excellent analysis all around, linking together animal ethics and disability rights in ways I'd never considered. But it's the way she tackles Michael Pollan's notion of "table fellowship" that has stayed with me so profoundly, and it's this analysis that got me all the way to vegan, starting in January. You can read the book, or you can read this excellent article that pre-figures that chapter here: [Vegans, Freaks, and Animals: Toward a New Table Fellowship](https://foodethics.univie.ac.at/fileadmin/user_upload/inst_ethik_wiss_dialog/Taylor__Sunaura_2013._Vegans__Freaks__and_Animals..pdf).
