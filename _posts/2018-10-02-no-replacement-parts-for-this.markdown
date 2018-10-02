@@ -1,7 +1,6 @@
 ---
 title: no replacement parts for this
 date: 2018-10-02 11:58:00 -04:00
-published: false
 ---
 
 So few people in my design-and-disability networks will read [this devastating piece by Rachel Aviv for the New Yorker](https://www.newyorker.com/magazine/2018/10/01/georgias-separate-and-unequal-special-education-system) about the ways race compounds the mistreatment and neglect of children with developmental disabilities in this country. That's because it's not visually compelling; it's not about products; it's not about stuff you can point to that's beautifully human-centered in its design. Nothing "universal" and clever about this as a systems-design failure. It's the most challenging subject there is: service design that affects some of the most vulnerable people alive. 
