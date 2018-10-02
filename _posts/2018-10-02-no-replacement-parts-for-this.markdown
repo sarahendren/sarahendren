@@ -1,0 +1,7 @@
+---
+title: no replacement parts for this
+date: 2018-10-02 11:58:00 -04:00
+published: false
+---
+
+Data obtained through records requests reveal that the percentage of students in the gnets program who are black boys is double that of the public schools in the state. Most of the students in gnets are classified as having an “emotional and behavioral disorder,” a vague label that does not correspond to any particular medical diagnosis. A teacher who worked for five years at a gnets program called Coastal Academy, in Brunswick, told me, “We always had a sprinkling of middle-class white kids, maybe two or three, but they didn’t stay long. Everyone made sure they got out. It was the black students who were trapped there. They came in first grade and never left.” Coastal Academy occupies a lot that once held an all-black school, originally called the Freedman’s School, and the percentage of black males in the program is three times that of the districts that the school draws from. The teacher, who worried that she’d lose her job if she were identified, said that public schools in the area would “send the African-American kids to us for doing things like saying the word ‘shit’ in class or pushing a chair in really loudly. They would never, ever—never in a million years—attempt to come at a white parent with that.”
