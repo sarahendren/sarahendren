@@ -3,7 +3,7 @@ title: history is contingency
 date: 2018-10-12 11:13:00 -04:00
 ---
 
-In the early 2000s, I was in graduate school for the first time around, in the History department at UCLA. During a holiday break, one of my relatives asked me baldly what I think a lot of smart people assume about the historical enterprise: "Are you folks still trying to find out, you know, *what happened*?"
+In the early 2000s, I was in graduate school for the first time around, in the History department at UCLA. During a holiday break, one of my very smart relatives asked me point-blank: "Are you folks still trying to find out, you know, *what happened*?"
 
 Well, yes, in a manner of speaking. Because "what happened" is never just one story or account, and any one story is inevitably shaped by generational concerns. And stories are foregrounded and suppressed for all kinds of reasons. To misquote Proust: the historian's job in the 21st century is sometimes about finding new material in archives; it's more often about having new eyes for what's already there.  
 
