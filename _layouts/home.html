@@ -26,14 +26,7 @@
 			<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 		<![endif]-->
 
-		<header class="site-header">
-			{% include shared-includes/cross.html %}
-			<div class="nav--primary-container">
-				{% include shared-includes/primary.html %}
-			</div>
-		</header>
-
-		<div class="flc-toc-tocContainer toc"></div>
+		<!-- <div class="flc-toc-tocContainer toc"></div> -->
 
 		<article id="home__video-container">
 			<div class="videobg">
@@ -49,7 +42,12 @@
 			</div>
 		</article>
 
-		{% include shared-includes/footer.html %}
+		<div class="home__intro-container">
+			{{ page.welcome-text | markdownify }}
+			<a class="primary" href="#">More →</a>
+		</div>
+
+		<!-- {% include shared-includes/footer.html %} -->
 
 		<script type="text/javascript" src="//code.jquery.com/jquery-3.0.0.min.js" data-no-instant></script>
 

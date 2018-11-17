@@ -3,6 +3,7 @@ title: home
 date: 2016-05-01 14:28:00 Z
 permalink: "/"
 position: 0
+welcome-text: <b>sara hendren</b> is an artist, design researcher, writer, and professor. Her brain is inconveniently full of restless questions, many of which get housed in projects.
 layout: home
 ---
 

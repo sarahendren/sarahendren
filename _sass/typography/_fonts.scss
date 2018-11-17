@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Six+Caps');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
+@font-face {
+  font-family: 'Pitch Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Pitch Sans'),
+       url('../../fonts/pitch_sans/PitchSansWeb-Regular.woff2') format('woff2'),
+       url('../../fonts/pitch_sans/PitchSansWeb-Regular.woff') format('woff'),
+       url('../../fonts/pitch_sans/PitchSansWeb-Regular.eot') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Pitch Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Pitch Sans Italic'),
+       url('../../fonts/pitch_sans/PitchSansWeb-RegularItalic.woff2') format('woff2'),
+       url('../../fonts/pitch_sans/PitchSansWeb-RegularItalic.woff') format('woff'),
+       url('../../fonts/pitch_sans/PitchSansWeb-RegularItalic.eot') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Pitch Sans';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Pitch Sans Italic'),
+  url('../../fonts/pitch_sans/PitchSansWeb-Bold.woff2') format('woff2'),
+  url('../../fonts/pitch_sans/PitchSansWeb-Bold.woff') format('woff'),
+  url('../../fonts/pitch_sans/PitchSansWeb-Bold.eot') format('embedded-opentype');
+}
+
+// Typography
+$base-font-family: 'Pitch Sans', sans-serif;
+$display-font-family: "Graphik Web", sans-serif;
+$heading-font-family: 'Six Caps', sans-serif;
+
+.nav__site-title {
+  font-family: $heading-font-family;
+  font-weight: 100!important;
+}
+
+.title {
+	font-family: $base-font-family;
+}
+
+h2.title {
+	margin-bottom: .25em!important;
+}
+
+.nav__site-title {
+  font-size: 72px;
+  font-weight: 100;
+}
+
+.article__header .lead,
+.article__header .lead a:link,
+.article__header .lead a:visited {
+	font-family: $base-font-family;
+	text-transform: none!important;
+	font-size: 36px;
+}
+
+.article__header {
+	padding: 1.5em 0 2.5em 0;
+}
+
+.date {
+	font-family: $display-font-family;
+	padding-top: .7em!important;
+}
+
+.figure__caption {
+	font-family: $base-font-family!important;
+}
