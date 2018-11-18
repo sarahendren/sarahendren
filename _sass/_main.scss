@@ -1,8 +1,12 @@
 // base
 @import "base/palette";
+@import "../node_modules/flexboxgrid/dist/flexboxgrid.min.css";
+@import "base/layout";
 // typography
 @import "typography/links";
 @import "typography/fonts";
+@import "typography/lists";
+// components
+@import "components/footer";
 // pages
 @import "pages/home";
-

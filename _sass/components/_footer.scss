@@ -1,0 +1,30 @@
+footer {
+  background: $primary;
+  color: $white;
+  padding-bottom: 2rem;
+
+  a {
+    color: $white;
+  }
+
+  section.colophon__section {
+    padding: 1rem 1.5rem;
+    p {
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+  }
+
+  .colophon__section--menu {
+    background: $white;
+    font-size: 2rem;
+    li {
+      margin-bottom: .5rem;
+    }
+    a {
+      color: black;
+      font-weight: bold;
+      text-decoration: none;
+    }
+  }
+}

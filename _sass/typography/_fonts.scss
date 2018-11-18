@@ -33,12 +33,12 @@
 
 // Typography
 $base-font-family: 'Pitch Sans', sans-serif;
-$display-font-family: "Graphik Web", sans-serif;
-$heading-font-family: 'Six Caps', sans-serif;
+
+body {
+  font-family: $base-font-family;
+}
 
 .nav__site-title {
-  font-family: $heading-font-family;
-  font-weight: 100!important;
 }
 
 .title {
@@ -67,7 +67,6 @@ h2.title {
 }
 
 .date {
-	font-family: $display-font-family;
 	padding-top: .7em!important;
 }
 
