@@ -1,0 +1,90 @@
+.nav__item--icon {
+  line-height: 15px;
+}
+
+.nav--primary {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+ul.nav__list {
+  display: flex;
+  flex-direction: column;
+
+  @media only screen and (min-width: 48em) {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+  }
+
+  .nav__item {
+    font-size: 1.25rem;
+  }
+}
+
+h1.header__title {
+  align-items: center;
+  display: flex;
+  margin-right: 1rem;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.in__line {
+  display: flex;
+  flex-grow: 1;
+}
+
+.at__end {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  right: 25px;
+  top: 32px;
+  @media only screen and (min-width: 64em) {
+    position: relative;
+    right: unset;
+    top: unset;
+  }
+}
+
+ul.nav__setting {
+  display: flex;
+  align-items: center;
+}
+
+.nav__link--about {
+  overflow: hidden;
+  text-indent: 101%;
+  white-space: nowrap;
+  display: block;
+  width: 20px;
+  height: 20px;
+  background: url(/uploads/about.svg);
+  background-size: cover;
+}
+
+span.fl-prefsEditor-buttons {
+  margin-left: .25rem;
+}
+
+.fl-prefsEditor-reset {
+  margin-right: -6px;
+}
+
+.fl-prefsEditor-separatedPanel .fl-prefsEditor-reset, .fl-prefsEditor-separatedPanel .fl-prefsEditor-showHide {
+  overflow: hidden;
+  cursor: pointer;
+  text-indent: 101%;
+  white-space: nowrap;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  min-width: 0;
+}
