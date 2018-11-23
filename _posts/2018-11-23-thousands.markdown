@@ -11,6 +11,6 @@ date: 2018-11-23 16:00:00 -05:00
 >
 >“No answer? You mean we’re just doomed?” He smiled as though he thought this might be a joke.
 >
->“No,” I said. “I mean there’s no single answer that will solve all of our future problems. There’s no magic bullet. Instead there are thousands of answers–at least. You can be one of them if you choose to be.”
+>“No,” I said. “I mean there’s no single answer that will solve all of our future problems. There’s no magic bullet. Instead there are thousands of answers—at least. You can be one of them if you choose to be.”
 
 Octavia Butler, [A Few Rules for Predicting the Future](http://kalamu.com/neogriot/2013/07/09/history-octavia-butler-gave-us-a-few-rules-for-predicting-the-future/), via [Tim Maly](http://quietbabylon.com/) and [Mandy Brown](http://aworkinglibrary.com/)
