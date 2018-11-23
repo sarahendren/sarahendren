@@ -36,40 +36,15 @@ $base-font-family: 'Pitch Sans', sans-serif;
 
 body {
   font-family: $base-font-family;
+  line-height: 1.2;
 }
 
-.nav__site-title {
+html {
+  font-size: 16px;
 }
 
-.title {
-	font-family: $base-font-family;
-}
-
-h2.title {
-	margin-bottom: .25em!important;
-}
-
-.nav__site-title {
-  font-size: 72px;
-  font-weight: 100;
-}
-
-.article__header .lead,
-.article__header .lead a:link,
-.article__header .lead a:visited {
-	font-family: $base-font-family;
-	text-transform: none!important;
-	font-size: 36px;
-}
-
-.article__header {
-	padding: 1.5em 0 2.5em 0;
-}
-
-.date {
-	padding-top: .7em!important;
-}
-
-.figure__caption {
-	font-family: $base-font-family!important;
+p {
+  width: 100%;
+  white-space: normal;
+  word-wrap: break-word;
 }

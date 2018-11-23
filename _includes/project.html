@@ -1,0 +1,18 @@
+<div class="row projects__list_item">
+    <div class="col-xs-12 col-md-2">
+        {% include shared-includes/date-display.html %}
+    </div>
+    <div class="col-xs-12 col-md-6">
+        <a class="projects__title" href="{{ item.url }}">
+            {% include shared-includes/title.html %}
+        </a>
+    </div>
+    <div class="col-xs-12 col-md-2">
+        <p>{{ item.type }}</p>
+    </div>
+    <div class="col-xs-12 col-md-2">
+        {% for tag in item.tags %}
+        <p>{{ tag }}</p>
+        {% endfor %}
+    </div>
+</div>

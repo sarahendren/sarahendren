@@ -11,7 +11,7 @@ ul.nav__list {
   display: flex;
   flex-direction: column;
 
-  @media only screen and (min-width: 48em) {
+  @media only screen and (min-width: $break_sm) {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
@@ -27,6 +27,7 @@ h1.header__title {
   align-items: center;
   display: flex;
   margin-right: 1rem;
+  font-size: 1.25rem;
   a {
     color: white;
     text-decoration: none;
@@ -44,7 +45,7 @@ h1.header__title {
   position: absolute;
   right: 25px;
   top: 32px;
-  @media only screen and (min-width: 64em) {
+  @media only screen and (min-width: $break_md) {
     position: relative;
     right: unset;
     top: unset;

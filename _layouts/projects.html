@@ -2,17 +2,48 @@
 layout: default
 ---
 
-<main class="main">
-	<header class="main__header">
-		{% include shared-includes/lead.html text=page.welcome-text %}
-		{% include shared-includes/subhead.html %}
-	</header>
-	<div class="content">
-		<div class="cards cards--three">
-			{% for item in site.projects reversed %}
-				{% include shared-includes/project.html %}
-			{% endfor %}
+<main class="main projects">
+	<div class="content container">
+		<div class="spacer" role="presentation"></div>
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="row">
+					<div class="col-xs-12 col-md-2">
+						<h1>Projects</h1>
+					</div>
+					<div class="col-xs-12 col-md-10">
+						<a href="#" class="filter">Interview</a>
+						<a href="#" class="filter">Essay</a>
+						<a href="#" class="filter">Project</a>
+						<a href="#" class="filter">Talk</a>
+						<a href="#" class="filter active">All</a>
+					</div>
+					<div class="spacer" role="presentation"></div>
+				</div>
+			</div>
 		</div>
+		<div class="col-xs-12">
+			<div class="row projects__row_header">
+				<div class="col-xs-12 col-md-2">
+					<p>year</p>
+				</div>
+				<div class="col-xs-12 col-md-6">
+					<p>project</p>
+				</div>
+				<div class="col-xs-12 col-md-2">
+					<p>type</p>
+				</div>
+				<div class="col-xs-12 col-md-2">
+					<p>tagged</p>
+				</div>
+			</div>
+		</div>
+		{% for item in site.projects reversed %}
+			<div class="col-xs-12">
+				{% include project.html %}
+			</div>
+		{% endfor %}
 		{{ content | markdownify }}
+		<div class="spacer-lg" role="presentation"></div>
 	</div>
 </main>

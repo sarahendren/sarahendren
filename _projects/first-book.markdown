@@ -4,7 +4,11 @@ date: 2017-01-07 16:45:00 -05:00
 position: 0
 image: "/uploads/Riverhead-PRH-logo-1.jpg"
 image-caption: a series of variations on the Riverhead R logo, from their Tumblr site
-date-display: Dec 2016-ongoing
+date-display: 2016-ongoing
+type: book
+tags: 
+    - accessibility
+    - engineering
 ---
 
 Friends, I’m so happy to say that my first book is under contract with [Riverhead/Penguin](http://www.penguin.com/publishers/riverhead/?ref=2B4575AB81AF)! I’m just thrilled—I can’t even tell you.

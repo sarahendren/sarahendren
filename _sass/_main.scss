@@ -1,7 +1,7 @@
 // base
 @import "base/palette";
-@import "../node_modules/flexboxgrid/dist/flexboxgrid.min.css";
 @import "base/layout";
+@import "../node_modules/flexboxgrid-sass/flexboxgrid.scss";
 // typography
 @import "typography/links";
 @import "typography/fonts";
@@ -11,3 +11,5 @@
 @import "components/nav";
 // pages
 @import "pages/home";
+@import "pages/about";
+@import "pages/projects";
