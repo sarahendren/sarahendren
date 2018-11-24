@@ -14,9 +14,9 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/manifest.json">
 
-    <link rel="stylesheet" type="text/css" href="/css/infusion/Enactors.css" />
-    <link rel="stylesheet" type="text/css" href="/css/infusion/PrefsEditor.css" />
-    <link rel="stylesheet" type="text/css" href="/css/infusion/SeparatedPanelPrefsEditor.css" />
+    <link rel="stylesheet" type="text/css" href="/node_modules/infusion/dist/assets/src/framework/preferences/css/Enactors.css" />
+    <link rel="stylesheet" type="text/css" href="/node_modules/infusion/dist/assets/src/framework/preferences/css/PrefsEditor.css" />
+    <link rel="stylesheet" type="text/css" href="/node_modules/infusion/dist/assets/src/framework/preferences/css/SeparatedPanelPrefsEditor.css" />
 
     <link rel="stylesheet" href="/css/main.css">
 
@@ -37,29 +37,11 @@
 
 {% include footer.html %}
 
-<script type="text/javascript" src="//code.jquery.com/jquery-3.0.0.min.js" data-no-instant></script>
-
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="/js/plugins.js"></script>
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js"></script>
-<script type="text/javascript">
-  $("article").fitVids();
-</script>
-
-<script type="text/javascript" src="/js/infusion-all.js" data-no-instant></script>
-<script type="text/javascript">
-  fluid.uiOptions.prefsEditor(".flc-prefsEditor-separatedPanel", {
-    terms: {
-      "templatePrefix": "../../src/framework/preferences/html",
-      "messagePrefix": "../../src/framework/preferences/messages"
-    },
-    "tocTemplate": "../../src/components/tableOfContents/html/TableOfContents.html",
-    "ignoreForToC": {
-      "overviewPanel": ".flc-overviewPanel"
-    }
-  });
-</script>
-
+<script src="/node_modules/list.js/dist/list.min.js"></script>
+<script type="text/javascript" src="/node_modules/infusion/dist/infusion-all.js" data-no-instant></script>
+<script type="text/javascript" src="/js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/instantclick/3.0.1/instantclick.min.js" data-no-instant></script>
 <script data-no-instant>
   // instantclick + google analytics

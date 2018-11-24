@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/sarahendren/sarahendren#readme",
   "dependencies": {
-    "flexboxgrid-sass": "^8.0.5"
+    "flexboxgrid-sass": "^8.0.5",
+    "infusion": "^2.0.0",
+    "list.js": "^1.5.0"
   }
 }

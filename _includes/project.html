@@ -1,14 +1,14 @@
 <div class="row projects__list_item">
     <div class="col-xs-12 col-md-2">
-        {% include shared-includes/date-display.html %}
+        <p class="date">{{ item.date-display }}</p>
     </div>
     <div class="col-xs-12 col-md-6">
         <a class="projects__title" href="{{ item.url }}">
-            {% include shared-includes/title.html %}
+            <h2 class="name">{{ item.title }}</h2>
         </a>
     </div>
     <div class="col-xs-12 col-md-2">
-        <p>{{ item.type }}</p>
+        <p class="type">{{ item.type }}</p>
     </div>
     <div class="col-xs-12 col-md-2">
         {% for tag in item.tags %}

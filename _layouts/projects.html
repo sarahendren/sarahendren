@@ -3,7 +3,7 @@ layout: default
 ---
 
 <main class="main projects">
-	<div class="content container">
+	<div class="content container" id="projectsList">
 		<div class="spacer" role="presentation"></div>
 		<div class="row">
 			<div class="col-xs-12">
@@ -11,12 +11,12 @@ layout: default
 					<div class="col-xs-12 col-md-2">
 						<h1>Projects</h1>
 					</div>
-					<div class="col-xs-12 col-md-10">
-						<a href="#" class="filter">Interview</a>
-						<a href="#" class="filter">Essay</a>
-						<a href="#" class="filter">Project</a>
-						<a href="#" class="filter">Talk</a>
-						<a href="#" class="filter active">All</a>
+					<div class="col-xs-12 col-md-10" role="navigation">
+						<a href="#" class="filter" aria-label="interviews filter">Interview</a>
+						<a href="#" class="filter" aria-label="essays filter">Essay</a>
+						<a href="#" class="filter" aria-label="projects filter">Project</a>
+						<a href="#" class="filter" aria-label="talks filter">Talk</a>
+						<a href="#" class="filter active" aria-label="remove filter">All</a>
 					</div>
 					<div class="spacer" role="presentation"></div>
 				</div>
@@ -24,13 +24,13 @@ layout: default
 		</div>
 		<div class="col-xs-12">
 			<div class="row projects__row_header">
-				<div class="col-xs-12 col-md-2">
+				<div class="col-xs-12 col-md-2 sort" data-sort="date">
 					<p>year</p>
 				</div>
-				<div class="col-xs-12 col-md-6">
+				<div class="col-xs-12 col-md-6 sort" data-sort="name">
 					<p>project</p>
 				</div>
-				<div class="col-xs-12 col-md-2">
+				<div class="col-xs-12 col-md-2 sort" data-sort="type">
 					<p>type</p>
 				</div>
 				<div class="col-xs-12 col-md-2">
@@ -38,11 +38,13 @@ layout: default
 				</div>
 			</div>
 		</div>
-		{% for item in site.projects reversed %}
+		<div class="list">
+			{% for item in site.projects reversed %}
 			<div class="col-xs-12">
 				{% include project.html %}
 			</div>
-		{% endfor %}
+			{% endfor %}
+		</div>
 		{{ content | markdownify }}
 		<div class="spacer-lg" role="presentation"></div>
 	</div>
