@@ -17,6 +17,19 @@
   .projects__row_header {
     text-transform: uppercase;
     font-weight: bold;
+    a {
+      text-decoration: none !important;
+      color: $primary !important;
+    }
+    p {
+      display: inline-block;
+      width: unset;
+    }
+    img {
+      width: 12px;
+      margin-bottom: -.15rem;
+      margin-left: 0.25rem;
+    }
   }
   .projects__list_item {
     border-top: 1px solid $accent;

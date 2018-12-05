@@ -1,0 +1,35 @@
+.project {
+  .project__row_header {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .project__list_item {
+    border-top: 1px solid $accent;
+    padding: .5rem 0 3rem;
+
+    p {
+      margin: .5rem 0;
+    }
+    .project__title {
+      color: $primary;
+      font-size: 2rem;
+      text-decoration: none;
+      h2 {
+        margin: 0;
+      }
+    }
+  }
+  img {
+    width: 100%;
+  }
+  .project__content {
+    font-family: 'Noto Serif, sans-sarif';
+    font-size: 1.5rem;
+    p {
+      //max-width: 45rem;
+      a {
+        color: $primary !important;
+      }
+    }
+  }
+}
