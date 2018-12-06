@@ -4,7 +4,7 @@ layout: default
 
 {% assign item = page %}
 <main class="main project">
-  <div class="content container" id="project">
+  <div class="container" id="project">
     <div class="spacer" role="presentation"></div>
       <div class="col-xs-12">
         <div class="row project__row_header">
@@ -34,7 +34,7 @@ layout: default
         {% endfor %}
       </div>
     </div>
-    <div class="row project__content">
+    <div class="row project__content content">
       <div class="col-xs-12 col-md-10 col-md-offset-2">
         <img src="{{ item.image }}" alt="{{ item.image-caption }}" />
       </div>
@@ -42,6 +42,6 @@ layout: default
         {{ page.content | markdownify }}
       </div>
     </div>
-    {% include shared-includes/page.html %}
+    {% include pagination.html %}
   </div>
 </main>
