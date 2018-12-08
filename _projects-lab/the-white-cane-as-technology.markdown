@@ -5,7 +5,10 @@ position: 6
 image: "/uploads/white%20cane%20as%20tech%20jpg.jpg"
 image-caption: an image of the Atlantic Tech with the article's headline
 date-display: 2013
-subtitle: essay
+type: essay
+tags: 
+    - accessibility
+    - engineering
 ---
 
 ![white cane as tech jpg.jpg](/uploads/white%20cane%20as%20tech%20jpg.jpg)

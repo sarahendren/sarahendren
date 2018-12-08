@@ -6,7 +6,10 @@ image: "/uploads/inside%20prosthetic%20imaginary%20jpg.jpg"
 image-caption: 'a screenshot of the interview in Rhizome: on bodies and technology,  prosthetics
   and  design,  public amateurism, and more.'
 date-display: 2012
-subtitle: interview
+type: interview
+tags: 
+    - accessibility
+    - engineering
 ---
 
 ![inside prosthetic imaginary jpg.jpg](/uploads/inside%20prosthetic%20imaginary%20jpg.jpg)

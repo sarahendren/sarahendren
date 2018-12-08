@@ -39,3 +39,9 @@ $flexboxgrid-max-width: 1400px !default;
     margin: 0 auto;
   }
 }
+
+.center-container {
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}

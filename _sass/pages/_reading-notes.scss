@@ -1,0 +1,45 @@
+.reading-notes {
+  .reading-notes__intro {
+    font-family: 'Noto Serif, sarif';
+    font-style: italic;
+    font-size: 1.5rem;
+  }
+  .reading-notes__row_header {
+    text-transform: uppercase;
+    font-weight: bold;
+    a {
+      text-decoration: none !important;
+      color: $primary !important;
+    }
+    p {
+      display: inline-block;
+      width: unset;
+    }
+    img {
+      width: 12px;
+      margin-bottom: -.15rem;
+      margin-left: 0.25rem;
+    }
+  }
+  .reading-notes__list_item {
+    border-top: 1px solid $accent;
+    padding: .5rem 0 4rem;
+
+    .reading-notes__tease {
+      font-family: 'Noto Serif, sans-sarif';
+      font-size: 1.5rem;
+    }
+
+    p {
+      margin: .5rem 0;
+    }
+    .reading-notes__title {
+      color: $primary;
+      font-size: 2rem;
+      text-decoration: none;
+      h2 {
+        margin: 0;
+      }
+    }
+  }
+}

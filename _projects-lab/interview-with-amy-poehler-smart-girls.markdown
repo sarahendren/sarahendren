@@ -5,8 +5,11 @@ position: 12
 image: "/uploads/amypoehler.jpg"
 image-caption: a still from the video showing Alice Sheppard mid-dance in Seoul, with
   Engineering for an Inclusive World in type
-date-display: November 2016
-subtitle: Interview
+date-display: 2016
+type: interview
+tags: 
+    - accessibility
+    - engineering
 ---
 
 At South by South Lawn, Obama's public event on the arts, technology, and activism at the White House in October 2016, I talked with Amy Poehler's Smart Girls team about the lab and my work. 

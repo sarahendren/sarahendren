@@ -5,7 +5,10 @@ position: 1
 image: "/uploads/sara%20surface%20podcast%20jpg.jpg"
 image-caption: screenshot of Sara from the Surface podcast
 date-display: 2017
-subtitle: interview
+type: interview
+tags: 
+    - accessibility
+    - engineering
 ---
 
 I talked with [Jarrett Fuller](http://jarrettfuller.com/) about design, writing, and much more on his podcast, [Scratching the Surface](http://jarrettfuller.com/projects/podcast). So much fun! Below is the sound file and [here's the full transcript](https://medium.com/scratchingthesurfacefm/episode-24-sara-hendren-full-transcript-5612d2aebeac).
