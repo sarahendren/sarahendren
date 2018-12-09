@@ -1,5 +1,5 @@
-.reading-note {
-  .reading-note__row_header {
+.abler {
+  .abler__row_header {
     display: none;
     @media only screen and (min-width: $break_md) {
       display: flex;
@@ -7,21 +7,19 @@
     text-transform: uppercase;
     font-weight: bold;
   }
-  .reading-note__list_item {
-    border-bottom: 1px solid $accent;
-    padding: .5rem 0 2rem;
+  .abler__list_item {
+    border-top: 1px solid $accent;
+    padding: .5rem 0 3rem;
 
     p {
       margin: .5rem 0;
-      font-size: 1.5rem;
     }
-    .reading-note__title {
+    .abler__title {
       color: $primary;
       font-size: 2rem;
       text-decoration: none;
       h2 {
         margin: 0;
-        font-size: 3.5rem;
       }
     }
   }

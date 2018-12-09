@@ -56,13 +56,16 @@ h1.header__title {
 .at__end {
   display: flex;
   justify-content: flex-end;
-  position: absolute;
-  right: 25px;
-  top: 32px;
+  order: -1;
   @media only screen and (min-width: $break_md) {
-    position: relative;
-    right: unset;
-    top: unset;
+    order: 1;
+  }
+}
+
+.at__start {
+  order: -2;
+  @media only screen and (min-width: $break_md) {
+    order: -1;
   }
 }
 
@@ -84,6 +87,10 @@ ul.nav__setting {
 
 span.fl-prefsEditor-buttons {
   margin-left: .25rem;
+}
+
+button#reset {
+  margin-right: -7px;
 }
 
 .fl-prefsEditor-reset {

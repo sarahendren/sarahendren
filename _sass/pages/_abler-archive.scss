@@ -1,4 +1,33 @@
-.projects {
+// over-rides
+body#abler-archive {
+  background: $abler-background;
+  color: $primary;
+  .site-header {
+    background: $accent;
+  }
+  main.main.ablers {
+    color: $white;
+    .row.ablers__row_header a {
+      color: $white !important;
+    }
+    a.filter.active {
+      box-shadow: 4px 4px 0 $white;
+    }
+  }
+  .ablers__list_item {
+    .ablers__title {
+      color: $white;
+    }
+  }
+  footer {
+    background: $accent;
+    section.colophon__section, section.colophon__section a {
+      color: $primary;
+    }
+  }
+}
+
+.ablers {
   a.filter {
     display: inline-block;
     margin: 1rem 0;
@@ -14,7 +43,14 @@
     }
   }
 
-  .projects__row_header {
+  p.ablers__intro {
+    font-family: 'Noto Serif, sarif';
+    font-style: italic;
+    font-size: 1.5rem;
+    margin-top: 0;
+  }
+
+  .ablers__row_header {
     display: none;
     @media only screen and (min-width: $break_md) {
       display: flex;
@@ -24,7 +60,6 @@
     font-weight: bold;
     a {
       text-decoration: none !important;
-      color: $primary !important;
     }
     p {
       display: inline-block;
@@ -36,14 +71,14 @@
       margin-left: 0.25rem;
     }
   }
-  .projects__list_item {
+  .ablers__list_item {
     border-top: 1px solid $accent;
     padding: .5rem 0 4rem;
 
     p {
       margin: .5rem 0;
     }
-    .projects__title {
+    .ablers__title {
       color: $primary;
       font-size: 2rem;
       text-decoration: none;

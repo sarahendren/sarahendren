@@ -5,6 +5,9 @@ collections:
   projects-lab:
     title: Projects + Lab
     output: true
+  abler-archive:
+    title: Abler/Archive
+    output: true
   posts:
     title: Reading/Notes
     output: true
@@ -17,6 +20,15 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: abler-archive
+  values:
+    parent: "/abler-archive/"
+    image: http://placehold.it/400x300
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    layout: abler
 - scope:
     path: ''
     type: projects-lab

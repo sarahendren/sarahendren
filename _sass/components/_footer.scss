@@ -8,6 +8,11 @@ footer {
   }
 
   section.colophon__section {
+    border-top: .5rem solid black;
+    @media only screen and (min-width: $break_md) {
+      border-top: none;
+    }
+
     padding: 1rem 1.5rem;
     p {
       font-size: 1rem;

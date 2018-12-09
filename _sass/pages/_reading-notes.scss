@@ -1,10 +1,19 @@
 .reading-notes {
   .reading-notes__intro {
+    margin: 0;
+    @media only screen and (min-width: $break_md) {
+      margin-top: 1.75rem;
+    }
     font-family: 'Noto Serif, sarif';
     font-style: italic;
     font-size: 1.5rem;
   }
   .reading-notes__row_header {
+    display: none;
+    @media only screen and (min-width: $break_md) {
+      display: flex;
+    }
+
     text-transform: uppercase;
     font-weight: bold;
     a {

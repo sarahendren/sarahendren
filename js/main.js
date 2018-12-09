@@ -14,7 +14,7 @@ fluid.uiOptions.prefsEditor(".flc-prefsEditor-separatedPanel", {
 
 if(document.getElementById("projectsList")){
   var options = {
-    valueNames: [ 'date','name', 'type' ]
+    valueNames: [ 'date','name','type' ]
   };
   var projectsList = new List('projectsList', options);
   var filters = document.getElementsByClassName("filter");
