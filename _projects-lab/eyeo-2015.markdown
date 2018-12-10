@@ -3,7 +3,7 @@ title: 'Investigating Normal: Technology and Ability, Eyeo 2015'
 date: 2015-08-13 15:51:00 -04:00
 position: 11
 image: "/uploads/eyeo%202015%20jpg.jpg"
-image-caption: " screenshot of the  opening slide from eyeo"
+image-alt: " screenshot of the  opening slide from eyeo"
 date-display: 2015
 type: talk
 tags: 

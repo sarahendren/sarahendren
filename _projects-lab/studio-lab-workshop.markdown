@@ -4,7 +4,7 @@ date: 2017-06-14 13:10:00 -04:00
 published: false
 position: 0
 image: "/uploads/cardboard%20group.jpg"
-image-caption: 'a still from a student video advertising the work of the Adaptive
+image-alt: 'a still from a student video advertising the work of the Adaptive
   Design Association: four students use cardboard furniture and adaptations for study'
 date-display: 2014
 type: essay

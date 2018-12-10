@@ -6,7 +6,10 @@ collections:
     title: Projects + Lab
     output: true
   abler-archive:
-    title: Abler/Archive
+    title: Abler Archive
+    output: true
+  abler-guides:
+    title: Abler Guides
     output: true
   posts:
     title: Reading/Notes
@@ -26,8 +29,18 @@ defaults:
   values:
     parent: "/abler-archive/"
     image: http://placehold.it/400x300
-    image-caption: IMAGE CAPTION
+    image-alt: IMAGE CAPTION
     date-display: DISPLAY DATE
+    type: archive
+    layout: abler
+- scope:
+    path: ''
+    type: abler-guides
+  values:
+    parent: "/abler-archive/"
+    image: http://placehold.it/400x300
+    date-display: DISPLAY DATE
+    type: guides
     layout: abler
 - scope:
     path: ''
@@ -35,7 +48,7 @@ defaults:
   values:
     parent: "/projects-lab/"
     image: http://placehold.it/400x300
-    image-caption: IMAGE CAPTION
+    image-alt: IMAGE CAPTION
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
     layout: project

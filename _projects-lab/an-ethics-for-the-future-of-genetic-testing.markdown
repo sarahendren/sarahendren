@@ -3,7 +3,7 @@ title: An Ethics for the Future of Genetic Testing
 date: 2013-12-13 15:53:00 -05:00
 position: 10
 image: "/uploads/ethics%20genetic%20testing%20jpg.jpg"
-image-caption: screenshot of the atlantic article, on so much more than just genetics
+image-alt: screenshot of the atlantic article, on so much more than just genetics
 date-display: 2013
 type: essay
 tags: 

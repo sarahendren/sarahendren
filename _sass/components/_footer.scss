@@ -7,12 +7,14 @@ footer {
     color: $white;
   }
 
-  section.colophon__section {
+  section.colophon__section.colophon__section--menu {
     border-top: .5rem solid black;
     @media only screen and (min-width: $break_md) {
       border-top: none;
     }
+  }
 
+  section.colophon__section {
     padding: 1rem 1.5rem;
     p {
       font-size: 1rem;

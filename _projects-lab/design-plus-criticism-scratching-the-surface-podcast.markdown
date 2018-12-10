@@ -3,7 +3,7 @@ title: 'Design + Criticism: Scratching the Surface podcast'
 date: 2017-06-14 12:26:00 -04:00
 position: 1
 image: "/uploads/sara%20surface%20podcast%20jpg.jpg"
-image-caption: screenshot of Sara from the Surface podcast
+image-alt: screenshot of Sara from the Surface podcast
 date-display: 2017
 type: interview
 tags: 

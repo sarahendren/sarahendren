@@ -12,7 +12,7 @@ layout: default
                         <h1>Abler</h1>
                     </div>
                     <div class="col-xs-12 col-md-10" role="navigation">
-                        <a href="#" class="filter" aria-label="archive filter">Archive</a>
+                        <a href="#" class="filter active" aria-label="archive filter">Archive</a>
                         <a href="#" class="filter" aria-label="guides filter">Guides</a>
                     </div>
                     <div class="col-xs-12 col-md-8 col-md-offset-2">
@@ -27,22 +27,30 @@ layout: default
         <div class="col-xs-12">
             <div class="row ablers__row_header">
                 <div class="col-xs-12 col-md-2">
-                    <a href="#" aria-label="sort by year" class="sort" data-sort="date">
+                    <a href="#" aria-label="sort by year" class="sort desc" data-sort="date">
                         <p>year</p>
                         <img role="presentation" aria-hidden="true" src="/uploads/Triangle.svg" />
                     </a>
                 </div>
-                <div class="col-xs-12 col-md-6">
+                <div class="col-xs-12 col-md-8">
                     <a href="#" aria-label="sort by project" class="sort" data-sort="name">
-                        <p>post</p>
+                        <p id="abler-name">post</p>
                         <img role="presentation" aria-hidden="true" src="/uploads/Triangle.svg" />
                     </a>
+                </div>
+                <div class="col-xs-12 col-md-2">
+                    <p id="abler-image">image</p>
                 </div>
             </div>
         </div>
         <div class="list">
             {% for item in site.abler-archive reversed %}
             <div class="col-xs-12">
+                {% include abler.html %}
+            </div>
+            {% endfor %}
+            {% for item in site.abler-guides reversed %}
+            <div class="col-xs-12 none">
                 {% include abler.html %}
             </div>
             {% endfor %}
