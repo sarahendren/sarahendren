@@ -2,15 +2,15 @@
 title: 'studio : lab : workshop'
 date: 2017-06-14 13:10:00 -04:00
 published: false
+tags:
+- accessibility
+- engineering
 position: 0
 image: "/uploads/cardboard%20group.jpg"
-image-alt: 'a still from a student video advertising the work of the Adaptive
-  Design Association: four students use cardboard furniture and adaptations for study'
+image-alt: 'a still from a student video advertising the work of the Adaptive Design
+  Association: four students use cardboard furniture and adaptations for study'
 date-display: 2014
 type: writing
-tags: 
-    - accessibility
-    - engineering
 ---
 
 I wrote this short piece as a way of thinking through starting a lab at Olin College, where I've just finished three years (as of June 2017). I wrote it along with this lab manifesto as a way to ground and establish what I wanted a social and technical lab to be about: What are its aims? What are its justifications? It still holds true after three years of testing:

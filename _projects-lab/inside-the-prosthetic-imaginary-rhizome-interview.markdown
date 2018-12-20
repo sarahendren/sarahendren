@@ -1,15 +1,15 @@
 ---
 title: Inside the Prosthetic Imaginary, Rhizome
 date: 2012-10-30 16:40:00 -04:00
+tags:
+- accessibility
+- engineering
 position: 9
 image: "/uploads/inside%20prosthetic%20imaginary%20jpg.jpg"
 image-alt: 'a screenshot of the interview in Rhizome: on bodies and technology,  prosthetics
   and  design,  public amateurism, and more.'
 date-display: 2012
 type: interview
-tags: 
-    - accessibility
-    - engineering
 ---
 
 [An interview with Ana Alvarez at Rhizome](http://rhizome.org/editorial/2012/oct/4/inside-prosthetic-imaginary-interview-sara-hendren/):

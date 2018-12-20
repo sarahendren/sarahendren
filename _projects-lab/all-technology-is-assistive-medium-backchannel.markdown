@@ -1,15 +1,15 @@
 ---
 title: All Technology is Assistive, Medium/Backchannel
 date: 2014-10-06 16:40:00 -04:00
+tags:
+- accessibility
+- engineering
 position: 7
 image: "/uploads/all%20tech%20is%20assistive%20jpg.jpg"
-image-alt: 'Six design rules on disability: eyeglasses versus hearing aids, and
-  letting some of the work be problem-solving, and some of the work be question-asking.'
+image-alt: 'Six design rules on disability: eyeglasses versus hearing aids, and letting
+  some of the work be problem-solving, and some of the work be question-asking.'
 date-display: 2014
 type: writing
-tags: 
-    - accessibility
-    - engineering
 link: https://www.wired.com
 link-text: Read more on wired.com
 ---

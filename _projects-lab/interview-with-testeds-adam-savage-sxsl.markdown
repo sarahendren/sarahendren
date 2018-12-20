@@ -1,14 +1,14 @@
 ---
 title: Adaptive Tech with Tested's Adam Savage, SXSL
 date: 2016-11-09 16:43:00 -05:00
+tags:
+- accessibility
+- engineering
 position: 3
 image: "/uploads/adamsavage.jpg"
-image-alt:
+image-alt: 
 date-display: 2016
 type: interview
-tags: 
-    - accessibility
-    - engineering
 ---
 
 At [South by South Lawn](https://obamawhitehouse.archives.gov/the-press-office/2016/10/03/background-white-house-south-south-lawn-event), I talked with Adam Savage from Tested about the lab and our partnerships. 

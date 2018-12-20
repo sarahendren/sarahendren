@@ -2,14 +2,14 @@
 title: sara hendren
 timezone: America/New_York
 collections:
-  projects-lab:
-    title: Projects + Lab
-    output: true
   abler-archive:
     title: Abler Archive
     output: true
   abler-guides:
     title: Abler Guides
+    output: true
+  projects-lab:
+    title: Projects + Lab
     output: true
   posts:
     title: Reading/Notes
@@ -57,7 +57,6 @@ defaults:
   values:
     parent: "/reading-notes/"
     layout: reading-note
-
 permalink: pretty
 plugins:
 - jekyll-redirect-from
