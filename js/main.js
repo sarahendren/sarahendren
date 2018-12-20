@@ -75,6 +75,14 @@ if(document.getElementById("projectsList")){
   }
 }
 
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+  if (links[i].hostname != window.location.hostname) {
+    links[i].target = '_blank';
+  }
+}
+
 // if(document.getElementById("abler-archive")) {
 //   projectsList.filter(function (item) {
 //     return item.values().type === "archive";

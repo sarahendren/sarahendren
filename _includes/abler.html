@@ -5,7 +5,7 @@
     {% if item.type == 'archive' %}
     <div class="col-xs-12 col-md-8 abler-content-col">
         <a class="ablers__title" href="{{ item.url }}">
-            <h2 class="name">{{ item.title }}</h2>
+            <h1 class="name">{{ item.title }}</h1>
             <span class="type hidden">{{ item.type }}</span>
         </a>
     </div>
@@ -16,7 +16,7 @@
     {% if item.type == 'guides' %}
     <div class="col-xs-12 col-md-10">
         <a class="ablers__title" href="{{ item.url }}">
-            <h2 class="name">{{ item.title }}</h2>
+            <h1 class="name">{{ item.title }}</h1>
         </a>
         <span class="type hidden">{{ item.type }}</span>
         <div class="abler__tease">{{ item.content | markdownify }}</div>

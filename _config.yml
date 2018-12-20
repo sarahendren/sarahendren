@@ -29,7 +29,7 @@ defaults:
   values:
     parent: "/abler-archive/"
     image: http://placehold.it/400x300
-    image-alt: IMAGE CAPTION
+    image-alt: IMAGE ALT
     date-display: DISPLAY DATE
     type: archive
     layout: abler
@@ -47,9 +47,10 @@ defaults:
   values:
     parent: "/projects-lab/"
     image: http://placehold.it/400x300
-    image-alt: IMAGE CAPTION
+    image-alt: IMAGE ALT
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
+    link: MORE LINK
     layout: project
 - scope:
     path: ''

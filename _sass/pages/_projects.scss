@@ -45,12 +45,12 @@
     }
     .projects__title {
       color: $primary;
-      font-size: 1.5rem;
+      font-size: 1rem;
       @media only screen and (min-width: $break_md) {
-        font-size: 2rem;
+        font-size: 1.5rem;
       }
       text-decoration: none;
-      h2 {
+      h1 {
         margin: 0;
       }
     }

@@ -32,8 +32,12 @@
       color: $white;
       font-size: 2rem;
       text-decoration: none;
-      h2 {
+      h1 {
         margin: 0;
+        font-size: 1.5rem;
+        @media only screen and (min-width: $break_md) {
+          font-size: 3rem;
+        }
       }
     }
   }
