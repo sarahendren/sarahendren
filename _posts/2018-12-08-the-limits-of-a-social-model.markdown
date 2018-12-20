@@ -1,6 +1,7 @@
 ---
 title: the limits of a social model
 date: 2018-12-08 21:12:00 -05:00
+published: false
 ---
 
 When I explain the very broad differences between a medical model of disability and a social model to most general audiences, what commences is a standard grappling with the still-powerful conceptual shift offered by the distinction. That is: most people still have not internalized the idea that disability is not primarily a phenomenon of the individual and his or her body; it's instead a phenomenon of *interaction* between and among bodies and environments. Hearing this distinction tends to be sufficiently powerful as to be an end in itself to conversation, because it's enough to digest, just on its own. 
