@@ -5,7 +5,10 @@
 
 .about__text {
   color: $white;
-  font-size: 1.75rem;
+  font-size: 1.25rem;
+  @media only screen and (min-width: $break_md) {
+    font-size: 1.75rem;
+  }
   p {
     margin: 0;
     a {

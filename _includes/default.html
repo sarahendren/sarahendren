@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="/css/main.css">
     {% feed_meta %}
 </head>
-<body {% if page.collection %}class="body--subpage"{% endif %} id="{{ page.title | slugify }}">
+<body {% if page.collection =='abler-archive' or page.collection =='abler-guides' %}class="{{ page.collection }}" {% endif %} id="{{ page.title | slugify }}">
 <!--[if lt IE 8]>
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->

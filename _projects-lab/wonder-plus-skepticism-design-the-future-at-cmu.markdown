@@ -5,7 +5,7 @@ position: 5
 image: "/uploads/Carl%20Sagan%20hands.jpg"
 image-alt: cover still from the first slide of my talk, with the title and date
 date-display: 2017
-type: essay
+type: writing
 tags: 
     - accessibility
     - engineering

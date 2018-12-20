@@ -38,7 +38,6 @@ defaults:
     type: abler-guides
   values:
     parent: "/abler-archive/"
-    image: http://placehold.it/400x300
     date-display: DISPLAY DATE
     type: guides
     layout: abler

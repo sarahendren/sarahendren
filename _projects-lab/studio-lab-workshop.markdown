@@ -7,7 +7,7 @@ image: "/uploads/cardboard%20group.jpg"
 image-alt: 'a still from a student video advertising the work of the Adaptive
   Design Association: four students use cardboard furniture and adaptations for study'
 date-display: 2014
-type: essay
+type: writing
 tags: 
     - accessibility
     - engineering

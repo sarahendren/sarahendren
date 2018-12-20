@@ -5,7 +5,7 @@ position: 10
 image: "/uploads/ethics%20genetic%20testing%20jpg.jpg"
 image-alt: screenshot of the atlantic article, on so much more than just genetics
 date-display: 2013
-type: essay
+type: writing
 tags: 
     - accessibility
     - engineering

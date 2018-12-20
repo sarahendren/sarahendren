@@ -44,7 +44,10 @@
     }
     .reading-notes__title {
       color: $primary;
-      font-size: 2rem;
+      font-size: 1.5rem;
+      @media only screen and (min-width: $break_md) {
+        font-size: 2rem;
+      }
       text-decoration: none;
       h2 {
         margin: 0;

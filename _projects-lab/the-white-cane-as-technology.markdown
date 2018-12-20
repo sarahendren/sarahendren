@@ -5,7 +5,7 @@ position: 6
 image: "/uploads/white%20cane%20as%20tech%20jpg.jpg"
 image-alt: an image of the Atlantic Tech with the article's headline
 date-display: 2013
-type: essay
+type: writing
 tags: 
     - accessibility
     - engineering
