@@ -2,14 +2,17 @@
 title: sara hendren
 timezone: America/New_York
 collections:
-  projects:
-    title: Projects
+  abler-archive:
+    title: Abler Archive
+    output: true
+  abler-guides:
+    title: Abler Guides
+    output: true
+  projects-lab:
+    title: Projects + Lab
     output: true
   posts:
-    title: Reading Notes
-    output: true
-  talks-essays:
-    title: Talks + Essays
+    title: Reading/Notes
     output: true
   uploads:
     title: Uploads
@@ -22,11 +25,29 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: projects
+    type: abler-archive
   values:
-    parent: "/projects/"
+    parent: "/abler-archive/"
     image: http://placehold.it/400x300
-    image-caption: IMAGE CAPTION
+    image-alt: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    type: archive
+    layout: abler
+- scope:
+    path: ''
+    type: abler-guides
+  values:
+    parent: "/abler-archive/"
+    date-display: DISPLAY DATE
+    type: guides
+    layout: abler
+- scope:
+    path: ''
+    type: projects-lab
+  values:
+    parent: "/projects-lab/"
+    image: http://placehold.it/400x300
+    image-alt: IMAGE CAPTION
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
     layout: project
@@ -35,17 +56,7 @@ defaults:
     type: posts
   values:
     parent: "/reading-notes/"
-    layout: page
-- scope:
-    path: ''
-    type: talks-essays
-  values:
-    parent: "/talks-essays/"
-    image: http://placehold.it/400x300
-    image-caption: IMAGE CAPTION
-    date-display: DISPLAY DATE
-    subtitle: SUBTITLE
-    layout: page
+    layout: reading-note
 permalink: pretty
 plugins:
 - jekyll-redirect-from
@@ -53,7 +64,6 @@ plugins:
 - jekyll-assets
 author: Sara Hendren
 exclude:
-- node_modules
 - gulpfile.js
 include:
 - _redirects

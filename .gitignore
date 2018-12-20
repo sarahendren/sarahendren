@@ -3,3 +3,8 @@ _site/
 .jekyll-metadata
 npm-debug.log
 .asset-cache
+.env
+.idea/*
+.s3-website.json
+.DS_Store
+node_modules/*
