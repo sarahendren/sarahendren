@@ -23,7 +23,6 @@ function addClassName(elem, className) {
 
 
 // projects filtering and sorting
-
 if(document.getElementById("projectsList")){
   var options = {
     valueNames: [ 'date','name','type' ]
@@ -82,6 +81,7 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
     links[i].target = '_blank';
   }
 }
+
 
 // if(document.getElementById("abler-archive")) {
 //   projectsList.filter(function (item) {
