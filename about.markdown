@@ -33,4 +33,3 @@ experiences to engineering students and
 faculty, funded by the Mellon Foundation.
 Sara lives in Cambridge, Mass., with her
 husband and three children.
-
