@@ -1,6 +1,6 @@
 ---
 title: an introduction to disability studies for engineers
-date: 2018-12-19 21:42:00 -05:00
+date: 2016-12-19 21:42:00 -05:00
 image: https://ablersite.files.wordpress.com/2016/11/the_cancer_journals.jpg
 image-alt: an introduction to disability studies for engineers
 date-display: 2016
