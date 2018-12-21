@@ -1,9 +1,11 @@
 ---
 title: a book!
 date: 2017-01-07 16:45:00 -05:00
+categories:
+- writing
 tags:
+- design
 - accessibility
-- engineering
 position: 0
 image: "/uploads/Riverhead-PRH-logo-1.jpg"
 image-alt: a series of variations on the Riverhead R logo, from their Tumblr site
