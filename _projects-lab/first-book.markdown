@@ -1,5 +1,5 @@
 ---
-title: first book!
+title: a book!
 date: 2017-01-07 16:45:00 -05:00
 tags:
 - accessibility
