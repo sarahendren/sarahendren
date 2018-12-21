@@ -5,7 +5,6 @@ tags:
 - design
 - accessibility
 position: 0
-image: "/uploads/Riverhead-PRH-logo-1.jpg"
 image-alt: a series of variations on the Riverhead R logo, from their Tumblr site
 date-display: 2016-ongoing
 type: writing
