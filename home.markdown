@@ -4,8 +4,8 @@ date: 2016-05-01 10:28:00 -04:00
 permalink: "/"
 position: 0
 welcome-text: "<b>sara hendren</b> is an artist, design researcher, writer, and professor.
-  Her brain is inconveniently full of restless questions, many of which get housed
-  in projects: >>"
+  Her internal engine is built of questions, the restless kind, the impractical and
+  the practical together, and many of those get taken up in projects. >>"
 layout: home
 ---
 
