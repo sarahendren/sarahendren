@@ -35,5 +35,4 @@ three-year initiative to bring more arts
 experiences to engineering students and
 faculty, funded by the Mellon Foundation.
 
-[Full CV](https://drive.google.com/drive/u/0/search?q=CV) and portfolio. Sara lives in Cambridge, Mass., with her
-husband and three children.
+[Full CV](https://drive.google.com/drive/u/0/search?q=CV) and portfolio. Sara lives in Cambridge, Mass., with her husband and three children.
