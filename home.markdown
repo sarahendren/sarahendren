@@ -5,7 +5,7 @@ permalink: "/"
 position: 0
 welcome-text: "<b>sara hendren</b> is an artist, design researcher, writer, and professor.
   her internal engine is built of questions, the restless kind, the impractical and
-  the practical together, and many of those get taken up in projects. >>"
+  the practical together. >>"
 layout: home
 ---
 
