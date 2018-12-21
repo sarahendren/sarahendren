@@ -6,6 +6,7 @@ image: "/uploads/sara-hendren-new.png"
 layout: about
 ---
 
+(Pardon the mess; finishing up last edits here!)
 [Sara’s recent work](#) includes collaborative
 public art and social design that engages
 the human body, technology, and the
