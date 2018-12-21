@@ -11,4 +11,4 @@ date-display: 2014–ongoing
 type: project
 ---
 
-The [Adaptation \+ Ability Group at Olin College](http://aplusa.org) is a technical and social lab for engineering, design, and disability. I direct the lab, but all the work is collaborative, much of it student-driven. You can see projects [there](http://aplusa.org): a ramp for wheelchair dancing, a podium for short stature, a sonic white-cane instrument, low-tech prosthetics, and more.
+The Adaptation + Ability Group is a technical and social lab for creative engineering and design on the subjects of disability. I direct the lab, but it runs on an occasional and as-needed basis, with student teams and outside collaborators as opportunities arise. Our projects have included: a ramp for wheelchair dancing, a lectern for short stature, a sonic white-cane instrument, low-tech prosthetics, and more.
