@@ -15,7 +15,7 @@ writes and lectures on [prosthetics](#),
 disability studies, hybrid art-engineering
 practices, [critical design](#), and related
 topics. 
-
+\
 Her work has been exhibited in
 the US and abroad and is held in the
 permanent collection at the Museum of
@@ -34,5 +34,5 @@ is also the [Principal Investigator](#) on a
 three-year initiative to bring more arts
 experiences to engineering students and
 faculty, funded by the Mellon Foundation.
-
+\
 [Full CV](https://drive.google.com/drive/u/0/search?q=CV) and portfolio. Sara lives in Cambridge, Mass., with her husband and three children.
