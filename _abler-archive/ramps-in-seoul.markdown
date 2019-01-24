@@ -1,6 +1,7 @@
 ---
 title: ramps in seoul
 date: 2016-12-19 22:04:00 -05:00
+published: false
 image: https://ablersite.files.wordpress.com/2016/10/mcs2016_pp_alice-sheppard_photo-by-gim-ik-hyun-3.jpg
 image-alt: Alice dances on six tiles and four ramps at the opening of Media City Seoul.
   The platform kit is a wooden modular stage for ramped dancing.
