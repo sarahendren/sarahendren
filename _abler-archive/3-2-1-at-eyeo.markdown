@@ -1,6 +1,7 @@
 ---
 title: 3, 2, 1 at Eyeo
 date: 2018-09-16 22:13:00 -04:00
+published: false
 image: https://ablersite.files.wordpress.com/2015/09/img_2745.jpg
 image-alt: 3, 2, 1 at Eyeo
 date-display: 2015
