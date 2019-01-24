@@ -1,7 +1,6 @@
 ---
 title: 'studio : lab : workshop'
 date: 2017-06-14 13:10:00 -04:00
-published: false
 tags:
 - accessibility
 - engineering
