@@ -11,8 +11,10 @@ Sara Hendren is an artist, design researcher, writer, and professor at [Olin Col
 public art and social design that engages
 the human body, technology, and the politics of disability—things like [a lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/) or a [ramp for wheelchair dancing](http://aplusa.org/projects/ramp-alice-sheppard/). She frequently
 [writes and lectures](https://sarahendren.com/projects-lab/) on prosthetics,
-disability studies, hybrid art-engineering practices, critical design, and related topics.
->
+disability studies, hybrid art-engineering practices, critical design, and related ideas.
+
+
+
 Her work has been exhibited at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, the Seoul Museum of Art and other venues and is held in the permanent collection at the Museum of
 Modern Art  and the Cooper Hewitt Museum. Her [first book](https://sarahendren.com/projects-lab/first-book/), on
 the unexpected places where disability
