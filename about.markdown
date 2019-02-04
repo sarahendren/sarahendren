@@ -7,7 +7,7 @@ layout: about
 ---
 
 (Pardon the mess; finishing up last edits here!)
-Sara Hendren is an artist, design researcher, writer, and professor at Olin College. Her work includes collaborative
+Sara Hendren is an artist, design researcher, writer, and professor at [Olin College of Engineering](http://www.olin.edu). Her work includes collaborative
 public art and social design that engages
 the human body, technology, and the
 politics of disability. She frequently
