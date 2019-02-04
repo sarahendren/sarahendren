@@ -29,8 +29,8 @@ grant](https://www.washingtonpost.com/entertainment/books/2017-neh-grants-encour
 the Humanities. In spring 2018, she is
 a Logan Nonfiction Fellow at the Carey
 Institute for Global Good. At Olin, she
-is also the [Principal Investigator](#) on a
-three-year initiative to bring more arts
+is also the Principal Investigator on [a
+three-year initiative](http://www.olin.edu/collaborate/sketch-model/) to bring more arts
 experiences to engineering students and
-faculty, funded by the Mellon Foundation.
+faculty, supported by the Mellon Foundation.
 Full CV and portfolio. Sara lives in Cambridge, Mass., with her husband and three children.
