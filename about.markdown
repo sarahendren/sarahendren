@@ -11,9 +11,9 @@ Sara Hendren is an artist, design researcher, writer, and professor at [Olin Col
 public art and social design that engages
 the human body, technology, and the
 politics of disability. She frequently
-[writes](https://sarahendren.com/projects-lab/) and lectures on [prosthetics](#),
+[writes](https://sarahendren.com/projects-lab/) and lectures on prosthetics,
 disability studies, hybrid art-engineering
-practices, [critical design](#), and related
+practices, critical design, and related
 topics.
 Her work has been exhibited in
 the US and abroad and is held in the
