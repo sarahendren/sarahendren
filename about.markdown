@@ -7,11 +7,11 @@ layout: about
 ---
 
 (Pardon the mess; finishing up last edits here!)
-[Sara’s recent work](#) includes collaborative
+Sara Hendren is an artist, design researcher, writer, and professor at Olin College. Her work includes collaborative
 public art and social design that engages
 the human body, technology, and the
 politics of disability. She frequently
-writes and lectures on [prosthetics](#),
+[writes](https://sarahendren.com/projects-lab/) and lectures on [prosthetics](#),
 disability studies, hybrid art-engineering
 practices, [critical design](#), and related
 topics.
