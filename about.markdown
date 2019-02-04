@@ -21,11 +21,8 @@ objects and environments, is forthcoming
 from Riverhead/Pengiun Random House. She has been an Eric
 Wendy Schmidt Fellow at New America, a [Logan Nonfiction Fellow](https://careyinstitute.org/index/sara-hendren/) at the Carey Institute for Global Good, and
 the recipient of a [2017 Public Scholar
-grant](https://www.washingtonpost.com/entertainment/books/2017-neh-grants-encourage-great-scholarship-for-nonscholars-to-enjoy/2017/08/01/6e0e74f2-76e9-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.2c5f820b38a4) from the National Endowment for the Humanities. In spring 2018, she is
-a Logan Nonfiction Fellow at the Carey
-Institute for Global Good. At Olin, she
+grant](https://www.washingtonpost.com/entertainment/books/2017-neh-grants-encourage-great-scholarship-for-nonscholars-to-enjoy/2017/08/01/6e0e74f2-76e9-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.2c5f820b38a4) from the National Endowment for the Humanities. At Olin, she
 is also the Principal Investigator on [a
-three-year initiative](http://www.olin.edu/collaborate/sketch-model/) to bring more arts
-experiences to engineering students and
+three-year initiative](http://www.olin.edu/collaborate/sketch-model/) to bring more arts experiences to engineering students and
 faculty, supported by the Mellon Foundation.
-Full CV and portfolio. Sara lives in Cambridge, Mass., with her husband and three children.
+Sara lives in Cambridge, Mass., with her husband and three children. [Full CV](https://docs.google.com/document/d/1tEIkNOHSO_49yRCop_DkRHJEk1OQNQ5XUqPMvZbsYMk/edit#) and portfolio.
