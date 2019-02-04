@@ -18,7 +18,7 @@ topics.
 Her work has been exhibited in
 the US and abroad and is held in the
 permanent collection at the Museum of
-Modern Art (NYC). [Her first book](#), on
+Modern Art (NYC). Her [first book](https://sarahendren.com/projects-lab/first-book/), on
 the unexpected places where disability
 is at the heart of design in everyday
 objects and environments, is forthcoming
