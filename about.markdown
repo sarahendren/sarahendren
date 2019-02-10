@@ -13,8 +13,8 @@ the human body, technology, and the politics of disability—things like [a lect
 [writes and lectures](https://sarahendren.com/projects-lab/) on prosthetics,
 disability studies, hybrid art-engineering practices, critical design, and related ideas.
 
-Her work has been exhibited at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, the Seoul Museum of Art and other venues and is held in the permanent collection at the Museum of Modern Art  and the Cooper Hewitt Museum. Her [first book](https://sarahendren.com/projects-lab/first-book/), on the unexpected places where disability is at the heart of design in everyday
-objects and environments, is forthcoming from Riverhead/Pengiun Random House. She has been an Eric & Wendy Schmidt Fellow at New America, a [Logan Nonfiction Fellow](https://careyinstitute.org/index/sara-hendren/) at the Carey Institute for Global Good, and
+Her work has been exhibited at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art and other venues and is held in the permanent collections of the Museum of Modern Art  and the Cooper Hewitt Museum. Her [first book](https://sarahendren.com/projects-lab/first-book/), on the unexpected places where disability is at the heart of design in everyday
+objects and environments, is forthcoming from Riverhead/Pengiun Random House. She has been an [Eric & Wendy Schmidt Fellow](https://www.newamerica.org/our-people/sara-hendren/) at New America, a [Logan Nonfiction Fellow](https://careyinstitute.org/index/sara-hendren/) at the Carey Institute for Global Good, and
 the recipient of a [2017 Public Scholar
 grant](https://www.washingtonpost.com/entertainment/books/2017-neh-grants-encourage-great-scholarship-for-nonscholars-to-enjoy/2017/08/01/6e0e74f2-76e9-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.2c5f820b38a4) from the National Endowment for the Humanities. At Olin, she
 is also the Principal Investigator on [a
