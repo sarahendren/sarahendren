@@ -23,4 +23,4 @@ grant](https://www.washingtonpost.com/entertainment/books/2017-neh-grants-encour
 is also the Principal Investigator on [a
 three-year initiative](http://www.olin.edu/collaborate/sketch-model/) to bring more arts experiences to engineering students and
 faculty, supported by the Mellon Foundation.
-Sara lives in Cambridge, Mass., with her husband and three children. [Full CV](https://docs.google.com/document/d/1tEIkNOHSO_49yRCop_DkRHJEk1OQNQ5XUqPMvZbsYMk/edit#) and portfolio.
+Sara lives in Cambridge, Mass., with [her husband](http://www.brianfunck.com/) and three children. [Full CV](https://docs.google.com/document/d/1tEIkNOHSO_49yRCop_DkRHJEk1OQNQ5XUqPMvZbsYMk/edit#) and portfolio.
