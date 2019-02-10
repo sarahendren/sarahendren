@@ -6,7 +6,7 @@ image: "/uploads/sara-hendren-new.png"
 layout: about
 ---
 
-\(Pardon the mess; finishing up last edits here!)
+
 Sara Hendren is an artist, design researcher, writer, and professor at [Olin College of Engineering](http://www.olin.edu). Her [lab](http://aplusa.org/) and [projects](https://sarahendren.com/projects-lab/) include collaborative
 public art and social design that engages
 the human body, technology, and the politics of disability—things like [a lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/) or a [ramp for wheelchair dancing](http://aplusa.org/projects/ramp-alice-sheppard/). She frequently
