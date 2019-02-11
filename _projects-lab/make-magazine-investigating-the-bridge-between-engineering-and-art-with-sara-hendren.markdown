@@ -4,6 +4,11 @@ title: 'MAKE: magazine, Investigating the Bridge between Engineering and Art wit
 date: 2019-02-11 14:18:00 -05:00
 tags:
 - interview
+- accessibility
+- engineering
+- art
+- maxine greene
+type: Interview
 ---
 
 I talked to MAKE: magazine [about my work](https://makezine.com/2018/02/02/engineering-art-bridge/):
