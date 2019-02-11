@@ -2,6 +2,8 @@
 title: 'MAKE: magazine, Investigating the Bridge between Engineering and Art with
   Sara Hendren'
 date: 2019-02-11 14:18:00 -05:00
+tags:
+- interview
 ---
 
 I talked to MAKE: magazine [about my work](https://makezine.com/2018/02/02/engineering-art-bridge/):
