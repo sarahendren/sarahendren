@@ -13,6 +13,14 @@
       box-shadow: 4px 4px 0 $primary;
     }
   }
+  h1.title {
+    @media only screen and (min-width: $break_md) {
+      font-size: 1.85rem;
+    }
+    @media only screen and (min-width: $break_lg) {
+      font-size: 2rem;
+    }
+  }
 
   .projects__row_header {
     display: none;
