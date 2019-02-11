@@ -9,7 +9,7 @@ tags:
 - art
 - maxine greene
 date-display: 2018
-type: Interview
+type: interview
 ---
 
 I talked to MAKE: magazine [about my work](https://makezine.com/2018/02/02/engineering-art-bridge/):
