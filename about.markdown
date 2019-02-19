@@ -27,4 +27,4 @@ faculty, supported by the Mellon Foundation.
 
 
 
-I live in Cambridge, Mass., with [my husband](http://www.brianfunck.com/) and three children. [This lecture](https://vimeo.com/138985097) remains a good summary of my work. [Full CV](https://docs.google.com/document/d/1tEIkNOHSO_49yRCop_DkRHJEk1OQNQ5XUqPMvZbsYMk/edit#) and portfolio.
+I live in Cambridge, Mass., with [my husband](http://www.brianfunck.com/) and three children. [This lecture](https://vimeo.com/134764010) remains a good summary of my work. [Full CV](https://docs.google.com/document/d/1tEIkNOHSO_49yRCop_DkRHJEk1OQNQ5XUqPMvZbsYMk/edit#) and portfolio.
