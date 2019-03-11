@@ -6,7 +6,7 @@
       text-decoration: none !important;
       color: $primary;
       background-size: 1px 1em;
-      box-shadow: inset 0 -3px white, inset 0 -3.75px #000000;
+      box-shadow: inset 0 -3px white, inset 0 -4px #000000;
       display: inline;
     }
     @media only screen and (min-width: $break_md) {
@@ -25,7 +25,7 @@
     text-decoration: none !important;
     color: $accent;
     background-size: 1px 1em;
-    box-shadow: inset 0 -3px white, inset 0 -3.75px $accent;
+    box-shadow: inset 0 -3px white, inset 0 -4px $accent;
     display: inline;
     font-weight: bold;
     @media only screen and (min-width: $break_md) {
