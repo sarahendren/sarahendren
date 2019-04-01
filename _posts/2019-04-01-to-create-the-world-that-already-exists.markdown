@@ -4,6 +4,7 @@ date: 2019-04-01 12:28:00 -04:00
 published: false
 ---
 
+[The Practice of Spatial Justice in Crisis](https://www.jssj.org/wp-content/uploads/2012/12/JSSJ1-2en2.pdf).
 
 Wendy Brown approaches neoliberalism not primarily as a set of free-market economic policies that dismantle the institutions of welfare states, nor as a political-economic reality, but—following Foucault—as
 a specific form of “political rationality,” a specific kind of “normative political reason [that organizes] the political sphere, government practices, and citizenship.”7 Neoliberalism is a constructivist project; it endeavors to create the world it claims already exists. It not only aims to govern society in the name of the
