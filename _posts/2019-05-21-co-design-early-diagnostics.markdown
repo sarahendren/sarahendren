@@ -3,7 +3,7 @@ title: co-design and criticism
 date: 2019-05-21 14:18:00 -04:00
 ---
 
-Here's Victor Papanek in 1971 on the limits of co-design or "user testing" as it was commonly practiced in his day. It sounds so much like the present—from its location of the problematic dynamics, to the roles played, to his openly snarky derision about the common emptiness of the process itself that it's hard to believe nearly 50 years have passed. I'm still involved in teaching the basics of user-oriented design for engineering students that are an attempt to correct for these ills. 
+Here's Victor Papanek in 1971 on the limits of co-design or "user testing" as it was commonly practiced in his day. It sounds so much like the present—from its location of the problematic dynamics, to the roles played, to his openly snarky derision about the common emptiness of the process itself that it's hard to believe nearly 50 years have passed. I'm still involved in teaching the basics of user-oriented design for engineering students that are an attempt to correct for these ills, and here it is plainly laid out in *[Design for the Real World](https://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532/ref=sr_1_2?keywords=design+for+the+real+world&qid=1558541997&s=gateway&sr=8-2)*. 
 
 >In order to work more intelligently, the whole practice of design has to be turned around. Designers can no longer be the employee of corporations, but rather must work directly for the client group—that is, the people who are in need of a product.
 >
