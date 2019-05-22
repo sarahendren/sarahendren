@@ -1,7 +1,6 @@
 ---
 title: co-design and criticism
 date: 2019-05-21 14:18:00 -04:00
-published: false
 ---
 
 Here's Victor Papanek in 1971 on the limits of co-design or "user testing" as it was commonly practiced in his day. It sounds so much like the present—from its location of the problematic dynamics, to the roles played, to his openly snarky derision about the common emptiness of the process itself that it's hard to believe nearly 50 years have passed. I'm still involved in teaching the basics of user-oriented design for engineering students that are an attempt to correct for these ills. 
