@@ -23,6 +23,8 @@ This is a tension I'm facing as I write my own book, which is a translational wo
 
 It's reportage and analysis of *adaptation* in the human body when it meets the designed world—the way bodies and objects operate in a multidirectional riot of interaction, alternately with clunky hurdles and balletic grace and diminishments and real discovery. But adaptation is at the center, and I'm reporting on the experiences of disabled people as the source and resource of the extended body-with-things. So it's gratifying to re-read Papanek with Williamson's critique in mind, and to take up the challenge of weaving together socially-minded design practice and the creative ingenuity of disability as adaptation.
 
+(I am reading widely in disability studies, but it's impossible to read everything. If there are particular disability sources who engage adaptation in rich theoretical ways, I'd love to hear from you!)
+
 
 
 
