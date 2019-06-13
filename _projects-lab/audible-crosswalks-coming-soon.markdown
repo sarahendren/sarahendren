@@ -1,7 +1,6 @@
 ---
 title: audible crosswalks (coming soon!)
 date: 2019-06-13 16:47:00 -04:00
-published: false
 ---
 
 Crosswalk signal sounds are infrastructure *and* culture. They sound like [beeps](https://www.youtube.com/watch?v=xjAq9tPaNLg) or [chirps](https://www.youtube.com/watch?v=gpE5-x6u500) or [drums](https://www.youtube.com/watch?v=HSNYmcbsnQw), depending on the city or town; there are even signals that are to the tune of [folk songs](https://www.youtube.com/watch?v=F-7k2y-mXAw) in Japan. They are everyday wayfinding design and unusual bits of the hyperlocal soundscape.
