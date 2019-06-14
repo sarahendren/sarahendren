@@ -1,7 +1,6 @@
 ---
 title: public things
 date: 2019-06-13 21:27:00 -04:00
-published: false
 ---
 
 Bonnie Honig's Public Things is the treatment of design from a political theorist I've been waiting for! It's thanks to my friend and (and Vassar colleague this past spring) that I've come across her book, [Public Things: Democracy in Disrepair](https://www.indiebound.org/book/9780823276417). Honig has some of the best language I've seen for understanding the work of material objects and structures as necessary for democratic imagination, and re-imagination, even if the things themselves will never be sufficient for the full conditions of human flourishing. Here's Honig on Frederick Law Olmsted's design of Central Park:
