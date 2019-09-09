@@ -7,7 +7,7 @@ My book has a title! WHAT CAN A BODY DO? How We Meet the Built World. The chapte
 
 Philosophy nerds will recognize that the question is originally Spinoza's, taken up later by Gilles Deleuze. What can a body do? That is to say, not what IS a body, but what are its *possibilities*? (For your sake and mine, I am *not* writing a philosophy book.)
 
-The people and organizations I report on are doing design, building material possibilities with this question about bodies in mind, the work of "social imagination" that Maxine Greene called "thinking as if things could be otherwise." With material stuff—a prosthesis for changing a diaper one-handed, and thousands of bespoke chairs made out of cardboard, and an automated home for living with ALS long past one's expected lifespan, and more.
+The people and organizations I report on are doing design, building material possibilities with this question in mind, the work of "social imagination" that Maxine Greene called "thinking as if things could be otherwise." With material stuff—a prosthesis for changing a diaper one-handed, and thousands of bespoke chairs made out of cardboard, and an automated home for living with ALS long past one's expected lifespan, and more.
 
 What can a body do? It depends, in the most interesting and politically charged ways: It depends not just on the body but on the extended shapes of the world around it in every way. Who gets down the street, into the bus, to the classroom or the voting booth, a shot at the interview? 
 
