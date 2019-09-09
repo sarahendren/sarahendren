@@ -15,4 +15,4 @@ I learned to connect this question to disability studies from a line of Judith B
 
 And the amazing Amanda Cachia, who opens my book's introduction with the idea for [a design project](http://aplusa.org/projects/alterpodium-amanda-cachia/) she brought to my lab, curated [an exhibition](http://www.amandacachia.com/curating/what-can-a-body-do/) some years ago invoking Deleuze's same question.
 
-For me, this long-held question remains open and unsolved, and therefore a perfect invitation to the reader—not as philosophy, but as stunningly creative *and* deeply urgent adaptive experience. What can a body do? Yours and those of others? It depends on bodies in a riotous, multidirectional exchange with the built world—products, environments, systems, and more.
+For me, this long-held query remains open and unsolved, and therefore a perfect invitation to the reader—not as philosophy, but as stunningly creative *and* deeply urgent adaptive experience. What can a body do? Yours and those of others? It depends on bodies in a riotous, multidirectional exchange with the built world—products, environments, systems, and more.
