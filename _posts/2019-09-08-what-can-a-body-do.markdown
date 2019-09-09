@@ -5,7 +5,7 @@ date: 2019-09-08 21:45:00 -04:00
 
 My book has a title! WHAT CAN A BODY DO? How We Meet the Built World. The chapters are organized by objects and environments—Limb, Chair, Room, Street, and more—and it comes out next summer from Riverhead Books. I'm thrilled. 
 
-Philosophy nerds will recognize that the question is originally Spinoza's, taken up later by Gilles Deleuze. What can a body do? That is to say, not what IS a body, but what are its *possibilities*? (Ahem, mine is not a philosophy book.)
+Philosophy nerds will recognize that the question is originally Spinoza's, taken up later by Gilles Deleuze. What can a body do? That is to say, not what IS a body, but what are its *possibilities*? (For your sake and mine, I am *not* writing a philosophy book.)
 
 The people and organizations I report on are doing design, building material possibilities with this question about bodies in mind, the work of "social imagination" that Maxine Greene called "thinking as if things could be otherwise." With material stuff.
 
