@@ -14,8 +14,8 @@ and then:
 In fact, Farrell quotes Lohmann on how universities perpetuate a far too safe culture:
 
 > "There is a dark side to the history of the university. It is largely a history of ossification punctuated by bursts of intellectual vibrancy and structural innovation. In the large sweep of history, change occurs not because existing scholars, departments, and institutions move with the times, but through replacement. New ideas and methods are developed by new generations of scholars working in newly founded disciplines. New structures that support new forms of inquiry and learning emerge in newly founded universities.
-
-Existing institutions do change—some of them, some of the time. When institutional change occurs, it is typically in response to the political or economic threat posed by entrants. Departments have a harder time reinventing themselves, and when they do, it is because of generational turnover, for individual scholars tend not to change at all."
+>
+>Existing institutions do change—some of them, some of the time. When institutional change occurs, it is typically in response to the political or economic threat posed by entrants. Departments have a harder time reinventing themselves, and when they do, it is because of generational turnover, for individual scholars tend not to change at all."
 
 
 
