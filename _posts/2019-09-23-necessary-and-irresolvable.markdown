@@ -1,5 +1,5 @@
 ---
-title: necessary and irresolvable
+title: variety and disorder
 date: 2019-09-23 11:00:00 -04:00
 ---
 
