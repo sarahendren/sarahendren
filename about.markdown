@@ -25,4 +25,4 @@ faculty, supported by the Mellon Foundation.
 
 
 
-More: I live in Cambridge, Mass., with [my husband](http://www.brianfunck.com/) and three children. [This lecture](https://vimeo.com/134764010) remains a good summary of my work. [Full CV](https://docs.google.com/document/d/1tEIkNOHSO_49yRCop_DkRHJEk1OQNQ5XUqPMvZbsYMk/edit#) and portfolio. Speaking requests go through Kate Berner at [Penguin Random House Speakers Bureau](https://www.prhspeakers.com/about-us).
+More: I live in Cambridge, Mass., with [my husband](http://www.brianfunck.com/) and three children. [This lecture](https://vimeo.com/134764010) remains a good summary of my work. [Full CV](https://docs.google.com/document/d/1tEIkNOHSO_49yRCop_DkRHJEk1OQNQ5XUqPMvZbsYMk/edit#) and [portfolio](https://drive.google.com/file/d/0B59TJ2hc29NFYmFfZUYwUlNKNHc/view?usp=sharing). Speaking requests go through Kate Berner at [Penguin Random House Speakers Bureau](https://www.prhspeakers.com/about-us).
