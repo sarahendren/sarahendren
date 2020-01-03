@@ -8,4 +8,4 @@ It's often said that an essay is "taking an idea for a walk." It's a handy metap
 
 How will I frame and present the complexity that comes with any topic that truly warrants a book? How much will I summarize, or analogize, to address the reader without overwhelming her? With key details but without too many detours? Writing a book that uses the *vast* body of disability studies as its backbone requires me to use some generalities and collapse some categories to work at the introductory level. It's not that a reader can't track along with complicated ideas. But to give fewer strong ideas the oxygen, the air and space that they need to really bloom, I've rewritten and cut ruthlessly and rewritten again and again and again. It's all an effort to take ideas for a walk, and to do a bit further crossing of that bridge, take on more of the effort, by extending further from my side.
 
-I heard an echo of this in the question put to Bryan Stevenson about the new film adaptation of his bestselling book, Just Mercy.
+I heard an echo of this in the question put to Bryan Stevenson about the new film adaptation of his bestselling book, Just Mercy. When asked about the adaptation
