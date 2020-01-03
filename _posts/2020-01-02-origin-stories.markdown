@@ -12,4 +12,4 @@ Speaking of [Elizabeth McCracken](https://sarahendren.com/2020/01/01/figments-an
 
 —[Bowlaway](https://www.indiebound.org/book/9780062862853)
 
-[If you’d like to get an upcoming monthly newsletter from me with a digest of these posts and other topics, that’s here. I promise not to make it just a book-hype machine.]
+[If you’d like to get an upcoming monthly newsletter from me with a digest of these posts and other topics, that’s [here](https://tinyletter.com/sarahendren). I promise not to make it just a book-hype machine.]
