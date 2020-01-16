@@ -14,7 +14,7 @@ the human body, technology, and the politics of disability — things like [a le
 
 
 
-Sara's work has been exhibited at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art and other venues and is held in the permanent collections of the Museum of Modern Art  and the Cooper Hewitt Museum. Her [first book](https://sarahendren.com/2019/09/08/what-can-a-body-do/), on the unexpected places where disability is at the heart of design in everyday
+Sara's work has been exhibited at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art and other venues and is held in the permanent collections of the Museum of Modern Art  and the Cooper Hewitt Museum. Her [first book](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), on the unexpected places where disability is at the heart of design in everyday
 objects and environments, is forthcoming from Riverhead/Penguin Random House in summer 2020. She has been an [Eric & Wendy Schmidt Fellow](https://www.newamerica.org/our-people/sara-hendren/) at the New America think tank, a [Logan Nonfiction Fellow](https://careyinstitute.org/index/sara-hendren/) at the Carey Institute for Global Good, a Tatlock Fellow at Vassar College, and
 the recipient of a [2017 Public Scholar
 grant](https://www.washingtonpost.com/entertainment/books/2017-neh-grants-encourage-great-scholarship-for-nonscholars-to-enjoy/2017/08/01/6e0e74f2-76e9-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.2c5f820b38a4) from the National Endowment for the Humanities. At Olin, she
