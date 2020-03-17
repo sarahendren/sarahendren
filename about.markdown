@@ -2,7 +2,7 @@
 title: about
 date: 2016-05-13 15:58:00 -04:00
 position: 1
-image: "/uploads/sara-hendren-new.png"
+image: "/uploads/Hendren,%20Sara-01.jpg"
 layout: about
 ---
 
