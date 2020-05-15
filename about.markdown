@@ -6,6 +6,7 @@ image: "/uploads/best%20headshot%20FF.JPG"
 layout: about
 ---
 
+![preorder.gif](/uploads/preorder.gif)
 
 Sara Hendren is an artist, design researcher, writer, and professor at [Olin College of Engineering](http://www.olin.edu). Her [lab](http://aplusa.org/) and [projects](https://sarahendren.com/projects-lab/#project) include collaborative
 public art and social design that engages
