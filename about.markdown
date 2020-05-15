@@ -2,7 +2,7 @@
 title: about
 date: 2016-05-13 15:58:00 -04:00
 position: 1
-image: "[![What Can A Body Do - Preorder Now](IMAGEURL)](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/)"
+image: "/uploads/best%20headshot%20FF.JPG"
 layout: about
 ---
 
