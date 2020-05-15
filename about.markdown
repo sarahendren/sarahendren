@@ -2,7 +2,7 @@
 title: about
 date: 2016-05-13 15:58:00 -04:00
 position: 1
-image: "/uploads/best%20headshot%20FF.JPG"
+image: http://cmscontent.penguinrandomhouse.com/TG/WhatCanABodyDo-PreorderEcard.html
 layout: about
 ---
 
