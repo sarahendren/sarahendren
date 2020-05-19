@@ -13,8 +13,7 @@ the human body, technology, and the politics of disability — things like [a le
 
 
 
-Sara's work has been exhibited at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art and other venues and is held in the permanent collections of the Museum of Modern Art  and the Cooper Hewitt Museum. Her [first book](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), on the unexpected places where disability is at the heart of design in everyday
-objects and environments, is forthcoming from Riverhead/Penguin Random House in summer 2020. At Olin, she
+Sara's work has been exhibited at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art and other venues and is held in the permanent collections of the Museum of Modern Art  and the Cooper Hewitt Museum. At Olin, she
 is also the Principal Investigator on [a
 three-year initiative](http://www.olin.edu/collaborate/sketch-model/) to bring more arts experiences to engineering students and
 faculty, supported by the Mellon Foundation.
