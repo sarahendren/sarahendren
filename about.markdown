@@ -8,6 +8,8 @@ layout: about
 
 Sara Hendren is an artist, design researcher, writer, and professor at [Olin College of Engineering](http://www.olin.edu). She is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), forthcoming from Penguin Random House in August 2020. 
 
+![preorder-91a59c.gif](/uploads/preorder-91a59c.gif)
+
 
 Her [lab](http://aplusa.org/) and [projects](https://sarahendren.com/projects-lab/#project) include collaborative
 public art and social design that engages
