@@ -11,4 +11,4 @@ We're also seeing rhetorical acts of repair: proposals for new worlds that might
 
 I'm interested in both critique and repair language (and in deeds, always), and I'm interested in more people getting clearer about which post they tend to occupy. Both are necessary, and neither is sufficient to the work of social change alone. Our inner disposition usually tends this way or that—and of course, it's all too easy to make our post—the modes of critique or the modes of repair—into the only post, or the more correct or righteous post. Or to cast doubt on the authenticity of the other. 
 
-But understanding each mode **as a post**—a vantage with particular assets and with unavoidable drawbacks—is the way to sidestep the ordinary debates about "civility" that tend to get explosive in urgent times. 
+But understanding each mode **as a post**—as a vantage with a view of the horizon that is necessarily partial, with particular assets and with unavoidable drawbacks—is the way to sidestep the ordinary debates about "civility" that tend to get explosive in urgent times. 
