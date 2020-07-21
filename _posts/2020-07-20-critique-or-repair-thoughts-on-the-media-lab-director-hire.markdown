@@ -14,6 +14,6 @@ I should say that I'm an invested outsider at the Lab, so my view is limited at 
 — Build an undivided house, and generate a shared vocabulary.
 — Reshape the metrics of impact.
 — Reconfigure the "Director's Fellows" program.
-— 
+— Adopt an explicitly relational model of change.
 
 
