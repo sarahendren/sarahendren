@@ -1,7 +1,6 @@
 ---
 title: fact + imagination
 date: 2020-08-06 10:34:00 -04:00
-published: false
 ---
 
 This is the best description of the artfulness required in non-fiction writing that I've seen. From Francis Spufford, "True Stories," in [True Stories and Other Essays](https://bookshop.org/books/true-stories-and-other-essays/9780300246667).
