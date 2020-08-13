@@ -5,4 +5,4 @@ position: 4
 layout: abler-archive
 ---
 
-Abler was a blog I ran between 2009-roughly 2015. You can usually see the [full Abler archives](https://ablersite.org/) for a particular post, but I've got an archiving issue I'm working out. More soon!
+Abler was a blog I ran between 2009-roughly 2015 on prosthetics, critical design, assistive technology, and disability. You can usually see the [full Abler archives](https://ablersite.org/) for a particular post, but I've got an archiving issue I'm working out. More soon!
