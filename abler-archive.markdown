@@ -5,4 +5,4 @@ position: 4
 layout: abler-archive
 ---
 
-You can search the [full Abler archives](https://ablersite.org/) for a particular post. But I’ve also assembled some guides here that capture the spirit of what Abler was about: ways to encounter disability and design in unusual and generative ways.
+Abler was a blog I ran between 2009-roughly 2015. You can usually see the [full Abler archives](https://ablersite.org/) for a particular post, but I've got an archiving issue I'm working out. More soon!
