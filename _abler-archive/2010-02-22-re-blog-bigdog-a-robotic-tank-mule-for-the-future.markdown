@@ -10,7 +10,7 @@ status: publish
 meta:
   original_post_id: '413'
   _wp_old_slug: '413'
-  image: wp-content/uploads/BigDog_ClimbRubble.png
+image: /uploads/BigDog_ClimbRubble.png
   _edit_last: '7812036'
   _thumbnail_id: '4615'
 author:

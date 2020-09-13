@@ -4,7 +4,7 @@ date: 2010-09-13 20:31:55 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/dollcyborg.jpg
+image: /uploads/dollcyborg.jpg
   _wp_old_slug: '918'
   original_post_id: '918'
   _thumbnail_id: '4063'

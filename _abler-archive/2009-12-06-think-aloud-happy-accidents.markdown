@@ -6,7 +6,7 @@ status: publish
 meta:
   _wp_old_slug: '204'
   original_post_id: '204'
-  image: wp-content/uploads/3_12wiggle-table.jpg
+image: /uploads/3_12wiggle-table.jpg
   _thumbnail_id: '4014'
   _edit_last: '7812036'
 author:

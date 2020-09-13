@@ -4,7 +4,7 @@ date: 2010-06-04 12:02:50 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/ID_PI_GOLBE_COUST_AP_001.jpg
+image: /uploads/ID_PI_GOLBE_COUST_AP_001.jpg
   original_post_id: '676'
   _wp_old_slug: '676'
   _thumbnail_id: '4625'

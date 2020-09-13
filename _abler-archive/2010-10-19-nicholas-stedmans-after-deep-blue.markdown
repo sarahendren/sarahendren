@@ -6,7 +6,7 @@ categories:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/ADBwithArmSmall2.jpg
+image: /uploads/ADBwithArmSmall2.jpg
   _wp_old_slug: '1112'
   original_post_id: '1112'
   _edit_last: '7812036'

@@ -8,7 +8,7 @@ status: publish
 meta:
   _thumbnail_id: '3615'
   _edit_last: '7812036'
-  image: wp-content/uploads/veasybleintimacy.gif
+image: /uploads/veasybleintimacy.gif
   original_post_id: '510'
   _wp_old_slug: '510'
 author:

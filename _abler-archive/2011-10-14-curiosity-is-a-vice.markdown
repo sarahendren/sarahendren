@@ -6,7 +6,7 @@ status: publish
 meta:
   _edit_last: '7812036'
   s2mail: 'yes'
-  image: wp-content/uploads/Curiosity-and-Milligram-Studio-Minimalist-Furniture-Design.jpg
+image: /uploads/Curiosity-and-Milligram-Studio-Minimalist-Furniture-Design.jpg
   _wp_old_slug: '2354'
   _sg_subscribe-to-comments: shoulder@match.com
   _thumbnail_id: '3606'

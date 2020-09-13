@@ -6,7 +6,7 @@ categories:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/sleeptalker.jpg
+image: /uploads/sleeptalker.jpg
   _wp_old_slug: '859'
   original_post_id: '859'
   _edit_last: '7812036'

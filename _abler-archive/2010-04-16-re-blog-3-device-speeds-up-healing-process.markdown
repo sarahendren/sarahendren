@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/negativepressuresuction.jpg
+image: /uploads/negativepressuresuction.jpg
   original_post_id: '522'
   _wp_old_slug: '522'
   _thumbnail_id: '4617'

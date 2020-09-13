@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/turtle-dove.gif
+image: /uploads/turtle-dove.gif
   original_post_id: '330'
   _wp_old_slug: '330'
   _thumbnail_id: '4000'

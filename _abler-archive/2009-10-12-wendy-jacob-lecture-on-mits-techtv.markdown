@@ -4,7 +4,7 @@ date: 2009-10-12 16:25:12 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/wj_chairs1_tn.jpg
+image: /uploads/wj_chairs1_tn.jpg
   original_post_id: '69'
   _wp_old_slug: '69'
   _thumbnail_id: '3976'

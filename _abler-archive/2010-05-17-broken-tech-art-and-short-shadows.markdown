@@ -4,7 +4,7 @@ date: 2010-05-17 14:31:53 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/shadowpuppet.gif
+image: /uploads/shadowpuppet.gif
   original_post_id: '640'
   _wp_old_slug: '640'
 author:

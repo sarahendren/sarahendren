@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/DetectAir.jpg
+image: /uploads/DetectAir.jpg
   original_post_id: '503'
   _wp_old_slug: '503'
   _thumbnail_id: '3980'

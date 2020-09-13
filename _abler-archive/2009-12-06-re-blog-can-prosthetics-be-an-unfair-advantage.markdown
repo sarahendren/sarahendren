@@ -4,7 +4,7 @@ date: 2009-12-06 21:25:45 -05:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/articleInline.jpg
+image: /uploads/articleInline.jpg
   original_post_id: '264'
   _wp_old_slug: '264'
   _thumbnail_id: '4011'

@@ -8,7 +8,7 @@ status: publish
 meta:
   _edit_last: '7812036'
   _thumbnail_id: '3640'
-  image: wp-content/uploads/urban-immune-system-research.jpg
+image: /uploads/urban-immune-system-research.jpg
   _wp_old_slug: '2274'
   s2mail: 'yes'
   original_post_id: '2274'

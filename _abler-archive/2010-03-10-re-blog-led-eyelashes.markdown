@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/LED_eyelashes.jpg
+image: /uploads/LED_eyelashes.jpg
   original_post_id: '457'
   _wp_old_slug: '457'
   _thumbnail_id: '3984'

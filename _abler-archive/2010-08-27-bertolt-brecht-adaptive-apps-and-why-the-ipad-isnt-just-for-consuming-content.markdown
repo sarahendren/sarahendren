@@ -4,7 +4,7 @@ date: 2010-08-27 12:33:32 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/iPad-autism.jpg
+image: /uploads/iPad-autism.jpg
   original_post_id: '722'
   _wp_old_slug: '722'
   _edit_last: '7812036'

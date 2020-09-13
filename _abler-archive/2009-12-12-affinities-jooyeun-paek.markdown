@@ -11,7 +11,7 @@ meta:
   _wp_old_slug: '279'
   original_post_id: '279'
   _sg_subscribe-to-comments: field@relation.com
-  image: wp-content/uploads/politeumbrella3.jpg
+image: /uploads/politeumbrella3.jpg
   switch_like_status: '1'
   _edit_last: '7812036'
   _thumbnail_id: '4007'

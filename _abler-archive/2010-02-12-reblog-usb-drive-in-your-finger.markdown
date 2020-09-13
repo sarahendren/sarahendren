@@ -10,7 +10,7 @@ status: publish
 meta:
   _wp_old_slug: '372'
   original_post_id: '372'
-  image: wp-content/uploads/usbfinger.jpg
+image: /uploads/usbfinger.jpg
   _thumbnail_id: '3991'
   _edit_last: '7812036'
 author:

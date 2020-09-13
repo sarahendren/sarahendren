@@ -4,7 +4,7 @@ date: 2010-10-11 13:46:33 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/BWAlienStaffManWEB1.jpg
+image: /uploads/BWAlienStaffManWEB1.jpg
   _wp_old_slug: '1027'
   original_post_id: '1027'
   _thumbnail_id: '4037'

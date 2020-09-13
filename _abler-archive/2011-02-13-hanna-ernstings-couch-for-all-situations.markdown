@@ -9,7 +9,7 @@ meta:
   _edit_last: '7812036'
   _thumbnail_id: '3784'
   _wp_old_slug: '1547'
-  image: wp-content/uploads/24.jpg
+image: /uploads/24.jpg
   original_post_id: '1547'
 author:
   login: sarahendren

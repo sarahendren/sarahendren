@@ -6,7 +6,7 @@ status: publish
 meta:
   _wp_old_slug: '353'
   original_post_id: '353'
-  image: wp-content/uploads/grahampullin.jpg
+image: /uploads/grahampullin.jpg
   _thumbnail_id: '3994'
   _edit_last: '7812036'
   switch_like_status: '1'

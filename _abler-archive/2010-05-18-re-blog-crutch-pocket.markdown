@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/crutch-pocket-sm.jpg
+image: /uploads/crutch-pocket-sm.jpg
   original_post_id: '648'
   _wp_old_slug: '648'
   _thumbnail_id: '4081'

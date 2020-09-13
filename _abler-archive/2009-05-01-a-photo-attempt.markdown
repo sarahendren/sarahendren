@@ -7,7 +7,7 @@ meta:
   _wp_old_slug: '9'
   original_post_id: '9'
   _thumbnail_id: '3969'
-  image: wp-content/uploads/asperger_large.jpg
+image: /uploads/asperger_large.jpg
   _edit_last: '7812036'
   _oembed_2a8d35fd6d6d85d86147c3769fe8dc4e: "{{unknown}}"
 author:

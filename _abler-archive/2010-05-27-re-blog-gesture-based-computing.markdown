@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/lycra-gloves-computing-mit.jpg
+image: /uploads/lycra-gloves-computing-mit.jpg
   original_post_id: '658'
   _wp_old_slug: '658'
   _edit_last: '7812036'

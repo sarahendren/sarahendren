@@ -5,7 +5,7 @@ type: post
 status: publish
 meta:
   _edit_last: '7812036'
-  image: wp-content/uploads/cyborg-fem2.jpg
+image: /uploads/cyborg-fem2.jpg
   _wp_old_slug: '2415'
   _thumbnail_id: '3602'
   image_url: http://www.ablersite.org/wp-content/uploads/cyborg-fem.jpg

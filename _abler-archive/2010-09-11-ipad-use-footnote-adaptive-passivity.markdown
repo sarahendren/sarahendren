@@ -4,7 +4,7 @@ date: 2010-09-11 15:34:46 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/354295_com_mobius_strip.jpg
+image: /uploads/354295_com_mobius_strip.jpg
   _wp_old_slug: '890'
   original_post_id: '890'
   _thumbnail_id: '4646'

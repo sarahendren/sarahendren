@@ -4,7 +4,7 @@ date: 2010-03-29 11:58:56 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/activechairmarshalls.jpg
+image: /uploads/activechairmarshalls.jpg
   original_post_id: '46'
   _wp_old_slug: '46'
   _edit_last: '7812036'

@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/epoc-neuroheadset-01.gif
+image: /uploads/epoc-neuroheadset-01.gif
   _sg_subscribe-to-comments: remain@base.com
   original_post_id: '710'
   _wp_old_slug: '710'

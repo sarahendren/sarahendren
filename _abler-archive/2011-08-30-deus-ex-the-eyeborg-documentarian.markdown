@@ -8,7 +8,7 @@ status: publish
 meta:
   _thumbnail_id: '3660'
   _edit_last: '7812036'
-  image: wp-content/uploads/eyeborg.jpg
+image: /uploads/eyeborg.jpg
   _wp_old_slug: '2108'
   s2mail: 'yes'
   original_post_id: '2108'

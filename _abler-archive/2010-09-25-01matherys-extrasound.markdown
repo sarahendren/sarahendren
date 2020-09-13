@@ -8,7 +8,7 @@ status: publish
 meta:
   _wp_old_slug: ''
   original_post_id: '948'
-  image: wp-content/uploads/horn106.jpg
+image: /uploads/horn106.jpg
   _thumbnail_id: '4649'
   _edit_last: '7812036'
 author:

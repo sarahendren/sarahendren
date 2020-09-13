@@ -6,7 +6,7 @@ categories:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/skintimacy2.png
+image: /uploads/skintimacy2.png
   _wp_old_slug: '1993'
   _thumbnail_id: '3683'
   s2mail: 'yes'

@@ -4,7 +4,7 @@ date: 2010-11-19 09:55:54 -05:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/Polymath1.jpg
+image: /uploads/Polymath1.jpg
   _wp_old_slug: '1246'
   original_post_id: '1246'
   _edit_last: '7812036'

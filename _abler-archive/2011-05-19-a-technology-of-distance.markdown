@@ -7,7 +7,7 @@ meta:
   _thumbnail_id: '3719'
   _edit_last: '7812036'
   _wp_old_slug: ''
-  image: wp-content/uploads/macaquebrain.jpg
+image: /uploads/macaquebrain.jpg
   original_post_id: '1895'
 author:
   login: sarahendren

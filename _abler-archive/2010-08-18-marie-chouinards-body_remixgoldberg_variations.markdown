@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/body-remix-006.jpg
+image: /uploads/body-remix-006.jpg
   original_post_id: '718'
   _wp_old_slug: '718'
   _thumbnail_id: '4644'

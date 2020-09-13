@@ -6,7 +6,7 @@ categories:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/yourblindpassenger02.jpg
+image: /uploads/yourblindpassenger02.jpg
   _wp_old_slug: '1348'
   original_post_id: '1348'
   _thumbnail_id: '4075'

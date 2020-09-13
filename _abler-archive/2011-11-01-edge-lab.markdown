@@ -6,7 +6,7 @@ categories:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/EDGE_circuits.jpg
+image: /uploads/EDGE_circuits.jpg
   _wp_old_slug: '2347'
   _thumbnail_id: '3604'
   image_url: http://www.ablersite.org/wp-content/uploads/EDGEZoe-sitting-chair-600x401.jpg

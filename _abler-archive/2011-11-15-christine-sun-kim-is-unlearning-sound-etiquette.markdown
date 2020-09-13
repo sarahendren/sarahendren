@@ -8,7 +8,7 @@ status: publish
 meta:
   _edit_last: '7812036'
   s2mail: 'yes'
-  image: wp-content/uploads/christinekimcloseup.jpg
+image: /uploads/christinekimcloseup.jpg
   _wp_old_slug: '2434'
   _thumbnail_id: '3599'
   original_post_id: '2434'

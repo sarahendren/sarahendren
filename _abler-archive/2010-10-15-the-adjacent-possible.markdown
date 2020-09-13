@@ -4,7 +4,7 @@ date: 2010-10-15 09:38:56 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/volcanic-ash-2.jpg
+image: /uploads/volcanic-ash-2.jpg
   _wp_old_slug: '1102'
   original_post_id: '1102'
   _thumbnail_id: '4654'

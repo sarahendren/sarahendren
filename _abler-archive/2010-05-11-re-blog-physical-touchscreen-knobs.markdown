@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/knob-dslabs.jpg
+image: /uploads/knob-dslabs.jpg
   original_post_id: '618'
   _wp_old_slug: '618'
   _thumbnail_id: '4619'

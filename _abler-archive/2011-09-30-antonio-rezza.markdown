@@ -8,7 +8,7 @@ status: publish
 meta:
   _edit_last: '7812036'
   switch_like_status: '1'
-  image: wp-content/uploads/3.jpg
+image: /uploads/3.jpg
   _wp_old_slug: '2315'
   _thumbnail_id: '3632'
   s2mail: 'yes'

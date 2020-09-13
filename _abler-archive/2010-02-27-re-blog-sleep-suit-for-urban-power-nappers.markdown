@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/sleep-suit-clothing-bag.jpg
+image: /uploads/sleep-suit-clothing-bag.jpg
   original_post_id: '428'
   _wp_old_slug: '428'
   _thumbnail_id: '3986'

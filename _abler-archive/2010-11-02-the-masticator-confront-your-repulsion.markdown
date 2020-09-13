@@ -12,7 +12,7 @@ meta:
     video/quicktime
   _wp_old_slug: '1156'
   original_post_id: '1156'
-  image: wp-content/uploads/triptic3x2.jpg
+image: /uploads/triptic3x2.jpg
   _thumbnail_id: '4101'
   _edit_last: '7812036'
 author:

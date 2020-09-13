@@ -16,7 +16,7 @@ meta:
   _sg_subscribe-to-comments: according@his.com
   s2mail: 'yes'
   _edit_last: '7812036'
-  image: wp-content/uploads/hearingaidnecklace.jpg
+image: /uploads/hearingaidnecklace.jpg
   _oembed_37cf65364feb0088bbb68e3aeeda0d6d: "{{unknown}}"
 author:
   login: sarahendren

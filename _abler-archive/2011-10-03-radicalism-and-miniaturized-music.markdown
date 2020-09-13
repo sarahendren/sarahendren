@@ -5,7 +5,7 @@ type: post
 status: publish
 meta:
   _edit_last: '7812036'
-  image: wp-content/uploads/td-407-headphones-silhouette.jpg
+image: /uploads/td-407-headphones-silhouette.jpg
   _wp_old_slug: '2337'
   _thumbnail_id: '3628'
   s2mail: 'yes'

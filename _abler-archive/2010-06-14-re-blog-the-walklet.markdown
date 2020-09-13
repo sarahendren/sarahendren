@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/walklet-install-6.jpg
+image: /uploads/walklet-install-6.jpg
   original_post_id: '685'
   _wp_old_slug: '685'
   _edit_last: '7812036'

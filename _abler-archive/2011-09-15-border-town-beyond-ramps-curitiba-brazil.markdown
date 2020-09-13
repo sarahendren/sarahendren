@@ -6,7 +6,7 @@ status: publish
 meta:
   _edit_last: '7812036'
   _thumbnail_id: '3649'
-  image: wp-content/uploads/curitiba_busstube.gif
+image: /uploads/curitiba_busstube.gif
   _wp_old_slug: '2122'
   original_post_id: '2122'
 author:

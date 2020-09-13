@@ -6,7 +6,7 @@ status: publish
 meta:
   _edit_last: '7812036'
   s2mail: 'yes'
-  image: wp-content/uploads/newstretchab.jpg
+image: /uploads/newstretchab.jpg
   _wp_old_slug: '2361'
   _thumbnail_id: '3608'
   original_post_id: '2361'

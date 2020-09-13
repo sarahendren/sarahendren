@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/wiicane-actual.gif
+image: /uploads/wiicane-actual.gif
   original_post_id: '690'
   _wp_old_slug: '690'
   _thumbnail_id: '4639'

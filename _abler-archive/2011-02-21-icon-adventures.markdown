@@ -6,7 +6,7 @@ status: publish
 meta:
   _edit_last: '7812036'
   _thumbnail_id: '3765'
-  image: wp-content/uploads/wheelchairsticker2.jpg
+image: /uploads/wheelchairsticker2.jpg
   _wp_old_slug: '1610'
   original_post_id: '1610'
 author:

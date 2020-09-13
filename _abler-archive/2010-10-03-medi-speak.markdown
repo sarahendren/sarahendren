@@ -4,7 +4,7 @@ date: 2010-10-03 13:36:36 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/pillowcasetransparency1.jpg
+image: /uploads/pillowcasetransparency1.jpg
   _wp_old_slug: '967'
   original_post_id: '967'
   _edit_last: '7812036'

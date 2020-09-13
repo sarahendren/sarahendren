@@ -6,7 +6,7 @@ categories:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/Light-Emitter.jpg
+image: /uploads/Light-Emitter.jpg
   _wp_old_slug: '1266'
   original_post_id: '1266'
   _thumbnail_id: '4067'

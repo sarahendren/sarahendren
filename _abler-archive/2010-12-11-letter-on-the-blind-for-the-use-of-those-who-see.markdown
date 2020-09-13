@@ -6,7 +6,7 @@ categories:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/tellez.jpg
+image: /uploads/tellez.jpg
   _wp_old_slug: '1323'
   original_post_id: '1323'
   _thumbnail_id: '4055'

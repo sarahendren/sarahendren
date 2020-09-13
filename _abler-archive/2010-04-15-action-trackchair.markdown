@@ -8,7 +8,7 @@ tags:
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/actiontrack.jpg
+image: /uploads/actiontrack.jpg
   original_post_id: '517'
   _wp_old_slug: '517'
   _thumbnail_id: '4058'

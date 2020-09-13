@@ -5,7 +5,7 @@ type: post
 status: publish
 meta:
   s2mail: 'yes'
-  image: wp-content/uploads/icord-building.jpg
+image: /uploads/icord-building.jpg
   _thumbnail_id: '3507'
   image_url: http://farm3.staticflickr.com/2516/4029934185_6d0936a214.jpg
   image_tag: <img src="http://farm3.staticflickr.com/2516/4029934185_6d0936a214.jpg"

@@ -6,7 +6,7 @@ status: publish
 meta:
   _wp_old_slug: ''
   original_post_id: '1000'
-  image: wp-content/uploads/construction.jpg
+image: /uploads/construction.jpg
   _thumbnail_id: '4124'
   _edit_last: '7812036'
   switch_like_status: '1'

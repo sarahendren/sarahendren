@@ -11,7 +11,7 @@ meta:
   original_post_id: '2748'
   _wp_old_slug: '2748'
   s2mail: 'yes'
-  image: wp-content/uploads/Implant_Gel_Hand.jpg
+image: /uploads/Implant_Gel_Hand.jpg
   _sg_subscribe-to-comments: vicente.fleming.gekv58@yahoo.com
   _thumbnail_id: '3848'
 author:

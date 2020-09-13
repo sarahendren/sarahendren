@@ -4,7 +4,7 @@ date: 2010-06-01 19:46:26 -04:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/rebeccahorn.jpg
+image: /uploads/rebeccahorn.jpg
   original_post_id: '669'
   _wp_old_slug: '669'
   _thumbnail_id: '4304'

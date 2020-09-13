@@ -4,7 +4,7 @@ date: 2010-11-11 21:42:53 -05:00
 type: post
 status: publish
 meta:
-  image: wp-content/uploads/01.Busplan_small.jpg
+image: /uploads/01.Busplan_small.jpg
   _wp_old_slug: '995'
   original_post_id: '995'
   _edit_last: '7812036'
