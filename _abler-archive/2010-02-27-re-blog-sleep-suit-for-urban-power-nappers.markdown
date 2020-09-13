@@ -1,5 +1,6 @@
 ---
 title: 2010 02 27 Re Blog Sleep Suit For Urban Power Nappers
+date: 2010-02-27 00:00:00 -05:00
 type: archive
 ---
 

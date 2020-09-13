@@ -1,5 +1,6 @@
 ---
 title: 2010 04 16 Re Blog 3 Device Speeds Up Healing Process
+date: 2010-04-16 00:00:00 -04:00
 type: archive
 ---
 

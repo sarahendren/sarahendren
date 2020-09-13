@@ -1,5 +1,6 @@
 ---
 title: 2009 10 16 Re Blog Uselessuseful
+date: 2009-10-16 00:00:00 -04:00
 type: archive
 ---
 

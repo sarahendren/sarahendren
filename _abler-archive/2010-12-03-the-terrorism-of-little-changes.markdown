@@ -1,5 +1,6 @@
 ---
 title: 2010 12 03 The Terrorism Of Little Changes
+date: 2010-12-03 00:00:00 -05:00
 type: archive
 ---
 

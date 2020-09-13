@@ -1,6 +1,7 @@
 ---
 title: 2010 08 27 Bertolt Brecht Adaptive Apps And Why The Ipad Isnt Just For Consuming
   Content
+date: 2010-08-27 00:00:00 -04:00
 type: archive
 ---
 

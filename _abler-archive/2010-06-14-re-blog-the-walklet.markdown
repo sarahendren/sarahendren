@@ -1,5 +1,6 @@
 ---
 title: 2010 06 14 Re Blog The Walklet
+date: 2010-06-14 00:00:00 -04:00
 type: archive
 ---
 

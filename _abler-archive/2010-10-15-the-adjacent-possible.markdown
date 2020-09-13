@@ -1,5 +1,6 @@
 ---
 title: 2010 10 15 The Adjacent Possible
+date: 2010-10-15 00:00:00 -04:00
 type: archive
 ---
 

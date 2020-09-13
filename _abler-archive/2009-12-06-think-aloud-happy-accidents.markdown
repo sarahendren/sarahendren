@@ -1,5 +1,6 @@
 ---
 title: 2009 12 06 Think Aloud Happy Accidents
+date: 2009-12-06 00:00:00 -05:00
 type: archive
 ---
 

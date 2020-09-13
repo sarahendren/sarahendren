@@ -1,5 +1,6 @@
 ---
 title: 2010 06 08 Re Blog Music For Deaf Hearers
+date: 2010-06-08 00:00:00 -04:00
 type: archive
 ---
 

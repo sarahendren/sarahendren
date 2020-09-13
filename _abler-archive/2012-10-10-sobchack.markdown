@@ -1,7 +1,7 @@
 ---
 title: replacement parts
 date: 2012-10-10 11:52:56 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'
@@ -16,7 +16,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p>A friend sent along <a href="http://www.buzzfeed.com/angelameiquan/21-antique-limbs-for-the-early-amputee-70fn">this Buzzfeed post</a> featuring historical prostheses—and naturally, it belongs here on Abler. It's another one of these photo-round-up posts, presented without comment, that make me curious again about what we're getting when we consume these images.</p>

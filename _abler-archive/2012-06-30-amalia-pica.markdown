@@ -1,5 +1,6 @@
 ---
 title: 2012 06 30 Amalia Pica
+date: 2012-06-30 00:00:00 -04:00
 type: archive
 ---
 

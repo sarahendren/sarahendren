@@ -1,5 +1,6 @@
 ---
 title: 2011 10 14 Curiosity Is A Vice
+date: 2011-10-14 00:00:00 -04:00
 type: archive
 ---
 

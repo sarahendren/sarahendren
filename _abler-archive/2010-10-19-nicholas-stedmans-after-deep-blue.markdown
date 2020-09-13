@@ -1,5 +1,6 @@
 ---
 title: 2010 10 19 Nicholas Stedmans After Deep Blue
+date: 2010-10-19 00:00:00 -04:00
 type: archive
 ---
 

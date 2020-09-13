@@ -1,5 +1,6 @@
 ---
 title: 2011 06 02 Tangible Sound Labs Skintimacy
+date: 2011-06-02 00:00:00 -04:00
 type: archive
 ---
 

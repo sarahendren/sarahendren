@@ -1,5 +1,6 @@
 ---
 title: 2011 09 30 Antonio Rezza
+date: 2011-09-30 00:00:00 -04:00
 type: archive
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 2012 01 03 Unknown Armature Body Socks
+date: 2012-01-03 00:00:00 -05:00
 type: archive
 ---
 

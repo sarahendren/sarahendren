@@ -1,5 +1,6 @@
 ---
 title: 2011 01 20 Morse Code Jewelry
+date: 2011-01-20 00:00:00 -05:00
 type: archive
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 2010 09 22 Steve Hoefers Hand Lights
+date: 2010-09-22 00:00:00 -04:00
 type: archive
 ---
 

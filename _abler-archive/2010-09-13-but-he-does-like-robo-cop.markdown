@@ -1,5 +1,6 @@
 ---
 title: 2010 09 13 But He Does Like Robo Cop
+date: 2010-09-13 00:00:00 -04:00
 type: archive
 ---
 

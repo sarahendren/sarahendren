@@ -1,7 +1,7 @@
 ---
 title: magic arms
 date: 2012-08-02 21:19:19 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _wp_old_slug: '2913'
@@ -18,7 +18,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2012/08/magic_arms.jpg"><img class="alignnone  wp-image-3841" title="Magic_ARms" alt="a close up of the 3 year old subject wearing her exoskeleton technology" src="{{ site.baseurl }}/uploads/magic_arms.jpg" width="600" height="338" /></a></p>

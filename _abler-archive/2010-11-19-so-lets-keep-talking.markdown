@@ -1,5 +1,6 @@
 ---
 title: 2010 11 19 So Lets Keep Talking
+date: 2010-11-19 00:00:00 -05:00
 type: archive
 ---
 

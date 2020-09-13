@@ -1,5 +1,6 @@
 ---
 title: 2010 08 18 Marie Chouinards Body Remixgoldberg Variations
+date: 2010-08-18 00:00:00 -04:00
 type: archive
 ---
 

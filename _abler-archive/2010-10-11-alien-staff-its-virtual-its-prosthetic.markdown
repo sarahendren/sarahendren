@@ -1,5 +1,6 @@
 ---
 title: 2010 10 11 Alien Staff Its Virtual Its Prosthetic
+date: 2010-10-11 00:00:00 -04:00
 type: archive
 ---
 

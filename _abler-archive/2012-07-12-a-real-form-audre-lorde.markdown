@@ -1,5 +1,6 @@
 ---
 title: 2012 07 12 A Real Form Audre Lorde
+date: 2012-07-12 00:00:00 -04:00
 type: archive
 ---
 

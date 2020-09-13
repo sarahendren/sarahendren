@@ -1,5 +1,6 @@
 ---
 title: 2011 07 21 Monu Nerd Nite Boston
+date: 2011-07-21 00:00:00 -04:00
 type: archive
 ---
 

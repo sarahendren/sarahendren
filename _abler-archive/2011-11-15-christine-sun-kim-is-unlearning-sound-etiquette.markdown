@@ -1,5 +1,6 @@
 ---
 title: 2011 11 15 Christine Sun Kim Is Unlearning Sound Etiquette
+date: 2011-11-15 00:00:00 -05:00
 type: archive
 ---
 

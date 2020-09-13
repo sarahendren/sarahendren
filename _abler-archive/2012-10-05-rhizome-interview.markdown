@@ -1,7 +1,7 @@
 ---
 title: rhizome interview
 date: 2012-10-05 01:15:06 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'
@@ -12,7 +12,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2012/10/gloves01.jpg"><img class="alignnone size-full wp-image-4045" title="Gloves01" alt="" src="{{ site.baseurl }}/uploads/gloves01.jpg" width="640" height="426" /></a></p>

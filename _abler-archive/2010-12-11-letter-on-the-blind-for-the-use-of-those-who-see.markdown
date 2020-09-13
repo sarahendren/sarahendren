@@ -1,5 +1,6 @@
 ---
 title: 2010 12 11 Letter On The Blind For The Use Of Those Who See
+date: 2010-12-11 00:00:00 -05:00
 type: archive
 ---
 

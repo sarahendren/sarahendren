@@ -1,6 +1,7 @@
 ---
 title: 2010 04 17 Adaptation Part Iii Art As Research Braille Tattoos Socially Adept
   Handbags
+date: 2010-04-17 00:00:00 -04:00
 type: archive
 ---
 

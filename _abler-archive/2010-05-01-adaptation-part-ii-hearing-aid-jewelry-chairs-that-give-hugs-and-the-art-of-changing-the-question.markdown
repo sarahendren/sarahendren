@@ -1,6 +1,7 @@
 ---
 title: 2010 05 01 Adaptation Part Ii Hearing Aid Jewelry Chairs That Give Hugs And
   The Art Of Changing The Question
+date: 2010-05-01 00:00:00 -04:00
 type: archive
 ---
 

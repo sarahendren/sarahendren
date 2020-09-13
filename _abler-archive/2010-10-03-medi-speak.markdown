@@ -1,5 +1,6 @@
 ---
 title: 2010 10 03 Medi Speak
+date: 2010-10-03 00:00:00 -04:00
 type: archive
 ---
 

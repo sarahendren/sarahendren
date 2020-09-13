@@ -1,5 +1,6 @@
 ---
 title: 2010 09 03 Alex Dodges Sleep Talker
+date: 2010-09-03 00:00:00 -04:00
 type: archive
 ---
 

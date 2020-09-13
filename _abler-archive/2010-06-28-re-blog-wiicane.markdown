@@ -1,5 +1,6 @@
 ---
 title: 2010 06 28 Re Blog Wiicane
+date: 2010-06-28 00:00:00 -04:00
 type: archive
 ---
 

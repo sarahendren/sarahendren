@@ -1,5 +1,6 @@
 ---
 title: 2010 12 24 Olafur Eliasson Your Blind Passenger
+date: 2010-12-24 00:00:00 -05:00
 type: archive
 ---
 

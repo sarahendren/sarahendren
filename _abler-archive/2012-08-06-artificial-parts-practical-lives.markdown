@@ -1,7 +1,7 @@
 ---
 title: artificial parts, practical lives
 date: 2012-08-06 12:35:23 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _wp_old_slug: '2928'
@@ -19,7 +19,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2012/08/015_jaipurfoot.jpg"><img class="alignnone size-full wp-image-3839" title="015_jaipurfoot" src="{{ site.baseurl }}/uploads/015_jaipurfoot.jpg" alt="several pairs of jaipur feet in a row" width="600" height="350" /></a></p>

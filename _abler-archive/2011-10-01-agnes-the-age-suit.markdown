@@ -1,5 +1,6 @@
 ---
 title: 2011 10 01 Agnes The Age Suit
+date: 2011-10-01 00:00:00 -04:00
 type: archive
 ---
 

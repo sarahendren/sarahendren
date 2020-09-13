@@ -1,5 +1,6 @@
 ---
 title: 2011 09 15 Border Town Beyond Ramps Curitiba Brazil
+date: 2011-09-15 00:00:00 -04:00
 type: archive
 ---
 

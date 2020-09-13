@@ -1,5 +1,6 @@
 ---
 title: 2009 12 06 Re Blog Can Prosthetics Be An Unfair Advantage
+date: 2009-12-06 00:00:00 -05:00
 type: archive
 ---
 

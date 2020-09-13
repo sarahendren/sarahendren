@@ -3,7 +3,7 @@ title: michael kontopoulos's "water rites"
 date: 2011-08-04 20:27:11 -04:00
 categories:
 - re-blog
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'
@@ -18,7 +18,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/08/kontopolous2.png"><img class="alignnone size-full wp-image-3665" title="Kontopolous2" src="{{ site.baseurl }}/uploads/kontopolous2.png" alt="" width="640" height="180" /></a></p>

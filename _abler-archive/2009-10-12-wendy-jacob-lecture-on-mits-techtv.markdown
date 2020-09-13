@@ -1,5 +1,6 @@
 ---
 title: 2009 10 12 Wendy Jacob Lecture On Mits Techtv
+date: 2009-10-12 00:00:00 -04:00
 type: archive
 ---
 

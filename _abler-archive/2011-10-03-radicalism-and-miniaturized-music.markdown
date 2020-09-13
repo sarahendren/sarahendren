@@ -1,5 +1,6 @@
 ---
 title: 2011 10 03 Radicalism And Miniaturized Music
+date: 2011-10-03 00:00:00 -04:00
 type: archive
 ---
 

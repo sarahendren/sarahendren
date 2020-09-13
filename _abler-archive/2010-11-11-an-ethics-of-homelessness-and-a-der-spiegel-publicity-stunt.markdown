@@ -1,5 +1,6 @@
 ---
 title: 2010 11 11 An Ethics Of Homelessness And A Der Spiegel Publicity Stunt
+date: 2010-11-11 00:00:00 -05:00
 type: archive
 ---
 

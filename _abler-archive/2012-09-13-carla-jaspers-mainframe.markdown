@@ -1,7 +1,7 @@
 ---
 title: 'carla jaspers: "mainframe"'
 date: 2012-09-13 23:21:57 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _thumbnail_id: '3703'
@@ -17,7 +17,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p><a href="http://www.carlajaspers.com/">Carla Jaspers</a> is a New York-based designer trained both in occupational therapy and industrial design, and possibly the first person to properly rant about the ridiculousness of walkers-with-tennis-balls:</p>

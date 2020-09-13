@@ -1,5 +1,6 @@
 ---
 title: 2010 02 12 Reblog Usb Drive In Your Finger
+date: 2010-02-12 00:00:00 -05:00
 type: archive
 ---
 

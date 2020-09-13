@@ -1,7 +1,7 @@
 ---
 title: Lynn Bennett Carpenter's haptic sensations
 date: 2009-11-18 10:49:53 -05:00
-type: post
+type: archive
 status: publish
 meta:
   image: http://dev.sarahendren.com/wp-content/uploads/coralcropped11.jpg
@@ -15,7 +15,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p><a href="http://marcelynbennettcarpenter.com/home.html">Lynn Bennett-Carpenter</a> is a fiber artist based in Detroit. Her work is often interactive, often site-specific, and a number of pieces are wearable, neither proper clothing nor purely functional tools. I asked her specifically about pieces from her "Fittings" series, and from her "Elastic Experiment" works.</p>

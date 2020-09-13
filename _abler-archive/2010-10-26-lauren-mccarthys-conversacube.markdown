@@ -1,5 +1,6 @@
 ---
 title: 2010 10 26 Lauren Mccarthys Conversacube
+date: 2010-10-26 00:00:00 -04:00
 type: archive
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 2010 11 02 The Masticator Confront Your Repulsion
+date: 2010-11-02 00:00:00 -04:00
 type: archive
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 2012 04 20 Douglas Irving Repettos Foal
+date: 2012-04-20 00:00:00 -04:00
 type: archive
 ---
 

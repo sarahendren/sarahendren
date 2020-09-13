@@ -1,5 +1,6 @@
 ---
 title: 2010 03 29 Ongoing Public Signs
+date: 2010-03-29 00:00:00 -04:00
 type: archive
 ---
 

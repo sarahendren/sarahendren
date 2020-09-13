@@ -1,5 +1,6 @@
 ---
 title: 2011 09 19 Urban Immune System Research
+date: 2011-09-19 00:00:00 -04:00
 type: archive
 ---
 

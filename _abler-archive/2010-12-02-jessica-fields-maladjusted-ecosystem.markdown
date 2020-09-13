@@ -1,5 +1,6 @@
 ---
 title: 2010 12 02 Jessica Fields Maladjusted Ecosystem
+date: 2010-12-02 00:00:00 -05:00
 type: archive
 ---
 

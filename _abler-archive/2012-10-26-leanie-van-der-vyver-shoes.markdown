@@ -1,7 +1,7 @@
 ---
 title: 'Leanie van der Vyver: "heels."'
 date: 2012-10-26 17:02:59 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'
@@ -15,7 +15,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p>I'm always interested in prosthetics that create slowness, as opposed to speed; disruption, as opposed to efficiency. Like Sitraka Rakotoniaina and Harry Vermeulen’s <a href="http://ablersite.org/2012/01/19/see-yourself-sensing/"><em>Time Conditioning</em></a> piece, or Jessica Field's <a href="http://ablersite.org/2010/12/02/jessica-fields-maladjusted-ecosystem/"><em>Maladjusted Ecosystem</em></a>. So I also love these shoes by <a href="http://cargocollective.com/Leanie">Leanie van der Vyver</a>:</p>

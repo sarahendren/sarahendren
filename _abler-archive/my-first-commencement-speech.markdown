@@ -7,5 +7,4 @@ date-display: 2016
 type: archive
 ---
 
-
 A commencement speech I gave for Olin’s 2016 class. My first: [Continue reading →](https://ablersite.org/2016/05/16/my-first-commencement-speech/)

@@ -1,7 +1,7 @@
 ---
 title: lung-on-a-chip
 date: 2012-11-07 18:44:27 -05:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'
@@ -14,7 +14,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p>On Thursday I'm heading over to the <a href="http://wyss.harvard.edu/">Wyss Institute for Biologically Inspired Engineering</a> for a visit. The Wyss is a recent and unique model for a laboratory environment: where researchers, medical practitioners, and entrepreneurs come together to make "translational" technologies suitable for manufacturing. Not a lab for basic research, and not a business entity, the Institute functions in between those spaces.</p>

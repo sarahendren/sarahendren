@@ -1,5 +1,6 @@
 ---
 title: 2012 03 05 Recognizing Openness
+date: 2012-03-05 00:00:00 -05:00
 type: archive
 ---
 

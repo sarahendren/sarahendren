@@ -1,5 +1,6 @@
 ---
 title: 2010 09 11 Ipad Use Footnote Adaptive Passivity
+date: 2010-09-11 00:00:00 -04:00
 type: archive
 ---
 

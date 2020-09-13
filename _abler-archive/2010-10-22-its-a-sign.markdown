@@ -1,5 +1,6 @@
 ---
 title: 2010 10 22 Its A Sign
+date: 2010-10-22 00:00:00 -04:00
 type: archive
 ---
 

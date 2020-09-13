@@ -1,7 +1,7 @@
 ---
 title: 'the facebook demetricator: un-count your likes.'
 date: 2012-10-22 17:11:01 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'
@@ -13,7 +13,6 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
-type: archive
 ---
 
 <p>I'm thinking again of Zadie Smith's searing and much-discussed <a href="http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/?pagination=false">critique of Facebook</a> from 2010, where she links the Hollywood biopic of Facebook and its creator, Mark Zuckerberg, to the larger limits of the platform:</p>

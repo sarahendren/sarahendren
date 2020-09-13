@@ -1,5 +1,6 @@
 ---
 title: 2012 01 19 See Yourself Sensing
+date: 2012-01-19 00:00:00 -05:00
 type: archive
 ---
 

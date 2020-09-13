@@ -1,5 +1,6 @@
 ---
 title: 2009 05 01 A Photo Attempt
+date: 2009-05-01 00:00:00 -04:00
 type: archive
 ---
 

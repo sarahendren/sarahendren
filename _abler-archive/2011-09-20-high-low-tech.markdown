@@ -1,5 +1,6 @@
 ---
 title: 2011 09 20 High Low Tech
+date: 2011-09-20 00:00:00 -04:00
 type: archive
 ---
 

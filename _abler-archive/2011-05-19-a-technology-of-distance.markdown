@@ -1,5 +1,6 @@
 ---
 title: 2011 05 19 A Technology Of Distance
+date: 2011-05-19 00:00:00 -04:00
 type: archive
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 2011 10 13 Material Interfaces Part Ii
+date: 2011-10-13 00:00:00 -04:00
 type: archive
 ---
 

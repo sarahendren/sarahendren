@@ -1,5 +1,6 @@
 ---
 title: 2010 05 27 Re Blog Gesture Based Computing
+date: 2010-05-27 00:00:00 -04:00
 type: archive
 ---
 

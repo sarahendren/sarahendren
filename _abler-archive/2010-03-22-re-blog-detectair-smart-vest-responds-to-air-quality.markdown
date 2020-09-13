@@ -1,5 +1,6 @@
 ---
 title: 2010 03 22 Re Blog Detectair Smart Vest Responds To Air Quality
+date: 2010-03-22 00:00:00 -04:00
 type: archive
 ---
 

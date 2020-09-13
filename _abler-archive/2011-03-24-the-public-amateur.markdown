@@ -1,5 +1,6 @@
 ---
 title: 2011 03 24 The Public Amateur
+date: 2011-03-24 00:00:00 -04:00
 type: archive
 ---
 

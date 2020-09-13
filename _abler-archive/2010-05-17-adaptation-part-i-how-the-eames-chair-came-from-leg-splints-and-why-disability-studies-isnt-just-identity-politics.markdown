@@ -1,6 +1,7 @@
 ---
 title: 2010 05 17 Adaptation Part I How The Eames Chair Came From Leg Splints And
   Why Disability Studies Isnt Just Identity Politics
+date: 2010-05-17 00:00:00 -04:00
 type: archive
 ---
 

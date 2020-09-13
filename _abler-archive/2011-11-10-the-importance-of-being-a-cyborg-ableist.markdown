@@ -1,5 +1,6 @@
 ---
 title: 2011 11 10 The Importance Of Being A Cyborg Ableist
+date: 2011-11-10 00:00:00 -05:00
 type: archive
 ---
 

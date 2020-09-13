@@ -1,5 +1,6 @@
 ---
 title: 2010 01 05 Re Blog Braille Friendly Banjo Tabs
+date: 2010-01-05 00:00:00 -05:00
 type: archive
 ---
 

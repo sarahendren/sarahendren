@@ -1,5 +1,6 @@
 ---
 title: 2011 03 31 Accessibility Redefined
+date: 2011-03-31 00:00:00 -04:00
 type: archive
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 2011 11 01 Edge Lab
+date: 2011-11-01 00:00:00 -04:00
 type: archive
 ---
 

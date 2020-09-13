@@ -1,5 +1,6 @@
 ---
 title: 2010 02 22 Re Blog Bigdog A Robotic Tank Mule For The Future
+date: 2010-02-22 00:00:00 -05:00
 type: archive
 ---
 

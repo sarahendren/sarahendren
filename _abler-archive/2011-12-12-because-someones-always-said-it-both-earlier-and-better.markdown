@@ -1,5 +1,6 @@
 ---
 title: 2011 12 12 Because Someones Always Said It Both Earlier And Better
+date: 2011-12-12 00:00:00 -05:00
 type: archive
 ---
 

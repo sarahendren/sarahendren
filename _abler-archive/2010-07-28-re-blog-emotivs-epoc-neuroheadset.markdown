@@ -1,5 +1,6 @@
 ---
 title: 2010 07 28 Re Blog Emotivs Epoc Neuroheadset
+date: 2010-07-28 00:00:00 -04:00
 type: archive
 ---
 

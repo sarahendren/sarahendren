@@ -1,5 +1,6 @@
 ---
 title: 2010 06 04 I Am Rather An Impresario Of Scientists
+date: 2010-06-04 00:00:00 -04:00
 type: archive
 ---
 

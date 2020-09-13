@@ -1,5 +1,6 @@
 ---
 title: 2011 07 19 Sascha Nordmeyers Communication Prosthesis And More At Moma
+date: 2011-07-19 00:00:00 -04:00
 type: archive
 ---
 
