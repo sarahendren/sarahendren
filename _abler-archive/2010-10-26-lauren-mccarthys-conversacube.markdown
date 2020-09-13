@@ -1,22 +1,5 @@
 ---
-title: Lauren McCarthy's Conversacube
-date: 2010-10-26 16:07:55 -04:00
-categories:
-- re-blog
-type: post
-status: publish
-meta:
-  _wp_old_slug: ''
-  original_post_id: '1137'
-image: /uploads/conversacube2.jpg
-  _edit_last: '7812036'
-  _thumbnail_id: '4333'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 10 26 Lauren Mccarthys Conversacube
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/10/conversacube2.jpg"><img class="alignnone size-full wp-image-4333" alt="conversacube2" src="{{ site.baseurl }}/uploads/conversacube2.jpg" width="610" height="406" /></a></p>

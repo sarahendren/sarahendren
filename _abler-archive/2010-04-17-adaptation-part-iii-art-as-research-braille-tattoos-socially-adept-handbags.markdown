@@ -1,22 +1,6 @@
 ---
-title: 'Adaptation, Part III: Art as Research (Braille tattoos! Socially-adept handbags!)'
-date: 2010-04-17 12:06:46 -04:00
-categories:
-- new here?
-type: post
-status: publish
-meta:
-  _thumbnail_id: '3615'
-  _edit_last: '7812036'
-image: /uploads/veasybleintimacy.gif
-  original_post_id: '510'
-  _wp_old_slug: '510'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 04 17 Adaptation Part Iii Art As Research Braille Tattoos Socially Adept
+  Handbags
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/04/centralcommandstudy.jpg"><img class="alignnone size-full wp-image-3816" title="centralcommandstudy" alt="" src="{{ site.baseurl }}/uploads/centralcommandstudy.jpg" width="600" height="400" /></a></p>

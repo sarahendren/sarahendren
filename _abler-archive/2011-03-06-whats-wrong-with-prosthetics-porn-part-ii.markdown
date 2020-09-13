@@ -1,22 +1,5 @@
 ---
-title: what's wrong with "prosthetics porn"? (part II)
-date: 2011-03-06 20:42:55 -05:00
-type: post
-status: publish
-meta:
-  _thumbnail_id: '3759'
-  _edit_last: '7812036'
-image: /uploads/Silver-Medal-Ride.jpg
-  _wp_old_slug: '1483'
-  original_post_id: '1483'
-  twitter_cards_summary_img_size: a:7:{i:0;i:394;i:1;i:500;i:2;i:2;i:3;s:24:"width="394"
-    height="500"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2011 03 06 Whats Wrong With Prosthetics Porn Part Ii
 ---
 
 <p>Part I of this essay is <a href="http://ablersite.org/2011/02/20/whats-wrong-with-prosthetics-porn-part-i/">here</a>.</p>

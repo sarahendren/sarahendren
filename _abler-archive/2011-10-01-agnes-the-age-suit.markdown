@@ -1,25 +1,5 @@
 ---
-title: 'AGNES: the age suit'
-date: 2011-10-01 15:21:20 -04:00
-categories:
-- re-blog
-type: post
-status: publish
-meta:
-  _edit_last: '7812036'
-  switch_like_status: '1'
-  _wp_old_slug: ''
-  original_post_id: '2322'
-image: /uploads/agesuitbig__1237815097_6676.jpg
-  _sg_subscribe-to-comments: carlamjaspers@gmail.com
-  s2mail: 'yes'
-  _thumbnail_id: '3630'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2011 10 01 Agnes The Age Suit
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/10/agesuitbig__1237815097_6676.jpg"><img class="alignnone size-full wp-image-3630" title="agesuitbig__1237815097_6676" src="{{ site.baseurl }}/uploads/agesuitbig__1237815097_6676.jpg" alt="" width="640" height="975" /></a></p>

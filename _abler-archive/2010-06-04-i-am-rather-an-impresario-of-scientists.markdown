@@ -1,20 +1,5 @@
 ---
-title: "\"I am, rather, an impresario of scientists.\"\x9D"
-date: 2010-06-04 12:02:50 -04:00
-type: post
-status: publish
-meta:
-image: /uploads/ID_PI_GOLBE_COUST_AP_001.jpg
-  original_post_id: '676'
-  _wp_old_slug: '676'
-  _thumbnail_id: '4625'
-  _edit_last: '7812036'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 06 04 I Am Rather An Impresario Of Scientists
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/06/impresario_showdetails.jpg"><img class="alignnone size-full wp-image-4625" alt="Impresario_showdetails" src="{{ site.baseurl }}/uploads/impresario_showdetails.jpg" width="610" height="412" /></a></p>

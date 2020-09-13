@@ -1,20 +1,5 @@
 ---
-title: the adjacent possible
-date: 2010-10-15 09:38:56 -04:00
-type: post
-status: publish
-meta:
-image: /uploads/volcanic-ash-2.jpg
-  _wp_old_slug: '1102'
-  original_post_id: '1102'
-  _thumbnail_id: '4654'
-  _edit_last: '7812036'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 10 15 The Adjacent Possible
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/10/volcanic-ash-2.jpg"><img class="alignnone size-full wp-image-4654" alt="volcanic-ash-2" src="{{ site.baseurl }}/uploads/volcanic-ash-2.jpg" width="400" height="300" /></a></p>

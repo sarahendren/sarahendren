@@ -1,21 +1,5 @@
 ---
-title: accessibility redefined
-date: 2011-03-31 11:54:38 -04:00
-type: post
-status: publish
-meta:
-  _thumbnail_id: '3731'
-  _edit_last: '7812036'
-image: /uploads/Braille-ADA-Family-Restroom-Sign-SE-1783-color.gif
-  _wp_old_slug: '1529'
-  _sg_subscribe-to-comments: rosemarie.garlandthomson@gmail.com
-  original_post_id: '1529'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2011 03 31 Accessibility Redefined
 ---
 
 <p><a href="http://www.good.is/post/85/#comment_list">In this article in GOOD magazine</a>, Alexandra Lange argues for the ways cities would benefit from taking parents' interests seriously:</p>

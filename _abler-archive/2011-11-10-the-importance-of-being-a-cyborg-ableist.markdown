@@ -1,24 +1,5 @@
 ---
-title: the importance of being a cyborg ableist
-date: 2011-11-10 14:34:45 -05:00
-type: post
-status: publish
-meta:
-  _edit_last: '7812036'
-image: /uploads/cyborg-fem2.jpg
-  _wp_old_slug: '2415'
-  _thumbnail_id: '3602'
-  image_url: http://www.ablersite.org/wp-content/uploads/cyborg-fem.jpg
-  image_tag: <img src="http://www.ablersite.org/wp-content/uploads/cyborg-fem.jpg"
-    />
-  original_post_id: '2415'
-  s2mail: 'yes'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2011 11 10 The Importance Of Being A Cyborg Ableist
 ---
 
 <p><a href="http://hplusmagazine.com/2009/07/21/importance-being-cyborg-feminist/">This article in H+</a> emphasizes the importance of embracing technology to further the cause of women's equality in contemporary society. This is the kind of essay where you could almost swap out the feminist terminology for that of disability rights, with very few changes. Kyle Munkittrick lays out nicely the stakes for the cyber-feminist in the legacy of Donna Haraway:</p>

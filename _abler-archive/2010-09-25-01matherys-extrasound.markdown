@@ -1,22 +1,5 @@
 ---
-title: 01Mathery's Extrasound
-date: 2010-09-25 15:16:48 -04:00
-categories:
-- re-blog
-type: post
-status: publish
-meta:
-  _wp_old_slug: ''
-  original_post_id: '948'
-image: /uploads/horn106.jpg
-  _thumbnail_id: '4649'
-  _edit_last: '7812036'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 09 25 01matherys Extrasound
 ---
 
 <p>I know we've all seen plenty of blogs devoted to one thing a day [one recipe, one photograph, one new idea]. But <a href="http://01mathery.tumblr.com/">01Mathery</a> keep inspiring me with their sheer energy and playfulness—they're a team of two young designers, hacking and designing one new object every day.</p>

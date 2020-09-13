@@ -1,24 +1,5 @@
 ---
-title: USB drive in your finger
-date: 2010-02-12 11:33:26 -05:00
-categories:
-- re-blog
-tags:
-- re-blog
-type: post
-status: publish
-meta:
-  _wp_old_slug: '372'
-  original_post_id: '372'
-image: /uploads/usbfinger.jpg
-  _thumbnail_id: '3991'
-  _edit_last: '7812036'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 02 12 Reblog Usb Drive In Your Finger
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/02/usbfinger.jpg"><img class="alignnone size-full wp-image-3991" title="usbfinger" src="{{ site.baseurl }}/uploads/usbfinger.jpg" alt="" width="500" height="375" /></a></p>

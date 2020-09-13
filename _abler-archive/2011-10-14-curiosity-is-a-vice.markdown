@@ -1,22 +1,5 @@
 ---
-title: '"curiosity is a vice"'
-date: 2011-10-14 22:46:13 -04:00
-type: post
-status: publish
-meta:
-  _edit_last: '7812036'
-  s2mail: 'yes'
-image: /uploads/Curiosity-and-Milligram-Studio-Minimalist-Furniture-Design.jpg
-  _wp_old_slug: '2354'
-  _sg_subscribe-to-comments: shoulder@match.com
-  _thumbnail_id: '3606'
-  original_post_id: '2354'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2011 10 14 Curiosity Is A Vice
 ---
 
 <p>"...that has been stigmatized in turn by Christianity, by philosophy, and even by a certain conception of science. Curiosity, futility. The word, however, pleases me. To me it suggests something altogether different: it evokes "concern"; it evokes the care one takes for what exists and could exist; a readiness to break up our familiarities and to regard otherwise the same things; a fervor to grasp what is happening and what passes; a casualness in regard to the traditional hierarchies of the important and the essential.</p>

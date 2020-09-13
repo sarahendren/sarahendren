@@ -1,25 +1,5 @@
 ---
-title: physical touchscreen knobs
-date: 2010-05-11 10:48:34 -04:00
-categories:
-- re-blog
-tags:
-- re-blog
-type: post
-status: publish
-meta:
-image: /uploads/knob-dslabs.jpg
-  original_post_id: '618'
-  _wp_old_slug: '618'
-  _thumbnail_id: '4619'
-  _edit_last: '7812036'
-  _oembed_358f2b149e55c0d9a972e5b2f127fdef: "{{unknown}}"
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 05 11 Re Blog Physical Touchscreen Knobs
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/05/knob-1.jpg"><img class="alignnone size-full wp-image-4619" alt="knob-1" src="{{ site.baseurl }}/uploads/knob-1.jpg" width="610" height="406" /></a></p>

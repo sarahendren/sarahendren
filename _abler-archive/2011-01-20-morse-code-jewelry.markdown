@@ -1,22 +1,5 @@
 ---
-title: morse code jewelry
-date: 2011-01-20 11:48:17 -05:00
-categories:
-- re-blog
-type: post
-status: publish
-meta:
-  _thumbnail_id: '3789'
-  _edit_last: '7812036'
-image: /uploads/IMG_6388_full.jpg
-  _wp_old_slug: '1448'
-  original_post_id: '1448'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2011 01 20 Morse Code Jewelry
 ---
 
 <p>Portland designer <a href="http://supermarkethq.com/designer/31765/products">COATT</a> has necklaces in Morse code. Words like "fine" and "dandy," or choose your own:</p>

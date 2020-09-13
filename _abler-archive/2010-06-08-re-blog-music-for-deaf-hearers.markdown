@@ -1,24 +1,5 @@
 ---
-title: "music for deaf \"hearers\"\x9D"
-date: 2010-06-08 14:46:21 -04:00
-categories:
-- re-blog
-tags:
-- re-blog
-type: post
-status: publish
-meta:
-image: /uploads/500x_music-for-deaf-people-_03_9GWJy_17621.jpg
-  original_post_id: '682'
-  _wp_old_slug: '682'
-  _edit_last: '7812036'
-  _thumbnail_id: '4631'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 06 08 Re Blog Music For Deaf Hearers
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/06/500x_music-for-deaf-people-_03_9gwjy_17621.jpg"><img alt="500x_music-for-deaf-people-_03_9GWJy_17621" src="{{ site.baseurl }}/uploads/500x_music-for-deaf-people-_03_9gwjy_17621.jpg" width="500" height="402" /></a></p>

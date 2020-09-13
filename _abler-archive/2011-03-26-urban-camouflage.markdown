@@ -10,7 +10,7 @@ meta:
   _edit_last: '7812036'
   _wp_old_slug: ''
   original_post_id: '1772'
-image: /uploads/urbancamo4.jpg
+image: "/uploads/urbancamo4.jpg"
 author:
   login: sarahendren
   email: sarahendren@gmail.com

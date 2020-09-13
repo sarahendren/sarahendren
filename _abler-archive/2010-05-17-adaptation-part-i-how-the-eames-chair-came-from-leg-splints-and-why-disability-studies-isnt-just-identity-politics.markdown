@@ -1,46 +1,6 @@
 ---
-title: 'Adaptation, Part I: How the Eames chair came from leg splints, and why "disability
-  studies" isn''t just identity politics'
-date: 2010-05-17 15:01:15 -04:00
-categories:
-- new here?
-type: post
-status: publish
-meta:
-  _edit_last: '7812036'
-  _thumbnail_id: '3611'
-image: /uploads/eamessplint2.jpg
-  original_post_id: '366'
-  _wp_old_slug: '366'
-  _oembed_69ffb42b02bec135e035ea18f73bee80: "{{unknown}}"
-  _oembed_3e03357dde1fd8bb8f200e816504cdab: "{{unknown}}"
-  _oembed_40cbca5dad646ae200e0542a213d54c6: "{{unknown}}"
-  _oembed_027be4d47eda18d8c8e2063fe42f28c2: "{{unknown}}"
-  _oembed_761e8dba9418c32fdf9d647004545ca0: "{{unknown}}"
-  _oembed_fce8da0d0cca2fe55fab6dfc0ba3e2d8: "{{unknown}}"
-  _oembed_86e061a958052d7a9a36eb8b1c16bb8d: "{{unknown}}"
-  _oembed_5d11df6fffd65c73fa57449cf90f5ef4: "{{unknown}}"
-  _oembed_f57f025d2717db5dfb4520438aee259e: "{{unknown}}"
-  _oembed_39f1def8e8c64430a95efec3188b2e6b: "{{unknown}}"
-  _oembed_3fb21e94d5f2f980445cc365020a395d: "{{unknown}}"
-  _oembed_9d66cfb8a08c9bf44cf46c9e1e43c1fb: "{{unknown}}"
-  _oembed_ab3f86994e8bbd9df50ab6f46358d5e6: "{{unknown}}"
-  _oembed_8b8f0d48c01c86ba17f09d35f0f3ba95: "{{unknown}}"
-  _oembed_419a68d0000c20e1463750ff84a77531: "{{unknown}}"
-  _oembed_8bffa749f3eab3f2131f3bb436c91881: "{{unknown}}"
-  _oembed_e44daf7f3a7bee68d1e06df802acf13c: "{{unknown}}"
-  _oembed_6de2ef88d211e264ba4a1a89bc35d33e: "{{unknown}}"
-  _oembed_703677c6252c766e9454ce5722d89c3e: "{{unknown}}"
-  _oembed_38253c8bd7987f6cae58fd5990d7f6ac: "{{unknown}}"
-  _oembed_c82721a258cc9d3a73646643939daba6: "{{unknown}}"
-  _oembed_460013366c989e85a4b4f7d459f0fd88: "{{unknown}}"
-  _oembed_7159d5a1b209a0911580bf43a0ccb870: "{{unknown}}"
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 05 17 Adaptation Part I How The Eames Chair Came From Leg Splints And
+  Why Disability Studies Isnt Just Identity Politics
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/05/eamessplint.jpg"><img class="alignnone size-full wp-image-3797" title="eamessplint" src="{{ site.baseurl }}/uploads/eamessplint.jpg" alt="" width="251" height="384" /></a></p>

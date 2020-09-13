@@ -1,25 +1,5 @@
 ---
-title: "eric gunther's \"organorgan\"\x9D"
-date: 2010-01-06 10:44:20 -05:00
-categories:
-- re-blog
-tags:
-- re-blog
-type: post
-status: publish
-meta:
-  _wp_old_slug: '335'
-  original_post_id: '335'
-image: /uploads/organ_02.jpg
-  _thumbnail_id: '3999'
-  _edit_last: '7812036'
-  switch_like_status: '1'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 01 06 Affinities Eric Gunther
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/01/organ_021.jpg"><img class="alignnone size-full wp-image-4613" alt="organ_02" src="{{ site.baseurl }}/uploads/organ_021.jpg" width="290" height="252" /></a></p>

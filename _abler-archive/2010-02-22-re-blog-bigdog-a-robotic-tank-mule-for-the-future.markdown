@@ -1,24 +1,5 @@
 ---
-title: 'BigDog: a robotic tank mule for the future'
-date: 2010-02-22 10:22:57 -05:00
-categories:
-- re-blog
-tags:
-- re-blog
-type: post
-status: publish
-meta:
-  original_post_id: '413'
-  _wp_old_slug: '413'
-image: /uploads/BigDog_ClimbRubble.png
-  _edit_last: '7812036'
-  _thumbnail_id: '4615'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 02 22 Re Blog Bigdog A Robotic Tank Mule For The Future
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/02/land_robot_bigdog_and_controller_lg.jpg"><img class="alignnone size-full wp-image-4615" alt="LAND_Robot_BigDog_and_Controller_lg" src="{{ site.baseurl }}/uploads/land_robot_bigdog_and_controller_lg.jpg" width="610" height="584" /></a></p>
