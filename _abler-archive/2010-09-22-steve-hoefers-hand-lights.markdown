@@ -1,5 +1,6 @@
 ---
 title: 2010 09 22 Steve Hoefers Hand Lights
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/09/hand-lights.jpg"><img class="alignnone size-full wp-image-3966" title="Hand-Lights" src="{{ site.baseurl }}/uploads/hand-lights.jpg" alt="" width="500" height="522" /></a></p>

@@ -1,5 +1,6 @@
 ---
 title: 2010 05 17 Broken Tech Art And Short Shadows
+type: archive
 ---
 
 <p><strong>Svetlana Boym's <a href="http://www.svetlanaboym.com/manifesto.htm">Off-Modern Manifesto</a> describes her interest in "broken-tech art"—and this is very much at the heart of <a href="http://www.ablersite.com/2009/11/projects-search-task/">my collaborative work on sensory substitution</a> with Brian Glenney:</strong></p>

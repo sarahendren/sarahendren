@@ -1,5 +1,6 @@
 ---
 title: 2011 09 15 Border Town Beyond Ramps Curitiba Brazil
+type: archive
 ---
 
 <p>How does a bold, military-appointed, possibly technocratic architect-turned-mayor create a model universal-access transportation system, cheaply and effectively, and use it—along with other initiatives—to turn around the environmental prospects of the entire town?</p>

@@ -1,5 +1,6 @@
 ---
 title: 2011 03 24 The Public Amateur
+type: archive
 ---
 
 <p><a title="Amateur Radio W1EAK 1933 by derrypubliclibrary, on Flickr" href="http://www.flickr.com/photos/derrypubliclibrary/5016484220/"><img src="{{ site.baseurl }}/uploads/5016484220_246179f3c7.jpg" alt="Amateur Radio W1EAK 1933" width="500" height="303" /></a></p>

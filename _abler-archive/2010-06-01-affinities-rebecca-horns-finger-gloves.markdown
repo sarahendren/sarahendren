@@ -1,5 +1,6 @@
 ---
 title: 2010 06 01 Affinities Rebecca Horns Finger Gloves
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/06/rebecca_horn.jpeg"><img class="alignnone size-full wp-image-4304" alt="rebecca_horn" src="{{ site.baseurl }}/uploads/rebecca_horn.jpeg" width="610" height="921" /></a></p>

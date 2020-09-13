@@ -1,6 +1,7 @@
 ---
 title: 2010 04 17 Adaptation Part Iii Art As Research Braille Tattoos Socially Adept
   Handbags
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/04/centralcommandstudy.jpg"><img class="alignnone size-full wp-image-3816" title="centralcommandstudy" alt="" src="{{ site.baseurl }}/uploads/centralcommandstudy.jpg" width="600" height="400" /></a></p>

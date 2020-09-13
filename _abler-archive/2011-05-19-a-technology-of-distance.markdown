@@ -1,5 +1,6 @@
 ---
 title: 2011 05 19 A Technology Of Distance
+type: archive
 ---
 
 <p>I'm revisiting Ted Porter's <a href="http://www.amazon.com/Trust-Numbers-Theodore-M-Porter/dp/0691029083/ref=sr_1_1?ie=UTF8&amp;qid=1304814496&amp;sr=8-1">Trust in Numbers: The Pursuit of Objectivity in Science and Public Life</a>, probably 10 years after I first read it as his student in the history of science at UCLA. Emphasis throughout is mine:</p>

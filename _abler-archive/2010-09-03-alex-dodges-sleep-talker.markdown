@@ -1,5 +1,6 @@
 ---
 title: 2010 09 03 Alex Dodges Sleep Talker
+type: archive
 ---
 
 <p>Alex Dodge's new <a href="http://www.alexdodge.com/index.php">Generative</a> series was recently on display at Brooklyn's <a href="http://www.klausgallery.com/exhibitions/2010/alex-dodge/">Klaus von Nichtssagend Gallery</a>. Featured are works like the Sleep Talker, an experimental prototype for social networking in your sleep—connecting users via "dream feeds."</p>

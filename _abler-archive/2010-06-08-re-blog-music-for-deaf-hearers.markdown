@@ -1,5 +1,6 @@
 ---
 title: 2010 06 08 Re Blog Music For Deaf Hearers
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/06/500x_music-for-deaf-people-_03_9gwjy_17621.jpg"><img alt="500x_music-for-deaf-people-_03_9GWJy_17621" src="{{ site.baseurl }}/uploads/500x_music-for-deaf-people-_03_9gwjy_17621.jpg" width="500" height="402" /></a></p>

@@ -18,6 +18,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p>This isn't the <a href="http://www.ablersite.org/2009/12/affinities-jooyeun-paek/">first adaptive umbrella</a> I've written about, but it's certainly as timely, and there's now a prototype in development. Mark Shepard is creating a <a href="http://survival.sentientcity.net/blog/">Sentient City Survival Kit</a>, "set of artifacts for survival in the near-future sentient city":</p>

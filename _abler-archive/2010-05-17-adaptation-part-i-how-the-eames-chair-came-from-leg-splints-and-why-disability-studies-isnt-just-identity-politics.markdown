@@ -1,6 +1,7 @@
 ---
 title: 2010 05 17 Adaptation Part I How The Eames Chair Came From Leg Splints And
   Why Disability Studies Isnt Just Identity Politics
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/05/eamessplint.jpg"><img class="alignnone size-full wp-image-3797" title="eamessplint" src="{{ site.baseurl }}/uploads/eamessplint.jpg" alt="" width="251" height="384" /></a></p>

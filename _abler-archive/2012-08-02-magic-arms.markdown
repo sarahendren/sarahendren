@@ -18,6 +18,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2012/08/magic_arms.jpg"><img class="alignnone  wp-image-3841" title="Magic_ARms" alt="a close up of the 3 year old subject wearing her exoskeleton technology" src="{{ site.baseurl }}/uploads/magic_arms.jpg" width="600" height="338" /></a></p>

@@ -1,5 +1,6 @@
 ---
 title: 2010 06 04 I Am Rather An Impresario Of Scientists
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/06/impresario_showdetails.jpg"><img class="alignnone size-full wp-image-4625" alt="Impresario_showdetails" src="{{ site.baseurl }}/uploads/impresario_showdetails.jpg" width="610" height="412" /></a></p>

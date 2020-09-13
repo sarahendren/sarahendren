@@ -1,5 +1,6 @@
 ---
 title: 2012 03 05 Recognizing Openness
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2012/03/map-sci_collabo2.jpg"><img class="alignnone  wp-image-3860" title="map-sci_collabo2" alt="" src="{{ site.baseurl }}/uploads/map-sci_collabo2.jpg?w=1024" width="717" height="354" /></a></p>

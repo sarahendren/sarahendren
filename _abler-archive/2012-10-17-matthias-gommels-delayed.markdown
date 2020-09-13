@@ -14,6 +14,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2012/10/gommel_delayed6.jpg"><img class="alignnone size-full wp-image-4134" title="Gommel_delayed6" alt="two people stand facing each other, wearing headsets wired to the ceiling, speaking and gesturing to one another  in a museum. " src="{{ site.baseurl }}/uploads/gommel_delayed6.jpg" width="600" height="450" /></a><br />

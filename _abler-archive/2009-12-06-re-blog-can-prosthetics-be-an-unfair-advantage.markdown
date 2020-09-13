@@ -1,5 +1,6 @@
 ---
 title: 2009 12 06 Re Blog Can Prosthetics Be An Unfair Advantage
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2009/12/oscar-pistorius-002.jpg"><img class="alignnone size-full wp-image-4011" title="Oscar Pistorius" src="{{ site.baseurl }}/uploads/oscar-pistorius-002.jpg" alt="" width="460" height="276" /></a></p>

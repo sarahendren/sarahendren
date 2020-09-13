@@ -1,5 +1,6 @@
 ---
 title: 2010 02 22 Re Blog Bigdog A Robotic Tank Mule For The Future
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/02/land_robot_bigdog_and_controller_lg.jpg"><img class="alignnone size-full wp-image-4615" alt="LAND_Robot_BigDog_and_Controller_lg" src="{{ site.baseurl }}/uploads/land_robot_bigdog_and_controller_lg.jpg" width="610" height="584" /></a></p>

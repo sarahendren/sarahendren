@@ -1,5 +1,6 @@
 ---
 title: 2011 10 14 Curiosity Is A Vice
+type: archive
 ---
 
 <p>"...that has been stigmatized in turn by Christianity, by philosophy, and even by a certain conception of science. Curiosity, futility. The word, however, pleases me. To me it suggests something altogether different: it evokes "concern"; it evokes the care one takes for what exists and could exist; a readiness to break up our familiarities and to regard otherwise the same things; a fervor to grasp what is happening and what passes; a casualness in regard to the traditional hierarchies of the important and the essential.</p>

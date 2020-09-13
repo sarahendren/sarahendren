@@ -1,5 +1,6 @@
 ---
 title: 2011 02 20 Whats Wrong With Prosthetics Porn Part I
+type: archive
 ---
 
 <p>When I started Abler, I was excited about all the new prosthetic appendages beginning to make their way through design sites. And I remain so—excited about, intrigued by them. I've been collecting these images, sent on by friends and colleagues, and I've been glad to see much more attention to both practical and creative re-visioning of artificial limbs.</p>

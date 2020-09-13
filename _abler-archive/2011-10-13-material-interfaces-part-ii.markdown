@@ -1,5 +1,6 @@
 ---
 title: 2011 10 13 Material Interfaces Part Ii
+type: archive
 ---
 
 <p>First, just quickly: I'm quoted in <a href="http://www.bostonglobe.com/metro/2011/10/10/tiny-grants-keep-awesome-ideas-coming/qRvgQSZXuomCEr22F1ePYM/story.xml">Monday's Boston Globe article</a> about the Awesome Foundation. I've sung their praises <a href="http://www.ablersite.org/2011/04/the-edited-city-2-0/">here before</a>, of course.</p>

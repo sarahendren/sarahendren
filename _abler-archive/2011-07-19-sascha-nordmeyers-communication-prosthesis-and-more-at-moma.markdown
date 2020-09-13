@@ -1,5 +1,6 @@
 ---
 title: 2011 07 19 Sascha Nordmeyers Communication Prosthesis And More At Moma
+type: archive
 ---
 
 <p><a href="http://www.saschanordmeyer.com/">Sascha Nordmeyer</a>'s prosthetic "smile simulator" tool will be part of MOMA's <a href="http://moma.org/visit/calendar/exhibitions/1080">Talk to Me</a>, a show that opens today. Looks great—and <a href="http://wp.moma.org/talk_to_me/">there's a blog</a> where the curators have also cataloged their process of finding work to include. A whole database of interesting projects there, both under the <a href="http://wp.moma.org/talk_to_me/checked-2/">checked</a> tab and in the <a href="http://wp.moma.org/talk_to_me/queue/">queue</a>.</p>

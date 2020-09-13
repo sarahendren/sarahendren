@@ -1,5 +1,6 @@
 ---
 title: 2011 03 06 Whats Wrong With Prosthetics Porn Part Ii
+type: archive
 ---
 
 <p>Part I of this essay is <a href="http://ablersite.org/2011/02/20/whats-wrong-with-prosthetics-porn-part-i/">here</a>.</p>

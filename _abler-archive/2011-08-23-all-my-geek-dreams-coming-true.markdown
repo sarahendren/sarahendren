@@ -15,6 +15,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p>I really enjoyed meeting and talking with Christina Agapakis, who wrote about the Moveable Chair work for Scientific American's <a href="http://blogs.scientificamerican.com/oscillator/2011/08/23/editing-the-city/">Oscillator</a> blog.</p>

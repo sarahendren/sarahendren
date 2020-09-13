@@ -13,6 +13,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p><a href="http://www.alisonodaniel.com/">Alison O'Daniel's</a> film, <em>Night Sky</em>, is touring in North American cities for the next couple of weeks—and in it, O'Daniel says, "sound is a character." There's an extraordinary amount of play with music, associative and abstracted noises, and descriptive captioning in the work, all while weaving in and out of canonical story structures. See dates and times for screenings below, as well as the trailer.</p>

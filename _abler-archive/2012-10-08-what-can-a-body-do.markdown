@@ -13,6 +13,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p>What can a body do? Curator <a href="http://cca-viscrit.com/community/alumni/a-f/amanda-cachia/">Amanda Cachia</a> has gathered a body of works taking up Deleuze's famous question, opening at Haverford College's <a href="http://exhibits.haverford.edu/whatcanabodydo/">Cantor Fitzgerald Gallery</a> on 10/26.</p>

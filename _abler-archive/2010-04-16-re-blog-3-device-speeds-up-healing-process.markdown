@@ -1,5 +1,6 @@
 ---
 title: 2010 04 16 Re Blog 3 Device Speeds Up Healing Process
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/04/negativepressuresuction.jpg"><img class="alignnone size-full wp-image-4617" alt="negativepressuresuction" src="{{ site.baseurl }}/uploads/negativepressuresuction.jpg" width="537" height="357" /></a></p>

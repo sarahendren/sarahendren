@@ -1,5 +1,6 @@
 ---
 title: 2011 03 31 Accessibility Redefined
+type: archive
 ---
 
 <p><a href="http://www.good.is/post/85/#comment_list">In this article in GOOD magazine</a>, Alexandra Lange argues for the ways cities would benefit from taking parents' interests seriously:</p>

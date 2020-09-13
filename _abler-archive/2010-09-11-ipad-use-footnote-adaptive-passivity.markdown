@@ -1,5 +1,6 @@
 ---
 title: 2010 09 11 Ipad Use Footnote Adaptive Passivity
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/09/354295_com_mobius_strip.jpg"><img class="alignnone size-full wp-image-4646" alt="354295_com_mobius_strip" src="{{ site.baseurl }}/uploads/354295_com_mobius_strip.jpg" width="400" height="248" /></a></p>

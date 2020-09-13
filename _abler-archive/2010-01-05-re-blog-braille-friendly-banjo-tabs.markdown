@@ -1,5 +1,6 @@
 ---
 title: 2010 01 05 Re Blog Braille Friendly Banjo Tabs
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/01/turtle-dove.gif"><img class="alignnone size-full wp-image-4000" title="turtle-dove" src="{{ site.baseurl }}/uploads/turtle-dove.gif" alt="" width="522" height="272" /></a></p>

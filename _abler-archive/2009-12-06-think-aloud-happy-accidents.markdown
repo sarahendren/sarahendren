@@ -1,5 +1,6 @@
 ---
 title: 2009 12 06 Think Aloud Happy Accidents
+type: archive
 ---
 
 <p>From Mitchell Whitelaw's <a href="http://www.amazon.com/Metacreation-Artificial-Life-Mitchell-Whitelaw/dp/0262731762/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1260120645&amp;sr=8-1"><em>Metacreation: Art and Artificial Life</em></a>:</p>

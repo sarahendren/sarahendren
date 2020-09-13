@@ -16,6 +16,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p>A friend sent along <a href="http://www.buzzfeed.com/angelameiquan/21-antique-limbs-for-the-early-amputee-70fn">this Buzzfeed post</a> featuring historical prostheses—and naturally, it belongs here on Abler. It's another one of these photo-round-up posts, presented without comment, that make me curious again about what we're getting when we consume these images.</p>

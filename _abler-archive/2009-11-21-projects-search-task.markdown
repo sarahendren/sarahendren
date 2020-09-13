@@ -16,6 +16,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2009/11/searchtask1.jpg"><img class="alignnone  wp-image-4017" title="searchtask1" src="{{ site.baseurl }}/uploads/searchtask1.jpg?w=1024" alt="" width="614" height="346" /></a></p>

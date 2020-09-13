@@ -18,6 +18,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/08/kontopolous2.png"><img class="alignnone size-full wp-image-3665" title="Kontopolous2" src="{{ site.baseurl }}/uploads/kontopolous2.png" alt="" width="640" height="180" /></a></p>

@@ -1,5 +1,6 @@
 ---
 title: 2010 04 15 Action Trackchair
+type: archive
 ---
 
 <p>An offroad wheelchair model. Great options here. But is the <a href="http://gizmodo.com/5515478/disabled-explorers-in-the-worlds-most-badass-short-bus">BigDog</a> the future?</p>

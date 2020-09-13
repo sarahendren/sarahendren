@@ -1,5 +1,6 @@
 ---
 title: 2012 01 03 Unknown Armature Body Socks
+type: archive
 ---
 
 <p>For a couple of months now, I've been researching and testing some body sock prototypes, as part of a series of prosthetic research initiatives I've been calling Unknown Armature. I've mentioned body socks <a href="http://www.ablersite.org/2011/02/hanna-ernstings-couch-for-all-situations/">before</a>; they're wearable therapeutic tools for people with <a href="http://en.wikipedia.org/wiki/Sensory_processing_disorder">sensory processing disorders</a>. You can't find sensory processing challenges in formal diagnostic catalogs like the DSM—not yet, anyway—it's a rangey and diffuse phenomenon, difficult to locate neurologically, and contested as to its real bio-medical and pyschological meaning.</p>

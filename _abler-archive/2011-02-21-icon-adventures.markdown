@@ -1,5 +1,6 @@
 ---
 title: 2011 02 21 Icon Adventures
+type: archive
 ---
 
 <p>Monday Feb 21: The project's just been written up in the <a href="http://www.boston.com/news/education/higher/articles/2011/02/21/cambridge_artist_sara_hendren_promotes_wheelchair_symbol_update/">Boston Globe</a>! How to get stickers: Use the contact form to the right to send me your address; I'll send you 5 for free while they last.</p>

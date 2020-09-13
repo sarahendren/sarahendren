@@ -1,5 +1,6 @@
 ---
 title: 2010 06 14 Re Blog The Walklet
+type: archive
 ---
 
 <p>San Francisco's <a href="http://www.rebargroup.org/projects/walklet/">REBAR</a> group has a design that reclaims public recreation space from parking spots. Adaptation and accessibility written all over this:</p>

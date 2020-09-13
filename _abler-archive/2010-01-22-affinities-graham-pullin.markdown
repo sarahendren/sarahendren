@@ -1,5 +1,6 @@
 ---
 title: 2010 01 22 Affinities Graham Pullin
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/01/pullin_book_interior.jpg"><img class="alignnone size-full wp-image-3994" title="pullin_book_interior" src="{{ site.baseurl }}/uploads/pullin_book_interior.jpg" alt="" width="468" height="351" /></a></p>

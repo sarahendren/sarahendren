@@ -1,5 +1,6 @@
 ---
 title: 2010 11 02 The Masticator Confront Your Repulsion
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/11/triptic3x2.jpg"><img class="alignnone size-full wp-image-4101" title="triptic3x2" src="{{ site.baseurl }}/uploads/triptic3x2.jpg" alt="" width="640" height="426" /></a></p>

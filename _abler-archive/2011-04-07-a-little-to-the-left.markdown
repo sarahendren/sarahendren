@@ -1,5 +1,6 @@
 ---
 title: 2011 04 07 A Little To The Left
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/04/itch.jpg"><img class="alignnone size-full wp-image-3721" title="itch" src="{{ site.baseurl }}/uploads/itch.jpg" alt="" width="450" height="180" /></a></p>

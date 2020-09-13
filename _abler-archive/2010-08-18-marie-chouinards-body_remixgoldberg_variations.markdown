@@ -1,5 +1,6 @@
 ---
 title: 2010 08 18 Marie Chouinards Body Remixgoldberg Variations
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/08/body-remix-006.jpg"><img class="alignnone size-full wp-image-4644" alt="body-remix-006" src="{{ site.baseurl }}/uploads/body-remix-006.jpg" width="460" height="276" /></a></p>

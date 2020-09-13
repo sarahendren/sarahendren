@@ -1,5 +1,6 @@
 ---
 title: 2010 07 28 Re Blog Emotivs Epoc Neuroheadset
+type: archive
 ---
 
 <p>Tan Le and the <a href="http://www.emotiv.com/index.php">Emotiv group's</a> neuroheadset was recently demonstrated at TED; video below, and worth watching! The headset is a customizable device that reads commands via thoughts—stunning. The end of the video also shows its relevance for wheelchair users. Thanks, <a href="http://jennifercgrant.com/">Jennifer Grant</a>, for the link!</p>

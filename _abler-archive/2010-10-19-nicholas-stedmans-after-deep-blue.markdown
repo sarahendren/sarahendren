@@ -1,5 +1,6 @@
 ---
 title: 2010 10 19 Nicholas Stedmans After Deep Blue
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/10/adbwitharmsmall2.jpg"><img class="alignnone size-full wp-image-4111" title="ADBwithArmSmall2" src="{{ site.baseurl }}/uploads/adbwitharmsmall2.jpg" alt="a human arm with a large, chunky &quot;bracelet&quot; of rock-like parts, bundled together" width="640" height="480" /></a></p>

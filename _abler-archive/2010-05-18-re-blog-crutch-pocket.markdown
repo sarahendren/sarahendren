@@ -1,5 +1,6 @@
 ---
 title: 2010 05 18 Re Blog Crutch Pocket
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/05/crutch-pocket-sm.jpg"><img class="alignnone size-full wp-image-4081" title="crutch-pocket-sm" src="{{ site.baseurl }}/uploads/crutch-pocket-sm.jpg" alt="" width="300" height="400" /></a></p>

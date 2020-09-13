@@ -1,5 +1,6 @@
 ---
 title: 2009 12 14 Re Blog Accident Explanatory Slings
+type: archive
 ---
 
 <p>So many directions you could go with <a href="http://blog.craftzine.com/archive/2009/05/accident-explanatory_slings.html?CMP=OTC-5JF307375954">these</a>:</p>

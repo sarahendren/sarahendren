@@ -1,5 +1,6 @@
 ---
 title: 2010 12 11 Letter On The Blind For The Use Of Those Who See
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/12/artist_tellez.jpg"><img class="alignnone size-full wp-image-4054" title="artist_tellez" src="{{ site.baseurl }}/uploads/artist_tellez.jpg" alt="" width="375" height="250" /></a></p>

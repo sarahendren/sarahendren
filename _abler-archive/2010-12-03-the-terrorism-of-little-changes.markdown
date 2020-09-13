@@ -1,5 +1,6 @@
 ---
 title: 2010 12 03 The Terrorism Of Little Changes
+type: archive
 ---
 
 <p><a href="http://www.scientificamerican.com/blog/post.cfm?id=biomechatronics-aims-to-erase-the-e-2010-09-30">Scientific American</a> recently blogged an account of Hugh Herr's talk at Idea Festival. Herr, himself a double amputee, is among the most optimistic about the promise of the dramatic and sophisticated prosthetic limbs now available:</p>

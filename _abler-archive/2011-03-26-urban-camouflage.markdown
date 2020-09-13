@@ -17,6 +17,7 @@ author:
   display_name: ablerism
   first_name: Sara
   last_name: Hendren
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/03/urbancamo1.jpg"><img class="alignnone size-full wp-image-3739" title="urbancamo1" src="{{ site.baseurl }}/uploads/urbancamo1.jpg" alt="" width="640" height="480" /></a></p>
