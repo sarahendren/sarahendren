@@ -3,7 +3,7 @@ title: urban camouflage
 date: 2011-03-26 08:26:04 -04:00
 categories:
 - re-blog
-type: post
+type: archive
 status: publish
 meta:
   _thumbnail_id: '3742'

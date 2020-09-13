@@ -3,7 +3,7 @@ title: mark shepard's CCD-me-not
 date: 2011-09-13 17:37:34 -04:00
 categories:
 - re-blog
-type: post
+type: archive
 status: publish
 meta:
   _thumbnail_id: '3658'

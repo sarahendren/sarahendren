@@ -1,5 +1,7 @@
 ---
 title: 2010 11 11 An Ethics Of Homelessness And A Der Spiegel Publicity Stunt
+date: 2010-11-11 00:00:00 -05:00
+type: archive
 ---
 
 <p>If you don't know <a href="http://www.cabinetmagazine.org/">Cabinet magazine</a>, I humbly suggest that you rectify that fact. It's a weird and wonderful mix of art, science, history, and mischief—and, naturally, hard to describe. Editor Sina Najafi does a great job, though, in his essay for the collection <em><a href="http://www.amazon.com/s/ref=nb_sb_ss_i_0_65?url=search-alias%3Daps&amp;field-keywords=what+is+research+in+the+visual+arts+obsession.+archive.+encounter&amp;sprefix=what+is+research+in+the+visual+arts+obsession.+archive.+encounter">What Is Research in the Visual Arts?</a> </em></p>

@@ -1,7 +1,7 @@
 ---
 title: artificial parts, practical lives
 date: 2012-08-06 12:35:23 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _wp_old_slug: '2928'

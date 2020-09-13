@@ -1,7 +1,7 @@
 ---
 title: lung-on-a-chip
 date: 2012-11-07 18:44:27 -05:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'

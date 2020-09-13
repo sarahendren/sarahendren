@@ -1,5 +1,7 @@
 ---
 title: 2012 04 20 Douglas Irving Repettos Foal
+date: 2012-04-20 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2012/04/foal_still.jpg"><img title="foal_still" src="{{ site.baseurl }}/uploads/foal_still.jpg" alt="" width="640" height="480" /></a></p>

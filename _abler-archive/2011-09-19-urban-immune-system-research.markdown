@@ -1,5 +1,7 @@
 ---
 title: 2011 09 19 Urban Immune System Research
+date: 2011-09-19 00:00:00 -04:00
+type: archive
 ---
 
 <p>Over at <a href="http://www.we-make-money-not-art.com/archives/2011/09/the-urban-immune-system.php">We Make Money Not Art,</a> there's a long and substantial interview with the <a href="http://boundaryinteractions.org/">Institute for Boundary Interactions</a> and their various prototypes for a large and ongoing project, <a href="http://boundaryinteractions.org/projects/urban-immune-system-research">Urban Immune System Research</a>:</p>

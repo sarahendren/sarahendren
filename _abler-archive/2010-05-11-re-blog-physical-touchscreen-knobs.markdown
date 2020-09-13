@@ -1,5 +1,7 @@
 ---
 title: 2010 05 11 Re Blog Physical Touchscreen Knobs
+date: 2010-05-11 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/05/knob-1.jpg"><img class="alignnone size-full wp-image-4619" alt="knob-1" src="{{ site.baseurl }}/uploads/knob-1.jpg" width="610" height="406" /></a></p>

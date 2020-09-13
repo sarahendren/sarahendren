@@ -1,7 +1,7 @@
 ---
 title: Lynn Bennett Carpenter's haptic sensations
 date: 2009-11-18 10:49:53 -05:00
-type: post
+type: archive
 status: publish
 meta:
   image: http://dev.sarahendren.com/wp-content/uploads/coralcropped11.jpg

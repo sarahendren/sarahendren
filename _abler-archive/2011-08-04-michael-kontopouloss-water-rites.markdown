@@ -3,7 +3,7 @@ title: michael kontopoulos's "water rites"
 date: 2011-08-04 20:27:11 -04:00
 categories:
 - re-blog
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'

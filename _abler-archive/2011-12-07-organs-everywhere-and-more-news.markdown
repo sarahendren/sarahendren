@@ -1,5 +1,7 @@
 ---
 title: 2011 12 07 Organs Everywhere And More News
+date: 2011-12-07 00:00:00 -05:00
+type: archive
 ---
 
 <p>My semester at Harvard GSD is winding down; I'll be sharing some new work in the coming break. In January I'll be taking a course at the <a href="http://adaptivedesign.org/">Adaptive Design Association</a> in New York and interning with <a href="http://artistsincontext.org/">Artists in Context</a> here in Cambridge. And I'm looking forward to a residency at UC Irvine next June, part of the Critical Disability Studies group that's funded by the University of California's <a href="http://www.uchri.org/">Humanities Research Institute</a>.</p>

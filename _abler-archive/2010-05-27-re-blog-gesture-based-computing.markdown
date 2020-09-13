@@ -1,5 +1,7 @@
 ---
 title: 2010 05 27 Re Blog Gesture Based Computing
+date: 2010-05-27 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/05/lycra-gloves-computing-mit.jpg"><img class="alignnone size-full wp-image-4623" alt="lycra-gloves-computing-mit" src="{{ site.baseurl }}/uploads/lycra-gloves-computing-mit.jpg" width="610" height="472" /></a></p>

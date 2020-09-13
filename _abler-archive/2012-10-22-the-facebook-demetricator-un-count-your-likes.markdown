@@ -1,7 +1,7 @@
 ---
 title: 'the facebook demetricator: un-count your likes.'
 date: 2012-10-22 17:11:01 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'

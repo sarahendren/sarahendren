@@ -1,5 +1,7 @@
 ---
 title: 2012 01 19 See Yourself Sensing
+date: 2012-01-19 00:00:00 -05:00
+type: archive
 ---
 
 <p>Black Dog sent me Madeline Schwartzman's new <a href="http://blackdogonline.com/all-books/see-yourself-sensing.html">See Yourself Sensing: Redefining Human Perception</a>:</p>

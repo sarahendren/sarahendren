@@ -1,5 +1,7 @@
 ---
 title: 2012 04 18 What Is Universal Design
+date: 2012-04-18 00:00:00 -04:00
+type: archive
 ---
 
 <p>I've been emailing a bunch with <a href="https://blogs.emory.edu/aimihamraie//">Aimi Hamraie</a>, soon to finish her Ph.D. at Emory University. Aimi's researching <a href="http://en.wikipedia.org/wiki/Universal_design">universal design</a> and disability politics in the built environment, among other things. We have a lot to talk about, and I'm hoping to post a long exchange between us here. It was Aimi's research that pointed me to one particularly striking example of new construction with elegant, considered, universal design: The <a href="http://icord.org/">Blusson Spinal Cord Centre</a> in Vancouver, home to a large interdisciplinary research group called the International Collaboration on Repair Discoveries (ICORD).</p>

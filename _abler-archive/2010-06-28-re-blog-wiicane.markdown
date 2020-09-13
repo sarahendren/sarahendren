@@ -1,5 +1,7 @@
 ---
 title: 2010 06 28 Re Blog Wiicane
+date: 2010-06-28 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/06/wiicane-actual.gif"><img class="alignnone size-full wp-image-4638" alt="wiicane-actual" src="{{ site.baseurl }}/uploads/wiicane-actual.gif" width="64" height="425" /></a></p>

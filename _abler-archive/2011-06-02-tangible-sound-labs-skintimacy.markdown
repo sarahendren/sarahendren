@@ -1,5 +1,7 @@
 ---
 title: 2011 06 02 Tangible Sound Labs Skintimacy
+date: 2011-06-02 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/06/skintimacy1.jpg"><img class="alignnone size-full wp-image-3683" alt="Skintimacy1" src="{{ site.baseurl }}/uploads/skintimacy1.jpg" width="610" height="340" /></a></p>

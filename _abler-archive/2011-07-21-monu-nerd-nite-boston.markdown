@@ -1,5 +1,7 @@
 ---
 title: 2011 07 21 Monu Nerd Nite Boston
+date: 2011-07-21 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/07/monu-14_9_large.jpg"><img class="alignnone size-full wp-image-3669" title="monu 14_9_large" src="{{ site.baseurl }}/uploads/monu-14_9_large.jpg" alt="" width="503" height="375" /></a></p>

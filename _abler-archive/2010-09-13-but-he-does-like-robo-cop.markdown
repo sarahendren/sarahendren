@@ -1,5 +1,7 @@
 ---
 title: 2010 09 13 But He Does Like Robo Cop
+date: 2010-09-13 00:00:00 -04:00
+type: archive
 ---
 
 <p>From Jonah Campbell's guest post about why the Terminator isn't a cyborg, at <a href="http://quietbabylon.com/2010/some-major-terminator-fan-is-totally-going-to-nail-my-ass-to-the-wall-for-this/">Quiet Babylon</a>:</p>

@@ -1,5 +1,7 @@
 ---
 title: 2010 10 26 Lauren Mccarthys Conversacube
+date: 2010-10-26 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/10/conversacube2.jpg"><img class="alignnone size-full wp-image-4333" alt="conversacube2" src="{{ site.baseurl }}/uploads/conversacube2.jpg" width="610" height="406" /></a></p>

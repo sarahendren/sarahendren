@@ -1,7 +1,7 @@
 ---
 title: 'Leanie van der Vyver: "heels."'
 date: 2012-10-26 17:02:59 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'

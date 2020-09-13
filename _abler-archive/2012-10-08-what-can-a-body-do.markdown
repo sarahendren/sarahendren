@@ -1,7 +1,7 @@
 ---
 title: what can a body do?
 date: 2012-10-08 00:12:15 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'

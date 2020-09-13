@@ -1,5 +1,7 @@
 ---
 title: 2011 08 30 Deus Ex The Eyeborg Documentarian
+date: 2011-08-30 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/08/eyeborg1.jpg"><img class="alignnone size-full wp-image-4666" alt="eyeborg" src="{{ site.baseurl }}/uploads/eyeborg1.jpg" width="500" height="249" /></a></p>

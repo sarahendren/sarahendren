@@ -1,7 +1,7 @@
 ---
 title: matthias gommel's "delayed"
 date: 2012-10-17 14:48:29 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'

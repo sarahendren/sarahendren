@@ -1,7 +1,7 @@
 ---
 title: sensory substitution
 date: 2009-11-21 11:54:16 -05:00
-type: post
+type: archive
 status: publish
 meta:
   original_post_id: '181'

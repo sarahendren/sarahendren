@@ -1,5 +1,7 @@
 ---
 title: 2011 06 11 Talk O Meter So Many Many Uses
+date: 2011-06-11 00:00:00 -04:00
+type: archive
 ---
 
 <p>The <a href="http://www.talk-o-meter.de/e/">Talk-O-Meter</a> has made the tech rounds already, but I had to post it here. It's so simple, and so good.</p>

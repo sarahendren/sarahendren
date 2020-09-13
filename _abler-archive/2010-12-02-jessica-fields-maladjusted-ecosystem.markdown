@@ -1,5 +1,7 @@
 ---
 title: 2010 12 02 Jessica Fields Maladjusted Ecosystem
+date: 2010-12-02 00:00:00 -05:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/12/light-emitter.jpg"><img class="alignnone size-full wp-image-4065" title="Light Emitter" src="{{ site.baseurl }}/uploads/light-emitter.jpg" alt="" width="271" height="360" /></a></p>

@@ -1,5 +1,7 @@
 ---
 title: 2011 09 20 High Low Tech
+date: 2011-09-20 00:00:00 -04:00
+type: archive
 ---
 
 <p>In the spirit of the <a href="http://www.ablersite.org/2011/03/the-public-amateur/">public amateur</a>, I'm going to document my way through a class I'm taking at the MIT media lab: <a href="http://material.media.mit.edu/">Crafting Material Interfaces</a>. It's taught by Leah Buechley, with instruction and time in <a href="http://hlt.media.mit.edu/">her lab</a> to investigate materials and methods. The High-Low Tech group brings together digital and analog, futurist and traditional technologies, means, and cultures:</p>

@@ -1,7 +1,7 @@
 ---
 title: '"sound is a character"'
 date: 2012-09-22 17:55:38 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'

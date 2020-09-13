@@ -1,5 +1,7 @@
 ---
 title: 2010 10 22 Its A Sign
+date: 2010-10-22 00:00:00 -04:00
+type: archive
 ---
 
 <p>Second iteration of the accessible-access re-design coming very soon. I found this image last night at Boston Architectural College (otherwise a fine institution)—!</p>

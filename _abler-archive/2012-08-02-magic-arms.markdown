@@ -1,7 +1,7 @@
 ---
 title: magic arms
 date: 2012-08-02 21:19:19 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _wp_old_slug: '2913'

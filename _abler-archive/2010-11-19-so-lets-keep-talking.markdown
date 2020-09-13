@@ -1,5 +1,7 @@
 ---
 title: 2010 11 19 So Lets Keep Talking
+date: 2010-11-19 00:00:00 -05:00
+type: archive
 ---
 
 <p><a href="http://ablersite.org/2010/11/19/so-lets-keep-talking/polymath/#main" rel="attachment wp-att-4211"><img class="alignnone size-full wp-image-4211" alt="Polymath" src="{{ site.baseurl }}/uploads/polymath.jpg" width="610" height="427" /></a></p>

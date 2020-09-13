@@ -1,6 +1,8 @@
 ---
 title: 2010 05 01 Adaptation Part Ii Hearing Aid Jewelry Chairs That Give Hugs And
   The Art Of Changing The Question
+date: 2010-05-01 00:00:00 -04:00
+type: archive
 ---
 
 <p>In <a href="https://ablersite.wordpress.com/2010/05/17/adaptation-part-i-how-the-eames-chair-came-from-leg-splints-and-why-disability-studies-isnt-just-identity-politics/">Part I</a> of this series, I wrote about the still-new territory that is true adaptive design. As shown in the case of the Eames chairs, we've only begun to explore the aesthetic-and-engineering innovations that may shift our cultural ideas about ability and disability, independence and dependence, normalcy and variation.</p>

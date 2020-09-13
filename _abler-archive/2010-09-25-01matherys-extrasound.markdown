@@ -1,5 +1,7 @@
 ---
 title: 2010 09 25 01matherys Extrasound
+date: 2010-09-25 00:00:00 -04:00
+type: archive
 ---
 
 <p>I know we've all seen plenty of blogs devoted to one thing a day [one recipe, one photograph, one new idea]. But <a href="http://01mathery.tumblr.com/">01Mathery</a> keep inspiring me with their sheer energy and playfulness—they're a team of two young designers, hacking and designing one new object every day.</p>

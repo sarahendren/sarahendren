@@ -1,5 +1,7 @@
 ---
 title: 2011 05 24 Alison Lapper Pregnant
+date: 2011-05-24 00:00:00 -04:00
+type: archive
 ---
 
 <p>As part of the <a href="http://www.london.gov.uk/trafalgarsquare/around/4th_plinth.jsp">Fourth Plinth series</a> of rotating public sculpture in Trafalgar Square, London, <a href="http://www.marcquinn.com/">Marc Quinn</a> mounted this large-scale work in 2005:</p>

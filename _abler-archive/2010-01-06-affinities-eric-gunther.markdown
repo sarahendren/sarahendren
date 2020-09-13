@@ -1,5 +1,7 @@
 ---
 title: 2010 01 06 Affinities Eric Gunther
+date: 2010-01-06 00:00:00 -05:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/01/organ_021.jpg"><img class="alignnone size-full wp-image-4613" alt="organ_02" src="{{ site.baseurl }}/uploads/organ_021.jpg" width="290" height="252" /></a></p>

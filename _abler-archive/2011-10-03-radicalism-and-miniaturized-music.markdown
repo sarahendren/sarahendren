@@ -1,5 +1,7 @@
 ---
 title: 2011 10 03 Radicalism And Miniaturized Music
+date: 2011-10-03 00:00:00 -04:00
+type: archive
 ---
 
 <p>"We do not return to individualized or privatized emotions when we use the Walkman: rather the Walkman's artificiality makes us aware of the impending presence of the collective, which summons us with the infallibility of the sleepwalker. What the Walkman provides is the possibility of a barrier, a blockage between 'me' and the world, so that, as in moments of undisturbed sleep, I can disappear as a listener playing music. The Walkman allows me, in other words, to be missing—to be a missing part of history, to which I say: 'I am not there, not where you collect me.'"</p>

@@ -1,5 +1,7 @@
 ---
 title: 2011 11 10 The Importance Of Being A Cyborg Ableist
+date: 2011-11-10 00:00:00 -05:00
+type: archive
 ---
 
 <p><a href="http://hplusmagazine.com/2009/07/21/importance-being-cyborg-feminist/">This article in H+</a> emphasizes the importance of embracing technology to further the cause of women's equality in contemporary society. This is the kind of essay where you could almost swap out the feminist terminology for that of disability rights, with very few changes. Kyle Munkittrick lays out nicely the stakes for the cyber-feminist in the legacy of Donna Haraway:</p>

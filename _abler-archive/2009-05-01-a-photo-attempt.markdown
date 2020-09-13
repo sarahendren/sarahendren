@@ -1,5 +1,7 @@
 ---
 title: 2009 05 01 A Photo Attempt
+date: 2009-05-01 00:00:00 -04:00
+type: archive
 ---
 
 <p>Representing disability is a challenge; representing cognitive or developmental disability may be more so. Here's an image from a series of bulletin boards, created in late 2007 by the <a href="http://www.aboutourkids.org/">NYU Child Study Center</a>. Designed as ransom notes, they were created as a public awareness campaign about various childhood neurological conditions, including the autism spectrum.</p>

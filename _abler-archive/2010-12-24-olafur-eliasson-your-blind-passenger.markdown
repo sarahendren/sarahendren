@@ -1,5 +1,7 @@
 ---
 title: 2010 12 24 Olafur Eliasson Your Blind Passenger
+date: 2010-12-24 00:00:00 -05:00
+type: archive
 ---
 
 <p>It's hard not to love <a href="http://www.olafureliasson.net/">Eliasson's work</a>. Deceptively simple, immersive environments are where he shines. Currently up at the <a href="http://www.arken.dk/content/us">Arken Museum</a> is <em>Your Blind Passenger</em>, a 90-meter tunnel, densely fogged. So visibility is minimal, and participants must use other instincts to find their way.</p>

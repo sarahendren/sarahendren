@@ -1,5 +1,7 @@
 ---
 title: 2010 03 29 Ongoing Public Signs
+date: 2010-03-29 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/03/staticwheelchair.jpg"><img class="alignnone size-full wp-image-4723" alt="staticwheelchair" src="{{ site.baseurl }}/uploads/staticwheelchair.jpg" width="117" height="133" /></a></p>

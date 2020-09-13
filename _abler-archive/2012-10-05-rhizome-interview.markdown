@@ -1,7 +1,7 @@
 ---
 title: rhizome interview
 date: 2012-10-05 01:15:06 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _edit_last: '7812036'

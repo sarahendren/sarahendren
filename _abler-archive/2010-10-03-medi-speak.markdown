@@ -1,5 +1,7 @@
 ---
 title: 2010 10 03 Medi Speak
+date: 2010-10-03 00:00:00 -04:00
+type: archive
 ---
 
 <p>I've been thinking about a set of alternative hospital linens, and I've started with these pillowcases:</p>

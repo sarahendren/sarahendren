@@ -1,5 +1,7 @@
 ---
 title: 2009 10 12 Wendy Jacob Lecture On Mits Techtv
+date: 2009-10-12 00:00:00 -04:00
+type: archive
 ---
 
 <p>Artist and MIT professor <a href="http://visualarts.mit.edu/workandresearch/workfaculty/work_jacob.html">Wendy Jacob</a> speaks <a href="https://techtv.mit.edu/videos/3016-wendy-jacob-autism-studio">in this video</a> about her recent work within her newly-established Autism Studio in the visual arts program there. Worth watching—she shows some recent work of her own, some of her students' projects, and then a new collaboration with a young boy diagnosed with autism, working to create a novel way to navigate through large open spaces.</p>

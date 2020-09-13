@@ -1,5 +1,7 @@
 ---
 title: 2010 10 11 Alien Staff Its Virtual Its Prosthetic
+date: 2010-10-11 00:00:00 -04:00
+type: archive
 ---
 
 <p>Jim Rossignol's <a href="http://rossignol.cream.org/?p=1061">piece</a> for Tim Maly's recent project, <a href="What would the implications be for our culture, Shaviro wonders, if prosthetic had been the dominant metaphor during the information revolution, rather than virtual?">50 Posts about Cyborgs</a>, includes this quote from Steven Shaviro's 2003 work, <a href="http://www.amazon.com/Connected-What-Means-Network-Society/dp/0816643628/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1286803907&amp;sr=8-1"><em>Connected, or What it Means to Live in the Network Society</em></a>:</p>

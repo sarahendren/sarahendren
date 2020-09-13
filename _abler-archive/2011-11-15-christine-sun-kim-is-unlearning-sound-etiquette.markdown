@@ -1,5 +1,7 @@
 ---
 title: 2011 11 15 Christine Sun Kim Is Unlearning Sound Etiquette
+date: 2011-11-15 00:00:00 -05:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/11/christinekimcloseup.jpg"><img class="alignnone size-full wp-image-3599" alt="christinekimcloseup" src="{{ site.baseurl }}/uploads/christinekimcloseup.jpg" width="610" height="334" /></a></p>

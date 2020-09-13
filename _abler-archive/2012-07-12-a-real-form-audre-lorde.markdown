@@ -1,5 +1,7 @@
 ---
 title: 2012 07 12 A Real Form Audre Lorde
+date: 2012-07-12 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2012/07/breast_implant_xray2.jpg"><img class="alignnone  wp-image-3831" title="breast_implant_xray" src="{{ site.baseurl }}/uploads/breast_implant_xray2.jpg?w=557" alt="a black and white photo / xray of a breast implant" width="446" height="819" /></a></p>

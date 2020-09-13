@@ -1,5 +1,7 @@
 ---
 title: 2009 12 12 Affinities Jooyeun Paek
+date: 2009-12-12 00:00:00 -05:00
+type: archive
 ---
 
 <p><a href="http://jooyounpaek.com/politeumbrella.html">JooYoun Paek's Polite Umbrella (see video!).</a></p>

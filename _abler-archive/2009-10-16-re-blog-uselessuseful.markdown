@@ -1,5 +1,7 @@
 ---
 title: 2009 10 16 Re Blog Uselessuseful
+date: 2009-10-16 00:00:00 -04:00
+type: archive
 ---
 
 <p>From <a href="http://www.flong.com/blog/archives/334">Flong Blog</a>, Golan Levin on how new media artists, working outside the mandates of utility and traditional research, are often uncredited sources for novel, sophisticated technologies. Issues of copyright aside, it shouldn't be news that artists work in ways that circumvent linear problem-solving, and may, in the process, create technologies that are very useful indeed. I'd speculate that this kind of idea-hatching extends beyond the new media fields as well.</p>

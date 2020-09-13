@@ -1,5 +1,7 @@
 ---
 title: 2010 10 15 The Adjacent Possible
+date: 2010-10-15 00:00:00 -04:00
+type: archive
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/10/volcanic-ash-2.jpg"><img class="alignnone size-full wp-image-4654" alt="volcanic-ash-2" src="{{ site.baseurl }}/uploads/volcanic-ash-2.jpg" width="400" height="300" /></a></p>

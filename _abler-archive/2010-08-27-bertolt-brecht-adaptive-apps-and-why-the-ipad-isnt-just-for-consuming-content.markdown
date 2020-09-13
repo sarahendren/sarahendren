@@ -1,6 +1,8 @@
 ---
 title: 2010 08 27 Bertolt Brecht Adaptive Apps And Why The Ipad Isnt Just For Consuming
   Content
+date: 2010-08-27 00:00:00 -04:00
+type: archive
 ---
 
 <p>Media theorists love Bertolt Brecht's famous 1932 essay, <a href="http://home.freeuk.net/lemmaesthetics/brecht1.htm">"The Radio as an Apparatus of Communication."</a> It's a prescient call for participatory technology:</p>

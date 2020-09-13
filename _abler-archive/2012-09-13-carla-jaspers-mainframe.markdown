@@ -1,7 +1,7 @@
 ---
 title: 'carla jaspers: "mainframe"'
 date: 2012-09-13 23:21:57 -04:00
-type: post
+type: archive
 status: publish
 meta:
   _thumbnail_id: '3703'
