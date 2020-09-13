@@ -3,23 +3,26 @@ title: "tangible sound lab's \"skintimacy\"\x9D"
 date: 2011-06-02 10:52:41 -04:00
 categories:
 - re-blog
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2011/06/02/tangible-sound-labs-skintimacy/
-wordpress_id: 1993
+type: post
+status: publish
+meta:
+  image: wp-content/uploads/skintimacy2.png
+  _wp_old_slug: '1993'
+  _thumbnail_id: '3683'
+  s2mail: 'yes'
+  original_post_id: '1993'
+  _edit_last: '7812036'
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-[![Skintimacy1](http://ablersite.files.wordpress.com/2011/06/skintimacy1.jpg)](http://ablersite.files.wordpress.com/2011/06/skintimacy1.jpg)
-
-From the [Tangible Sound Lab](http://www.a-plusplus.com/): "[Skintimacy](http://tangible-sound-lab.org/?p=350)":
-
-
-"...a skin-based interface for a collaborative musical performance. It is intended to be both an evocative tool for interpersonal interaction and touch, as well as an alternative digital musical instrument. By integrating the human skin and touch into the musician-computer interface, we propose a bodily-close haptic and emotional experience."
-
-
-[vimeo http://www.vimeo.com/19206174 w=500&h=281]
-
-[Skintimacy: Exploring Interpersonal Boundaries through Musical Interactions](http://vimeo.com/19206174) from [Jochen Fuchs](http://vimeo.com/user880893) on [Vimeo](http://vimeo.com).
-
-via [Design Abilities](http://designabilities.wordpress.com/). Thumbnail [image credit](http://noadol.com/wallSound/Precedents.html).
+<p><a href="http://ablersite.files.wordpress.com/2011/06/skintimacy1.jpg"><img class="alignnone size-full wp-image-3683" alt="Skintimacy1" src="{{ site.baseurl }}/uploads/skintimacy1.jpg" width="610" height="340" /></a></p>
+<p>From the <a href="http://www.a-plusplus.com/">Tangible Sound Lab</a>: "<a href="http://tangible-sound-lab.org/?p=350">Skintimacy</a>":</p>
+<p style="padding-left:30px;">"...a skin-based interface for a collaborative musical performance. It is intended to be both an evocative tool for interpersonal interaction and touch, as well as an alternative digital musical instrument. By integrating the human skin and touch into the musician-computer interface, we propose a bodily-close haptic and emotional experience."</p>
+<p>[vimeo http://www.vimeo.com/19206174 w=500&amp;h=281]</p>
+<p><a href="http://vimeo.com/19206174">Skintimacy: Exploring Interpersonal Boundaries through Musical Interactions</a> from <a href="http://vimeo.com/user880893">Jochen Fuchs</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<p>via <a href="http://designabilities.wordpress.com/">Design Abilities</a>. Thumbnail <a href="http://noadol.com/wallSound/Precedents.html">image credit</a>.</p>

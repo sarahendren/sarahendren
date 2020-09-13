@@ -4,70 +4,70 @@ title: 'Adaptation, Part I: How the Eames chair came from leg splints, and why "
 date: 2010-05-17 15:01:15 -04:00
 categories:
 - new here?
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2010/05/17/adaptation-part-i-how-the-eames-chair-came-from-leg-splints-and-why-disability-studies-isnt-just-identity-politics/
-wordpress_id: 366
+type: post
+status: publish
+meta:
+  _edit_last: '7812036'
+  _thumbnail_id: '3611'
+  image: wp-content/uploads/eamessplint2.jpg
+  original_post_id: '366'
+  _wp_old_slug: '366'
+  _oembed_69ffb42b02bec135e035ea18f73bee80: "{{unknown}}"
+  _oembed_3e03357dde1fd8bb8f200e816504cdab: "{{unknown}}"
+  _oembed_40cbca5dad646ae200e0542a213d54c6: "{{unknown}}"
+  _oembed_027be4d47eda18d8c8e2063fe42f28c2: "{{unknown}}"
+  _oembed_761e8dba9418c32fdf9d647004545ca0: "{{unknown}}"
+  _oembed_fce8da0d0cca2fe55fab6dfc0ba3e2d8: "{{unknown}}"
+  _oembed_86e061a958052d7a9a36eb8b1c16bb8d: "{{unknown}}"
+  _oembed_5d11df6fffd65c73fa57449cf90f5ef4: "{{unknown}}"
+  _oembed_f57f025d2717db5dfb4520438aee259e: "{{unknown}}"
+  _oembed_39f1def8e8c64430a95efec3188b2e6b: "{{unknown}}"
+  _oembed_3fb21e94d5f2f980445cc365020a395d: "{{unknown}}"
+  _oembed_9d66cfb8a08c9bf44cf46c9e1e43c1fb: "{{unknown}}"
+  _oembed_ab3f86994e8bbd9df50ab6f46358d5e6: "{{unknown}}"
+  _oembed_8b8f0d48c01c86ba17f09d35f0f3ba95: "{{unknown}}"
+  _oembed_419a68d0000c20e1463750ff84a77531: "{{unknown}}"
+  _oembed_8bffa749f3eab3f2131f3bb436c91881: "{{unknown}}"
+  _oembed_e44daf7f3a7bee68d1e06df802acf13c: "{{unknown}}"
+  _oembed_6de2ef88d211e264ba4a1a89bc35d33e: "{{unknown}}"
+  _oembed_703677c6252c766e9454ce5722d89c3e: "{{unknown}}"
+  _oembed_38253c8bd7987f6cae58fd5990d7f6ac: "{{unknown}}"
+  _oembed_c82721a258cc9d3a73646643939daba6: "{{unknown}}"
+  _oembed_460013366c989e85a4b4f7d459f0fd88: "{{unknown}}"
+  _oembed_7159d5a1b209a0911580bf43a0ccb870: "{{unknown}}"
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-[![](http://ablersite.files.wordpress.com/2010/05/eamessplint.jpg)](http://ablersite.files.wordpress.com/2010/05/eamessplint.jpg)
-
-In 1941, the husband-and-wife design team, Charles and Ray Eames, were commissioned by the US Navy to design a lightweight splint for wounded soldiers to get them out of the field more securely. Metal splints of that period weren't secure enough to hold the leg still, causing unnecessary death from gangrene or shock, blood loss, and so on.
-
-[![](http://ablersite.files.wordpress.com/2010/05/eamessplintinuse1.jpg)](http://ablersite.files.wordpress.com/2010/05/eamessplintinuse1.jpg)
-
-The Eameses had been working on techniques to mold and bend plywood, and they were able to come up with this splint design—conforming to the body without a lot of extra joints and parts. The wood design became a secure, lightweight, nest-able solution, and they produced more than 150,000 such splints for the Navy.*
-
-[![](http://ablersite.files.wordpress.com/2010/05/eamessplint2.jpg)](http://ablersite.files.wordpress.com/2010/05/eamessplint2.jpg)
-
-Over the next decade, the Eameses would go on to refine their wood-molding process to create both sculpture and functional design pieces, most notably these celebrated chairs:
-
-[![](http://ablersite.files.wordpress.com/2010/05/eameswoodchair.jpg)](http://ablersite.files.wordpress.com/2010/05/eameswoodchair.jpg)
-
-[![](http://ablersite.files.wordpress.com/2010/05/eames_lounge_1-600x334.jpg)](http://ablersite.files.wordpress.com/2010/05/eames_lounge_1-600x334.jpg)
-
-[Graham Pullin](http://www.dundee.ac.uk/design/profiles.php?profile=graham-pullin), in his book, [_Design Meets Disability_](http://www.amazon.com/Design-Meets-Disability-Graham-Pullin/dp/0262162555/ref=sr_1_1?ie=UTF8&s=books&qid=1266428880&sr=1-1), cites this story as an example of a seemingly specialized design problem—a practical aid for disabled soldiers—that inspired a whole aesthetic in modernist furnishings. The chairs that launched a thousand imitators, and a new ethos of simple, organic lines in household objects.
-
-It's easy to assume that the innovation would more often happen in reverse: that a generalized design solution would "trickle down" to the narrow confines of adaptive technology. But this example, as Pullin points out, suggests that disability concerns may be an overlooked area of aesthetic inspiration, able to point to creative breakthroughs that have wide relevance and impact.
-
-More than that, I think it demonstrates why we should all pay more attention to disability matters.
-
-It's easy to imagine that "disability studies" is just one more category of identity that's purely for political advocacy, interesting only to those directly affected by issues of accessiblity, accommodation, or special rights. But if we pay greater critical/theoretical attention, we'll understand that "disabledness" is a far more slippery designation than the other ways we have of organizing ourselves—along the lines of race, gender, ethnicity, and the rest. And while these latter categories have also been shown to be much less stable than once thought, disability is another matter altogether. Let me explore two big reasons why disability concerns are everyone's concerns.
-
-First, we make a false divide when we make a we/them: either able-minded, able-bodied, or disabled. After all, how we define, think about, and treat those who currently have marked disabilities is how we ourselves may well be perceived if _and when_ we become less abled than we are now: by age, degeneration, or some sudden change in our physical or mental capacities. We will all, over the course of our lives, traffic between times of relative independence and dependence. So the questions we ask, the technologies we invent, and how they broadcast a message about their users—weakness and strength, agency and passivity—are important ones. And they're not just questions for scientists and policy-makers; they're aesthetic questions too.
-
-Second, in the West at least, we maintain a near-obsession with averages and statistical norms about our bodies, personalities, and capacities that we take for granted. But this way of measuring ourselves is historically very recent, and worth reconsidering.
-
-Disability studies scholar [Lennard Davis](http://www.lennarddavis.com/home.html) writes that
-
-
-"before the nineteenth century in Western culture, the concept of the "˜ideal' was the regnant paradigm in relation to all bodies, so _all bodies were less than ideal_. The introduction of the concept of normality, however, created an imperative to be normal, as the eugenics movement proved by enshrining the bell curve (also known as the "normal curve") as the umbrella under whose demanding peak we should all stand. With the introduction of the bell curve came the notion of "˜abnormal' bodies. And the rest is history"" [italics mine]
-
-
-
-
-[_Bending Over Backwards: Disability, Dismodernism, and other Difficult Positions_](http://www.amazon.com/Bending-Over-Backwards-Essays-Disability/dp/0814719503/ref=sr_1_4?ie=UTF8&s=books&qid=1266501666&sr=8-4)
-
-
-You all know the bell curve, of course.
-
-[![](http://ablersite.files.wordpress.com/2010/05/bell-curve-sd-precent-ss.jpg)](http://ablersite.files.wordpress.com/2010/05/bell-curve-sd-precent-ss.jpg)
-
-It's the source of all our talk about how we measure up, relative to others. In case you doubt the obsession, I invite you to witness the conversation among parents of young children: It's all percentiles, and milestones, and being "ahead of the curve" with respect to each month of a child's development. Exceptional normal-ness is what they prize above all else, and it's this measurement that can reassure anxious caregivers, despite little correlation between these measures and a lifetime of wellness, healthy relationships, or sustaining work.
-
-Again, Davis reminds us that this is a _recent_ set of cultural ideas, so naturalized that these standards have a way of "[enforcing normalcy](http://www.amazon.com/Enforcing-Normalcy-Disability-Deafness-Body/dp/1859840078/ref=sr_1_4?ie=UTF8&s=books&qid=1266435150&sr=1-4)." Measurable normalcy is the current ideal, even as we know, increasingly, that all the facts about us—our neurological profiles, our temperament, our long-term achievements—are marked by singularity, variability, and idiosyncracy.
-
-"It's too easy to say, 'We're all disabled,'" Davis writes. But it's a challenge to interrupt our cultural assumptions in powerful, creative ways—and alter how we think about our own dependence, independence, and that of others.
-
-So how do artists engage these myths about what's normal, and make more visible and expansive the concept of a fluid abled/disabled identity?
-
-That's in Part II, coming next. If you want, you can subscribe to my RSS feed or get email notifications for future posts—on the [home page](http://www.ablersite.com/).
-
-[Read Part II here](https://ablersite.wordpress.com/2010/05/01/adaptation-part-ii-hearing-aid-jewelry-chairs-that-give-hugs-and-the-art-of-changing-the-question/).
-
-[Read Part III here](https://ablersite.wordpress.com/2010/04/17/adaptation-part-iii-art-as-research-braille-tattoos-socially-adept-handbags/).
-
-*You can read more about the splints in Neuhart, Neuhart, and Eames, [Eames Design: The Work of the Office of Charles and Ray Eames](http://www.amazon.com/Eames-Design-John-Neuhart/dp/0810908794/ref=sr_1_1?ie=UTF8&s=books&qid=1266435371&sr=1-1).
-
-splint and chair images from [this Flickr set](http://www.flickr.com/groups/eames-splint/pool/) and the [Herman Miller site](http://www.hermanmiller.com/global).
+<p><a href="http://ablersite.files.wordpress.com/2010/05/eamessplint.jpg"><img class="alignnone size-full wp-image-3797" title="eamessplint" src="{{ site.baseurl }}/uploads/eamessplint.jpg" alt="" width="251" height="384" /></a></p>
+<p>In 1941, the husband-and-wife design team, Charles and Ray Eames, were commissioned by the US Navy to design a lightweight splint for wounded soldiers to get them out of the field more securely. Metal splints of that period weren't secure enough to hold the leg still, causing unnecessary death from gangrene or shock, blood loss, and so on.</p>
+<p><a href="http://ablersite.files.wordpress.com/2010/05/eamessplintinuse1.jpg"><img class="alignnone size-full wp-image-3798" title="eamessplintinuse" src="{{ site.baseurl }}/uploads/eamessplintinuse1.jpg" alt="" width="430" height="393" /></a></p>
+<p>The Eameses had been working on techniques to mold and bend plywood, and they were able to come up with this splint design—conforming to the body without a lot of extra joints and parts. The wood design became a secure, lightweight, nest-able solution, and they produced more than 150,000 such splints for the Navy.*</p>
+<p><a href="http://ablersite.files.wordpress.com/2010/05/eamessplint2.jpg"><img class="alignnone size-full wp-image-3799" title="eamessplint2" src="{{ site.baseurl }}/uploads/eamessplint2.jpg" alt="" width="500" height="333" /></a></p>
+<p>Over the next decade, the Eameses would go on to refine their wood-molding process to create both sculpture and functional design pieces, most notably these celebrated chairs:</p>
+<p><a href="http://ablersite.files.wordpress.com/2010/05/eameswoodchair.jpg"><img class="alignnone size-full wp-image-3800" title="eameswoodchair" src="{{ site.baseurl }}/uploads/eameswoodchair.jpg" alt="" width="378" height="500" /></a></p>
+<p><a href="http://ablersite.files.wordpress.com/2010/05/eames_lounge_1-600x334.jpg"><img class="alignnone size-full wp-image-3801" title="eames_lounge_1-600x334" src="{{ site.baseurl }}/uploads/eames_lounge_1-600x334.jpg" alt="" width="600" height="334" /></a></p>
+<p><a href="http://www.dundee.ac.uk/design/profiles.php?profile=graham-pullin">Graham Pullin</a>, in his book, <a href="http://www.amazon.com/Design-Meets-Disability-Graham-Pullin/dp/0262162555/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1266428880&amp;sr=1-1"><em>Design Meets Disability</em></a>, cites this story as an example of a seemingly specialized design problem—a practical aid for disabled soldiers—that inspired a whole aesthetic in modernist furnishings. The chairs that launched a thousand imitators, and a new ethos of simple, organic lines in household objects.</p>
+<p>It's easy to assume that the innovation would more often happen in reverse: that a generalized design solution would "trickle down" to the narrow confines of adaptive technology. But this example, as Pullin points out, suggests that disability concerns may be an overlooked area of aesthetic inspiration, able to point to creative breakthroughs that have wide relevance and impact.</p>
+<p>More than that, I think it demonstrates why we should all pay more attention to disability matters.</p>
+<p>It's easy to imagine that "disability studies" is just one more category of identity that's purely for political advocacy, interesting only to those directly affected by issues of accessiblity, accommodation, or special rights. But if we pay greater critical/theoretical attention, we'll understand that "disabledness" is a far more slippery designation than the other ways we have of organizing ourselves—along the lines of race, gender, ethnicity, and the rest. And while these latter categories have also been shown to be much less stable than once thought, disability is another matter altogether. Let me explore two big reasons why disability concerns are everyone's concerns.</p>
+<p>First, we make a false divide when we make a we/them: either able-minded, able-bodied, or disabled. After all, how we define, think about, and treat those who currently have marked disabilities is how we ourselves may well be perceived if <em>and when</em> we become less abled than we are now: by age, degeneration, or some sudden change in our physical or mental capacities. We will all, over the course of our lives, traffic between times of relative independence and dependence. So the questions we ask, the technologies we invent, and how they broadcast a message about their users—weakness and strength, agency and passivity—are important ones. And they're not just questions for scientists and policy-makers; they're aesthetic questions too.</p>
+<p>Second, in the West at least, we maintain a near-obsession with averages and statistical norms about our bodies, personalities, and capacities that we take for granted. But this way of measuring ourselves is historically very recent, and worth reconsidering.</p>
+<p>Disability studies scholar <a href="http://www.lennarddavis.com/home.html">Lennard Davis</a> writes that</p>
+<p style="text-align:left;padding-left:30px;">"before the nineteenth century in Western culture, the concept of the "˜ideal' was the regnant paradigm in relation to all bodies, so <em>all bodies were less than ideal</em>. The introduction of the concept of normality, however, created an imperative to be normal, as the eugenics movement proved by enshrining the bell curve (also known as the "normal curve") as the umbrella under whose demanding peak we should all stand. With the introduction of the bell curve came the notion of "˜abnormal' bodies. And the rest is history"" [italics mine]</p>
+<p style="padding-left:30px;"><a href="http://www.amazon.com/Bending-Over-Backwards-Essays-Disability/dp/0814719503/ref=sr_1_4?ie=UTF8&amp;s=books&amp;qid=1266501666&amp;sr=8-4"><em>Bending Over Backwards: Disability, Dismodernism, and other Difficult Positions</em></a></p>
+<p>You all know the bell curve, of course.</p>
+<p><a href="http://ablersite.files.wordpress.com/2010/05/bell-curve-sd-precent-ss.jpg"><img class="alignnone size-full wp-image-3802" title="Bell-curve-SD-Precent-SS" src="{{ site.baseurl }}/uploads/bell-curve-sd-precent-ss.jpg" alt="" width="640" height="418" /></a></p>
+<p>It's the source of all our talk about how we measure up, relative to others. In case you doubt the obsession, I invite you to witness the conversation among parents of young children: It's all percentiles, and milestones, and being "ahead of the curve" with respect to each month of a child's development. Exceptional normal-ness is what they prize above all else, and it's this measurement that can reassure anxious caregivers, despite little correlation between these measures and a lifetime of wellness, healthy relationships, or sustaining work.</p>
+<p>Again, Davis reminds us that this is a <em>recent</em> set of cultural ideas, so naturalized that these standards have a way of "<a href="http://www.amazon.com/Enforcing-Normalcy-Disability-Deafness-Body/dp/1859840078/ref=sr_1_4?ie=UTF8&amp;s=books&amp;qid=1266435150&amp;sr=1-4">enforcing normalcy</a>." Measurable normalcy is the current ideal, even as we know, increasingly, that all the facts about us—our neurological profiles, our temperament, our long-term achievements—are marked by singularity, variability, and idiosyncracy.</p>
+<p>"It's too easy to say, 'We're all disabled,'" Davis writes. But it's a challenge to interrupt our cultural assumptions in powerful, creative ways—and alter how we think about our own dependence, independence, and that of others.</p>
+<p>So how do artists engage these myths about what's normal, and make more visible and expansive the concept of a fluid abled/disabled identity?</p>
+<p>That's in Part II, coming next. If you want, you can subscribe to my RSS feed or get email notifications for future posts—on the <a href="http://www.ablersite.com/">home page</a>.</p>
+<p><a href="https://ablersite.wordpress.com/2010/05/01/adaptation-part-ii-hearing-aid-jewelry-chairs-that-give-hugs-and-the-art-of-changing-the-question/">Read Part II here</a>.</p>
+<p><a href="https://ablersite.wordpress.com/2010/04/17/adaptation-part-iii-art-as-research-braille-tattoos-socially-adept-handbags/">Read Part III here</a>.</p>
+<p>*You can read more about the splints in Neuhart, Neuhart, and Eames, <a href="http://www.amazon.com/Eames-Design-John-Neuhart/dp/0810908794/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1266435371&amp;sr=1-1">Eames Design: The Work of the Office of Charles and Ray Eames</a>.</p>
+<p>splint and chair images from <a href="http://www.flickr.com/groups/eames-splint/pool/">this Flickr set</a> and the <a href="http://www.hermanmiller.com/global">Herman Miller site</a>.</p>

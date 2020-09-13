@@ -5,19 +5,25 @@ categories:
 - re-blog
 tags:
 - re-blog
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2010/01/06/affinities-eric-gunther/
-wordpress_id: 335
+type: post
+status: publish
+meta:
+  _wp_old_slug: '335'
+  original_post_id: '335'
+  image: wp-content/uploads/organ_02.jpg
+  _thumbnail_id: '3999'
+  _edit_last: '7812036'
+  switch_like_status: '1'
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-[![organ_02](http://ablersite.files.wordpress.com/2010/01/organ_021.jpg)](http://ablersite.files.wordpress.com/2010/01/organ_021.jpg)
-
-[Eric Gunther's](http://www.ericgunther.info/) OrganOrgan. His description: "OrganOrgan is a modular multichannel vibrotactile surface. The surface is made of twelve independently driven low frequency transducers and conforms to the shape of the sitter. It is a platform for the composition of organized vibrations for the body. A tactile symphony of gentle waves, rough bumps, and sharp jabs bellows, sweeps, and sputters across the surface of the body, choreographed to music played through the headphones. The body is transformed into a stage for an invisible dance that is felt rather than seen."
-
-[vimeo http://www.vimeo.com/4621021 w=500&h=281]
-
-[OrganOrgan](http://vimeo.com/4621021) from [eric gunther](http://vimeo.com/user476928) on [Vimeo](http://vimeo.com).
-
-via Boston's [Collision Collective](http://www.collisioncollective.org/)
+<p><a href="http://ablersite.files.wordpress.com/2010/01/organ_021.jpg"><img class="alignnone size-full wp-image-4613" alt="organ_02" src="{{ site.baseurl }}/uploads/organ_021.jpg" width="290" height="252" /></a></p>
+<p><a href="http://www.ericgunther.info/">Eric Gunther's</a> OrganOrgan. His description: "OrganOrgan is a modular multichannel vibrotactile surface. The surface is made of twelve independently driven low frequency transducers and conforms to the shape of the sitter. It is a platform for the composition of organized vibrations for the body. A tactile symphony of gentle waves, rough bumps, and sharp jabs bellows, sweeps, and sputters across the surface of the body, choreographed to music played through the headphones. The body is transformed into a stage for an invisible dance that is felt rather than seen."</p>
+<p>[vimeo http://www.vimeo.com/4621021 w=500&amp;h=281]</p>
+<p><a href="http://vimeo.com/4621021">OrganOrgan</a> from <a href="http://vimeo.com/user476928">eric gunther</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<p>via Boston's <a href="http://www.collisioncollective.org/">Collision Collective</a></p>

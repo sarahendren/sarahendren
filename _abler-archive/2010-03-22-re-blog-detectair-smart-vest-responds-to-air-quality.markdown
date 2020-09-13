@@ -5,17 +5,23 @@ categories:
 - re-blog
 tags:
 - re-blog
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2010/03/22/re-blog-detectair-smart-vest-responds-to-air-quality/
-wordpress_id: 503
+type: post
+status: publish
+meta:
+  image: wp-content/uploads/DetectAir.jpg
+  original_post_id: '503'
+  _wp_old_slug: '503'
+  _thumbnail_id: '3980'
+  _edit_last: '7812036'
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-[Genevieve Mateyko](http://www.fashioningtech.com/profile/GenevieveMateyko) and [Pamela Troyer](http://www.pamela.troyer.me/)'s ["Detectair" vest](http://www.fashioningtech.com/profiles/blogs/detectair-an-ecowearable-that) "contains sensors that detect the ambient air quality and displays the data on the garment itself by illuminating a pattern of embedded LEDs across the chest."
-
-[![](http://ablersite.files.wordpress.com/2010/03/detectair.jpg)](http://ablersite.files.wordpress.com/2010/03/detectair.jpg)
-
-[![](http://ablersite.files.wordpress.com/2010/03/detectair01.jpg)](http://ablersite.files.wordpress.com/2010/03/detectair01.jpg)
-
-via [Fashioning Technology](http://www.fashioningtech.com/profiles/blogs/detectair-an-ecowearable-that).
+<p><a href="http://www.fashioningtech.com/profile/GenevieveMateyko">Genevieve Mateyko</a> and <a href="http://www.pamela.troyer.me/">Pamela Troyer</a>'s <a href="http://www.fashioningtech.com/profiles/blogs/detectair-an-ecowearable-that">"Detectair" vest</a> "contains sensors that detect the ambient air quality and displays the data on the garment itself by illuminating a pattern of embedded LEDs across the chest."</p>
+<p><a href="http://ablersite.files.wordpress.com/2010/03/detectair.jpg"><img class="alignnone size-full wp-image-3980" title="DetectAir" src="{{ site.baseurl }}/uploads/detectair.jpg" alt="" width="450" height="600" /></a></p>
+<p><a href="http://ablersite.files.wordpress.com/2010/03/detectair01.jpg"><img class="alignnone size-full wp-image-3981" title="Detectair01" src="{{ site.baseurl }}/uploads/detectair01.jpg" alt="" width="640" height="428" /></a></p>
+<p>via <a href="http://www.fashioningtech.com/profiles/blogs/detectair-an-ecowearable-that">Fashioning Technology</a>.</p>

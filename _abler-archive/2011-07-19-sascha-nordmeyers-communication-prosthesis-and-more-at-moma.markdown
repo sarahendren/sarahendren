@@ -3,19 +3,24 @@ title: "sascha nordmeyer's \"communication prosthesis,\"\x9D and more at MOMA"
 date: 2011-07-19 13:39:53 -04:00
 categories:
 - re-blog
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2011/07/19/sascha-nordmeyers-communication-prosthesis-and-more-at-moma/
-wordpress_id: 2048
+type: post
+status: publish
+meta:
+  _thumbnail_id: '3672'
+  _edit_last: '7812036'
+  image: wp-content/uploads/smile_simulator_2_thumb8.jpg
+  _wp_old_slug: '2048'
+  original_post_id: '2048'
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-[Sascha Nordmeyer](http://www.saschanordmeyer.com/)'s prosthetic "smile simulator" tool will be part of MOMA's [Talk to Me](http://moma.org/visit/calendar/exhibitions/1080), a show that opens today. Looks great—and [there's a blog](http://wp.moma.org/talk_to_me/) where the curators have also cataloged their process of finding work to include. A whole database of interesting projects there, both under the [checked](http://wp.moma.org/talk_to_me/checked-2/) tab and in the [queue](http://wp.moma.org/talk_to_me/queue/).
-
-[![](http://ablersite.files.wordpress.com/2011/07/smile_simulator_thumb2.jpg)](http://ablersite.files.wordpress.com/2011/07/smile_simulator_thumb2.jpg)
-
-_ "Talk to Me_ explores the communication between people and things. All objects contain information that goes well beyond their immediate use or appearance."
-
-[![](http://ablersite.files.wordpress.com/2011/07/smile_simulator_2_thumb8.jpg)](http://ablersite.files.wordpress.com/2011/07/smile_simulator_2_thumb8.jpg)
-
-"...Whether openly and actively, or in subtle, subliminal ways, things talk to us, and designers help us develop and improvise the dialogue."
+<p><a href="http://www.saschanordmeyer.com/">Sascha Nordmeyer</a>'s prosthetic "smile simulator" tool will be part of MOMA's <a href="http://moma.org/visit/calendar/exhibitions/1080">Talk to Me</a>, a show that opens today. Looks great—and <a href="http://wp.moma.org/talk_to_me/">there's a blog</a> where the curators have also cataloged their process of finding work to include. A whole database of interesting projects there, both under the <a href="http://wp.moma.org/talk_to_me/checked-2/">checked</a> tab and in the <a href="http://wp.moma.org/talk_to_me/queue/">queue</a>.</p>
+<p><a href="http://ablersite.files.wordpress.com/2011/07/smile_simulator_thumb2.jpg"><img class="alignnone size-full wp-image-3671" title="smile_simulator_thumb[2]" src="{{ site.baseurl }}/uploads/smile_simulator_thumb2.jpg" alt="" width="506" height="255" /></a></p>
+<p><em> "Talk to Me</em> explores the communication between people and things. All objects contain information that goes well beyond their immediate use or appearance."</p>
+<p><a href="http://ablersite.files.wordpress.com/2011/07/smile_simulator_2_thumb8.jpg"><img class="alignnone size-full wp-image-3672" title="smile_simulator_2_thumb[8]" src="{{ site.baseurl }}/uploads/smile_simulator_2_thumb8.jpg" alt="" width="381" height="506" /></a></p>
+<p>"...Whether openly and actively, or in subtle, subliminal ways, things talk to us, and designers help us develop and improvise the dialogue."</p>

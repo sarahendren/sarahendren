@@ -5,15 +5,24 @@ categories:
 - re-blog
 tags:
 - re-blog
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2009/12/12/affinities-jooyeun-paek/
-wordpress_id: 279
+type: post
+status: publish
+meta:
+  _wp_old_slug: '279'
+  original_post_id: '279'
+  _sg_subscribe-to-comments: field@relation.com
+  image: wp-content/uploads/politeumbrella3.jpg
+  switch_like_status: '1'
+  _edit_last: '7812036'
+  _thumbnail_id: '4007'
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-[JooYoun Paek's Polite Umbrella (see video!).](http://jooyounpaek.com/politeumbrella.html)
-
-[![](http://ablersite.files.wordpress.com/2009/12/politeumbrella3.jpg)](http://ablersite.files.wordpress.com/2009/12/politeumbrella3.jpg)
-
-
+<p><a href="http://jooyounpaek.com/politeumbrella.html">JooYoun Paek's Polite Umbrella (see video!).</a></p>
+<p><a href="http://ablersite.files.wordpress.com/2009/12/politeumbrella3.jpg"><img class="alignnone size-full wp-image-4007" title="politeumbrella3" src="{{ site.baseurl }}/uploads/politeumbrella3.jpg" alt="" width="500" height="333" /></a></p>
+<p>&nbsp;</p>

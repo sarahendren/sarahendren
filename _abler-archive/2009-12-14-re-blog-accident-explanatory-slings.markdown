@@ -5,17 +5,24 @@ categories:
 - re-blog
 tags:
 - re-blog
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2009/12/14/re-blog-accident-explanatory-slings/
-wordpress_id: 302
+type: post
+status: publish
+meta:
+  image: wp-content/uploads/funny_accident_slings2.jpg
+  original_post_id: '302'
+  _wp_old_slug: '302'
+  _thumbnail_id: '4005'
+  _edit_last: '7812036'
+  switch_like_status: '1'
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-So many directions you could go with [these](http://blog.craftzine.com/archive/2009/05/accident-explanatory_slings.html?CMP=OTC-5JF307375954):
-
-_via [Craftzine blog](http://blog.craftzine.com/archive/2009/05/accident-explanatory_slings.html?CMP=OTC-5JF307375954)_
-
-[![](http://ablersite.files.wordpress.com/2009/12/funny_accident_slings1.jpg)](http://ablersite.files.wordpress.com/2009/12/funny_accident_slings1.jpg)
-
-[![](http://ablersite.files.wordpress.com/2009/12/funny_accident_slings2.jpg)](http://ablersite.files.wordpress.com/2009/12/funny_accident_slings2.jpg)
+<p>So many directions you could go with <a href="http://blog.craftzine.com/archive/2009/05/accident-explanatory_slings.html?CMP=OTC-5JF307375954">these</a>:</p>
+<p><em>via <a href="http://blog.craftzine.com/archive/2009/05/accident-explanatory_slings.html?CMP=OTC-5JF307375954">Craftzine blog</a></em></p>
+<p><a href="http://ablersite.files.wordpress.com/2009/12/funny_accident_slings1.jpg"><img class="alignnone size-full wp-image-4004" title="funny_accident_slings1" src="{{ site.baseurl }}/uploads/funny_accident_slings1.jpg" alt="" width="600" height="224" /></a></p>
+<p><a href="http://ablersite.files.wordpress.com/2009/12/funny_accident_slings2.jpg"><img class="alignnone size-full wp-image-4005" title="funny_accident_slings2" src="{{ site.baseurl }}/uploads/funny_accident_slings2.jpg" alt="" width="600" height="224" /></a></p>

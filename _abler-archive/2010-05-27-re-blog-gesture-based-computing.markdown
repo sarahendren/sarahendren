@@ -5,18 +5,23 @@ categories:
 - re-blog
 tags:
 - re-blog
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2010/05/27/re-blog-gesture-based-computing/
-wordpress_id: 658
+type: post
+status: publish
+meta:
+  image: wp-content/uploads/lycra-gloves-computing-mit.jpg
+  original_post_id: '658'
+  _wp_old_slug: '658'
+  _edit_last: '7812036'
+  _thumbnail_id: '4623'
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-[![lycra-gloves-computing-mit](http://ablersite.files.wordpress.com/2010/05/lycra-gloves-computing-mit.jpg)](http://ablersite.files.wordpress.com/2010/05/lycra-gloves-computing-mit.jpg)
-
-More gadgetry that wasn't created as adaptive tech, but could be used to extend accessibility for motor-impairments. I think we've seen this idea in the movies; these prototype gloves look promising:
-
-"A pair of lycra gloves — with 20 irregularly shaped patches in 10 different colors — held in front of a webcam can generate a unique pattern with every wave of the hand or flex of the finger. That can be matched against a database of gestures and translated into commands for the computer. The gloves can cost just about a dollar to manufacture, say the researchers."
-
-
-[Read More](http://www.wired.com/gadgetlab/2010/05/gloves-gesture-computing/#ixzz0pAGgBIsG).
+<p><a href="http://ablersite.files.wordpress.com/2010/05/lycra-gloves-computing-mit.jpg"><img class="alignnone size-full wp-image-4623" alt="lycra-gloves-computing-mit" src="{{ site.baseurl }}/uploads/lycra-gloves-computing-mit.jpg" width="610" height="472" /></a></p>
+<p>More gadgetry that wasn't created as adaptive tech, but could be used to extend accessibility for motor-impairments. I think we've seen this idea in the movies; these prototype gloves look promising:</p>
+<p>"A pair of lycra gloves — with 20 irregularly shaped patches in 10 different colors — held in front of a webcam can generate a unique pattern with every wave of the hand or flex of the finger. That can be matched against a database of gestures and translated into commands for the computer. The gloves can cost just about a dollar to manufacture, say the researchers."</p>
+<div id="TixyyLink"><a href="http://www.wired.com/gadgetlab/2010/05/gloves-gesture-computing/#ixzz0pAGgBIsG">Read More</a>.</div>

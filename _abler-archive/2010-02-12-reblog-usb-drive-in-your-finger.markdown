@@ -5,15 +5,22 @@ categories:
 - re-blog
 tags:
 - re-blog
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2010/02/12/reblog-usb-drive-in-your-finger/
-wordpress_id: 372
+type: post
+status: publish
+meta:
+  _wp_old_slug: '372'
+  original_post_id: '372'
+  image: wp-content/uploads/usbfinger.jpg
+  _thumbnail_id: '3991'
+  _edit_last: '7812036'
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-[![](http://ablersite.files.wordpress.com/2010/02/usbfinger.jpg)](http://ablersite.files.wordpress.com/2010/02/usbfinger.jpg)
-
-This hacker [lost his finger in a motorcycle accident](http://bergie.iki.fi/blog/when_reality_meets_product_concepts/), so the doctor implanted a USB drive into his prosthetic finger.
-
-Thanks, Zach, for pointing me to this!
+<p><a href="http://ablersite.files.wordpress.com/2010/02/usbfinger.jpg"><img class="alignnone size-full wp-image-3991" title="usbfinger" src="{{ site.baseurl }}/uploads/usbfinger.jpg" alt="" width="500" height="375" /></a></p>
+<p>This hacker <a href="http://bergie.iki.fi/blog/when_reality_meets_product_concepts/">lost his finger in a motorcycle accident</a>, so the doctor implanted a USB drive into his prosthetic finger.</p>
+<p>Thanks, Zach, for pointing me to this!</p>

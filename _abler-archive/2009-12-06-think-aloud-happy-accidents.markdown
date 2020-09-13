@@ -1,19 +1,23 @@
 ---
 title: happy accidents
-date: 2009-12-06 12:33:57 -05:00
-categories:
-- Uncategorized
-author: sarahendren
-comments: true
-layout: post
-link: http://ablersite.org/2009/12/06/think-aloud-happy-accidents/
-wordpress_id: 204
+date: 2009-12-06 13:33:57 -05:00
+type: post
+status: publish
+meta:
+  _wp_old_slug: '204'
+  original_post_id: '204'
+  image: wp-content/uploads/3_12wiggle-table.jpg
+  _thumbnail_id: '4014'
+  _edit_last: '7812036'
+author:
+  login: sarahendren
+  email: sarahendren@gmail.com
+  display_name: ablerism
+  first_name: Sara
+  last_name: Hendren
 ---
 
-From Mitchell Whitelaw's [_Metacreation: Art and Artificial Life_](http://www.amazon.com/Metacreation-Artificial-Life-Mitchell-Whitelaw/dp/0262731762/ref=sr_1_1?ie=UTF8&s=books&qid=1260120645&sr=8-1):
-
-"New media art self-consciously reworks technology into culture, and rereads technology as culture. What's more, it does so in a concrete, applied way; it manipulates the technology itself, with a nonindustrial latitude that admits misapplication and adaptation, rewiring and hacking, pseudofunctionality and accident. New media art also fractures that technocultural material into millions of heterogeneous interests and agendas, specific investigations, aesthetics, approaches, and projects."
-
-Tom Foulsham's [Wiggle Table](http://www.tomfoulsham.co.uk/wiggletable/video/):
-
-[![](http://ablersite.files.wordpress.com/2009/12/3_12wiggle-table.jpg)](http://ablersite.files.wordpress.com/2009/12/3_12wiggle-table.jpg)
+<p>From Mitchell Whitelaw's <a href="http://www.amazon.com/Metacreation-Artificial-Life-Mitchell-Whitelaw/dp/0262731762/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1260120645&amp;sr=8-1"><em>Metacreation: Art and Artificial Life</em></a>:</p>
+<p>"New media art self-consciously reworks technology into culture, and rereads technology as culture. What's more, it does so in a concrete, applied way; it manipulates the technology itself, with a nonindustrial latitude that admits misapplication and adaptation, rewiring and hacking, pseudofunctionality and accident. New media art also fractures that technocultural material into millions of heterogeneous interests and agendas, specific investigations, aesthetics, approaches, and projects."</p>
+<p>Tom Foulsham's <a href="http://www.tomfoulsham.co.uk/wiggletable/video/">Wiggle Table</a>:</p>
+<p><a href="http://ablersite.files.wordpress.com/2009/12/3_12wiggle-table.jpg"><img class="alignnone size-full wp-image-4014" title="3_12wiggle-table" src="{{ site.baseurl }}/uploads/3_12wiggle-table.jpg" alt="" width="600" height="423" /></a></p>
