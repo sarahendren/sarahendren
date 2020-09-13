@@ -1,22 +1,5 @@
 ---
-title: '"Letter on the Blind, for the Use of Those Who See."'
-date: 2010-12-11 20:29:13 -05:00
-categories:
-- re-blog
-type: post
-status: publish
-meta:
-  image: wp-content/uploads/tellez.jpg
-  _wp_old_slug: '1323'
-  original_post_id: '1323'
-  _thumbnail_id: '4055'
-  _edit_last: '7812036'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 12 11 Letter On The Blind For The Use Of Those Who See
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/12/artist_tellez.jpg"><img class="alignnone size-full wp-image-4054" title="artist_tellez" src="{{ site.baseurl }}/uploads/artist_tellez.jpg" alt="" width="375" height="250" /></a></p>

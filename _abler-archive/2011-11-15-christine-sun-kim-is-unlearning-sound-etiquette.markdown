@@ -1,25 +1,5 @@
 ---
-title: christine sun kim is unlearning sound etiquette
-date: 2011-11-15 21:11:08 -05:00
-categories:
-- re-blog
-type: post
-status: publish
-meta:
-  _edit_last: '7812036'
-  s2mail: 'yes'
-  image: wp-content/uploads/christinekimcloseup.jpg
-  _wp_old_slug: '2434'
-  _thumbnail_id: '3599'
-  original_post_id: '2434'
-  twitter_cards_summary_img_size: a:7:{i:0;i:1917;i:1;i:1052;i:2;i:2;i:3;s:26:"width="1917"
-    height="1052"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2011 11 15 Christine Sun Kim Is Unlearning Sound Etiquette
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2011/11/christinekimcloseup.jpg"><img class="alignnone size-full wp-image-3599" alt="christinekimcloseup" src="{{ site.baseurl }}/uploads/christinekimcloseup.jpg" width="610" height="334" /></a></p>

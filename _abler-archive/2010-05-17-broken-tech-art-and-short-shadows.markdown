@@ -1,18 +1,5 @@
 ---
-title: not Luddite but ludic
-date: 2010-05-17 14:31:53 -04:00
-type: post
-status: publish
-meta:
-  image: wp-content/uploads/shadowpuppet.gif
-  original_post_id: '640'
-  _wp_old_slug: '640'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 05 17 Broken Tech Art And Short Shadows
 ---
 
 <p><strong>Svetlana Boym's <a href="http://www.svetlanaboym.com/manifesto.htm">Off-Modern Manifesto</a> describes her interest in "broken-tech art"—and this is very much at the heart of <a href="http://www.ablersite.com/2009/11/projects-search-task/">my collaborative work on sensory substitution</a> with Brian Glenney:</strong></p>

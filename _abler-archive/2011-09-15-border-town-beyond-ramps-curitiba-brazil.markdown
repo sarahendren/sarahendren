@@ -1,20 +1,5 @@
 ---
-title: 'border town: beyond ramps [curitiba, brazil]'
-date: 2011-09-15 22:24:47 -04:00
-type: post
-status: publish
-meta:
-  _edit_last: '7812036'
-  _thumbnail_id: '3649'
-  image: wp-content/uploads/curitiba_busstube.gif
-  _wp_old_slug: '2122'
-  original_post_id: '2122'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2011 09 15 Border Town Beyond Ramps Curitiba Brazil
 ---
 
 <p>How does a bold, military-appointed, possibly technocratic architect-turned-mayor create a model universal-access transportation system, cheaply and effectively, and use it—along with other initiatives—to turn around the environmental prospects of the entire town?</p>

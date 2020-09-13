@@ -1,21 +1,5 @@
 ---
-title: the terrorism of little changes
-date: 2010-12-03 21:34:08 -05:00
-type: post
-status: publish
-meta:
-  _wp_old_slug: ''
-  original_post_id: '1000'
-  image: wp-content/uploads/construction.jpg
-  _thumbnail_id: '4124'
-  _edit_last: '7812036'
-  switch_like_status: '1'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 12 03 The Terrorism Of Little Changes
 ---
 
 <p><a href="http://www.scientificamerican.com/blog/post.cfm?id=biomechatronics-aims-to-erase-the-e-2010-09-30">Scientific American</a> recently blogged an account of Hugh Herr's talk at Idea Festival. Herr, himself a double amputee, is among the most optimistic about the promise of the dramatic and sophisticated prosthetic limbs now available:</p>

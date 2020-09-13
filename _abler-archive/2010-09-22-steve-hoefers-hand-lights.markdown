@@ -1,22 +1,5 @@
 ---
-title: Steve Hoefer's Hand Lights
-date: 2010-09-22 21:20:06 -04:00
-categories:
-- re-blog
-type: post
-status: publish
-meta:
-  _edit_last: '7812036'
-  image: wp-content/uploads/Hand-Lights.jpg
-  _wp_old_slug: '939'
-  original_post_id: '939'
-  _thumbnail_id: '3966'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 09 22 Steve Hoefers Hand Lights
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/09/hand-lights.jpg"><img class="alignnone size-full wp-image-3966" title="Hand-Lights" src="{{ site.baseurl }}/uploads/hand-lights.jpg" alt="" width="500" height="522" /></a></p>

@@ -1,24 +1,5 @@
 ---
-title: gesture-based computing
-date: 2010-05-27 16:48:09 -04:00
-categories:
-- re-blog
-tags:
-- re-blog
-type: post
-status: publish
-meta:
-  image: wp-content/uploads/lycra-gloves-computing-mit.jpg
-  original_post_id: '658'
-  _wp_old_slug: '658'
-  _edit_last: '7812036'
-  _thumbnail_id: '4623'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 05 27 Re Blog Gesture Based Computing
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/05/lycra-gloves-computing-mit.jpg"><img class="alignnone size-full wp-image-4623" alt="lycra-gloves-computing-mit" src="{{ site.baseurl }}/uploads/lycra-gloves-computing-mit.jpg" width="610" height="472" /></a></p>

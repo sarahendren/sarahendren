@@ -1,20 +1,5 @@
 ---
-title: Medi-Speak
-date: 2010-10-03 13:36:36 -04:00
-type: post
-status: publish
-meta:
-  image: wp-content/uploads/pillowcasetransparency1.jpg
-  _wp_old_slug: '967'
-  original_post_id: '967'
-  _edit_last: '7812036'
-  _thumbnail_id: '4473'
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 10 03 Medi Speak
 ---
 
 <p>I've been thinking about a set of alternative hospital linens, and I've started with these pillowcases:</p>

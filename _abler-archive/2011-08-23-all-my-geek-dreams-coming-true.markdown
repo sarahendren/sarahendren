@@ -8,7 +8,7 @@ meta:
   _edit_last: '7812036'
   _wp_old_slug: ''
   original_post_id: '2100'
-  image: wp-content/uploads/fungus.jpg
+image: "/uploads/fungus.jpg"
 author:
   login: sarahendren
   email: sarahendren@gmail.com

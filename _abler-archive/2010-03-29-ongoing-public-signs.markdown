@@ -1,25 +1,5 @@
 ---
-title: signage/wheelchair (ongoing series)
-date: 2010-03-29 11:58:56 -04:00
-type: post
-status: publish
-meta:
-  image: wp-content/uploads/activechairmarshalls.jpg
-  original_post_id: '46'
-  _wp_old_slug: '46'
-  _edit_last: '7812036'
-  _publicize_pending: '1'
-  geo_public: '0'
-  _oembed_6e9b129f96ff5dcb821d90353df0d50e: "{{unknown}}"
-  _oembed_14655a01bd00797d3a27c5cd17f8e984: "{{unknown}}"
-  _oembed_fac2bb05928bbfdf2be88db640de3691: "{{unknown}}"
-  _oembed_44826c762f4b5d850bd843f7bd7ac685: "{{unknown}}"
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2010 03 29 Ongoing Public Signs
 ---
 
 <p><a href="http://ablersite.files.wordpress.com/2010/03/staticwheelchair.jpg"><img class="alignnone size-full wp-image-4723" alt="staticwheelchair" src="{{ site.baseurl }}/uploads/staticwheelchair.jpg" width="117" height="133" /></a></p>

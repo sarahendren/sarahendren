@@ -11,7 +11,7 @@ meta:
   _wp_old_slug: ''
   original_post_id: '2069'
   s2mail: 'yes'
-  image: wp-content/uploads/Screen-shot-2011-06-29-at-11.19.28-AM.png
+image: "/uploads/Screen-shot-2011-06-29-at-11.19.28-AM.png"
 author:
   login: sarahendren
   email: sarahendren@gmail.com

@@ -1,24 +1,5 @@
 ---
-title: urban immune system research
-date: 2011-09-19 10:12:08 -04:00
-categories:
-- re-blog
-type: post
-status: publish
-meta:
-  _edit_last: '7812036'
-  _thumbnail_id: '3640'
-  image: wp-content/uploads/urban-immune-system-research.jpg
-  _wp_old_slug: '2274'
-  s2mail: 'yes'
-  original_post_id: '2274'
-  _oembed_56286cd4727376eda0517de5b78182b5: "{{unknown}}"
-author:
-  login: sarahendren
-  email: sarahendren@gmail.com
-  display_name: ablerism
-  first_name: Sara
-  last_name: Hendren
+title: 2011 09 19 Urban Immune System Research
 ---
 
 <p>Over at <a href="http://www.we-make-money-not-art.com/archives/2011/09/the-urban-immune-system.php">We Make Money Not Art,</a> there's a long and substantial interview with the <a href="http://boundaryinteractions.org/">Institute for Boundary Interactions</a> and their various prototypes for a large and ongoing project, <a href="http://boundaryinteractions.org/projects/urban-immune-system-research">Urban Immune System Research</a>:</p>
