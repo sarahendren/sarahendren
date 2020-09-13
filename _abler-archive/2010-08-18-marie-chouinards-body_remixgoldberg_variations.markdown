@@ -1,6 +1,6 @@
 ---
 title: Marie Chouinard's bODY_rEMIX/  gOLDBERG_vARIATIONS
-date: 2010-08-18 13:29:40 -04:00
+date: 2010-08-18 17:29:40 Z
 categories:
 - re-blog
 tags:

@@ -1,6 +1,6 @@
 ---
 title: open style lab
-date: 2014-09-16 16:26:21 -04:00
+date: 2014-09-16 20:26:21 Z
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: 'adaptive hacks: a cane meets a bike'
-date: 2014-06-24 13:26:32 -04:00
+date: 2014-06-24 17:26:32 Z
 categories:
 - Uncategorized
 author: sarahendren

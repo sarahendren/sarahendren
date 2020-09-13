@@ -1,6 +1,6 @@
 ---
 title: "music for deaf \"hearers\"\x9D"
-date: 2010-06-08 14:46:21 -04:00
+date: 2010-06-08 18:46:21 Z
 categories:
 - re-blog
 tags:

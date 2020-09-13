@@ -1,6 +1,6 @@
 ---
 title: 'sticker''s here! (part of the signage: wheelchair project)'
-date: 2010-12-20 12:17:20 -05:00
+date: 2010-12-20 17:17:20 Z
 published: false
 categories:
 - Uncategorized

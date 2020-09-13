@@ -1,6 +1,6 @@
 ---
 title: '"Letter on the Blind, for the Use of Those Who See."'
-date: 2010-12-11 20:29:13 -05:00
+date: 2010-12-12 01:29:13 Z
 categories:
 - re-blog
 author: sarahendren

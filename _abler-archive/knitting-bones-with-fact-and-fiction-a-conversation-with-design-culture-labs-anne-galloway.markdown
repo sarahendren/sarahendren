@@ -1,7 +1,7 @@
 ---
 title: 'knitting bones with fact and fiction: a conversation with design culture lab''s
   anne galloway'
-date: 2014-05-15 15:58:34 -04:00
+date: 2014-05-15 19:58:34 Z
 categories:
 - Uncategorized
 author: sarahendren

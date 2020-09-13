@@ -1,6 +1,6 @@
 ---
 title: manipulate the social web all by yourself
-date: 2014-08-05 14:37:16 -04:00
+date: 2014-08-05 18:37:16 Z
 categories:
 - Uncategorized
 author: sarahendren

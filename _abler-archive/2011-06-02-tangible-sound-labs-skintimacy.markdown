@@ -1,6 +1,6 @@
 ---
 title: "tangible sound lab's \"skintimacy\"\x9D"
-date: 2011-06-02 10:52:41 -04:00
+date: 2011-06-02 14:52:41 Z
 categories:
 - re-blog
 author: sarahendren

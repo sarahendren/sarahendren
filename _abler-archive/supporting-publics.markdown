@@ -1,6 +1,6 @@
 ---
 title: supporting publics
-date: 2014-04-01 12:00:10 -04:00
+date: 2014-04-01 16:00:10 Z
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: 'it''s a sign (part of the signage: wheelchair project, ongoing)'
-date: 2010-10-22 10:27:26 -04:00
+date: 2010-10-22 14:27:26 Z
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: the terrorism of little changes
-date: 2010-12-03 21:34:08 -05:00
+date: 2010-12-04 02:34:08 Z
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: 'beyond alt-text: the new "chief accessibility officer"'
-date: 2015-01-05 11:05:13 -05:00
+date: 2015-01-05 16:05:13 Z
 categories:
 - Uncategorized
 author: sarahendren

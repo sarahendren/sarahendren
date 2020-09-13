@@ -1,6 +1,6 @@
 ---
 title: speculative machinery (ongoing series)
-date: 2010-01-02 11:11:53 -05:00
+date: 2010-01-02 16:11:53 Z
 published: false
 categories:
 - Uncategorized

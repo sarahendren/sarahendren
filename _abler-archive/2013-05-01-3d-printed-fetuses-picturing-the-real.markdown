@@ -1,6 +1,6 @@
 ---
 title: '3D printed fetuses: picturing the real?'
-date: 2013-04-30 21:16:38 -04:00
+date: 2013-05-01 01:16:38 Z
 categories:
 - Uncategorized
 author: sarahendren

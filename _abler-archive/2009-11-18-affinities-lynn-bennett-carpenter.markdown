@@ -1,6 +1,6 @@
 ---
 title: Lynn Bennett Carpenter's haptic sensations
-date: 2009-11-18 09:49:53 -05:00
+date: 2009-11-18 14:49:53 Z
 categories:
 - Uncategorized
 author: sarahendren

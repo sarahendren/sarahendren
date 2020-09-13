@@ -1,6 +1,6 @@
 ---
 title: 'gianni renda''s beer glass: drinking for the no longer young'
-date: 2013-10-29 12:10:17 -04:00
+date: 2013-10-29 16:10:17 Z
 categories:
 - Uncategorized
 author: sarahendren

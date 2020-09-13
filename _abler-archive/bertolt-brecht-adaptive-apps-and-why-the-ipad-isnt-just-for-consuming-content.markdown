@@ -1,6 +1,6 @@
 ---
 title: Bertolt Brecht, adaptive apps, and why the iPad isn't just for consuming content
-date: 2010-08-27 12:33:32 -04:00
+date: 2010-08-27 16:33:32 Z
 categories:
 - Uncategorized
 author: sarahendren

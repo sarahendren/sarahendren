@@ -1,6 +1,6 @@
 ---
 title: the linearity of spoken language
-date: 2012-12-12 15:30:06 -05:00
+date: 2012-12-12 20:30:06 Z
 categories:
 - Uncategorized
 author: sarahendren

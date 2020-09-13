@@ -1,6 +1,6 @@
 ---
 title: 3D printing inside the ear canal
-date: 2013-03-24 22:12:59 -04:00
+date: 2013-03-25 02:12:59 Z
 categories:
 - Uncategorized
 author: sarahendren

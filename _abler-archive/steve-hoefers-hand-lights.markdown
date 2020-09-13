@@ -1,6 +1,6 @@
 ---
 title: Steve Hoefer's Hand Lights
-date: 2010-09-22 21:20:06 -04:00
+date: 2010-09-23 01:20:06 Z
 categories:
 - re-blog
 author: sarahendren

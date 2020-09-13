@@ -1,6 +1,6 @@
 ---
 title: carmen papalia at olin, 9/25-29, and more collaborations
-date: 2015-09-14 21:44:58 -04:00
+date: 2015-09-15 01:44:58 Z
 categories:
 - Uncategorized
 author: sarahendren

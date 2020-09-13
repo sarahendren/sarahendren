@@ -1,6 +1,6 @@
 ---
 title: 'the facebook demetricator: un-count your likes.'
-date: 2012-10-22 13:11:01 -04:00
+date: 2012-10-22 17:11:01 Z
 categories:
 - Uncategorized
 author: sarahendren

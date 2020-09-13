@@ -1,6 +1,6 @@
 ---
 title: "(so let's keep talking)"
-date: 2010-11-19 09:55:54 -05:00
+date: 2010-11-19 14:55:54 Z
 categories:
 - Uncategorized
 author: sarahendren

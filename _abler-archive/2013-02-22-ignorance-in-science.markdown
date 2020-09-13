@@ -1,6 +1,6 @@
 ---
 title: ignorance in science
-date: 2013-02-22 05:44:11 -05:00
+date: 2013-02-22 10:44:11 Z
 categories:
 - Uncategorized
 author: sarahendren

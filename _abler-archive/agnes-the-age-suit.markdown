@@ -1,6 +1,6 @@
 ---
 title: 'AGNES: the age suit'
-date: 2011-10-01 15:21:20 -04:00
+date: 2011-10-01 19:21:20 Z
 categories:
 - re-blog
 author: sarahendren

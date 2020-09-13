@@ -1,6 +1,6 @@
 ---
 title: "\"Detectair\"\x9D smart vest responds to air quality"
-date: 2010-03-22 10:13:01 -04:00
+date: 2010-03-22 14:13:01 Z
 categories:
 - re-blog
 tags:

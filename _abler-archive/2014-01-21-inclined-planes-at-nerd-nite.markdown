@@ -1,6 +1,6 @@
 ---
 title: inclined planes at nerd nite
-date: 2014-01-21 10:50:55 -05:00
+date: 2014-01-21 15:50:55 Z
 categories:
 - Uncategorized
 author: sarahendren

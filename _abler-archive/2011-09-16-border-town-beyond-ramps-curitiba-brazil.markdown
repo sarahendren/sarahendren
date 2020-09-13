@@ -1,6 +1,6 @@
 ---
 title: 'border town: beyond ramps [curitiba, brazil]'
-date: 2011-09-15 22:24:47 -04:00
+date: 2011-09-16 02:24:47 Z
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: all technology is assistive technology
-date: 2013-09-17 14:37:17 -04:00
+date: 2013-09-17 18:37:17 Z
 categories:
 - Uncategorized
 author: sarahendren

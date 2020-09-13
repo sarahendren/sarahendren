@@ -1,6 +1,6 @@
 ---
 title: an "ethics of homelessness" (and a Der Spiegel publicity stunt)
-date: 2010-11-11 21:42:53 -05:00
+date: 2010-11-12 02:42:53 Z
 categories:
 - Uncategorized
 author: sarahendren

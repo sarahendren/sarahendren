@@ -1,6 +1,6 @@
 ---
 title: test post
-date: 2016-05-02 17:10:00 -04:00
+date: 2016-05-02 21:10:00 Z
 author: sarahendren
 ---
 

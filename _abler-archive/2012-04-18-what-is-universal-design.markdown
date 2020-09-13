@@ -1,6 +1,6 @@
 ---
 title: what is universal design?
-date: 2012-04-18 11:19:01 -04:00
+date: 2012-04-18 15:19:01 Z
 categories:
 - Uncategorized
 author: sarahendren

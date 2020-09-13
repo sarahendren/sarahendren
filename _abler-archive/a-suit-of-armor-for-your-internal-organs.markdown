@@ -1,6 +1,6 @@
 ---
 title: a suit of armor for your internal organs
-date: 2014-01-09 12:14:48 -05:00
+date: 2014-01-09 17:14:48 Z
 categories:
 - Uncategorized
 author: sarahendren

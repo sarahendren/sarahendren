@@ -1,6 +1,6 @@
 ---
 title: guiding principles for an adaptive technology working group
-date: 2014-08-20 17:22:21 -04:00
+date: 2014-08-20 21:22:21 Z
 categories:
 - Uncategorized
 author: sarahendren

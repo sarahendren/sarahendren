@@ -1,6 +1,6 @@
 ---
 title: "sascha nordmeyer's \"communication prosthesis,\"\x9D and more at MOMA"
-date: 2011-07-19 13:39:53 -04:00
+date: 2011-07-19 17:39:53 Z
 categories:
 - re-blog
 author: sarahendren

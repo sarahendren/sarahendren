@@ -1,6 +1,6 @@
 ---
 title: craft and code and point-of-view
-date: 2014-02-21 21:21:25 -05:00
+date: 2014-02-22 02:21:25 Z
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: 'prosthetic imagination: brandeis lecture 2/28'
-date: 2013-02-21 14:57:06 -05:00
+date: 2013-02-21 19:57:06 Z
 categories:
 - Uncategorized
 author: sarahendren

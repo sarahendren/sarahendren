@@ -1,6 +1,6 @@
 ---
 title: amalia pica
-date: 2012-06-30 22:23:38 -04:00
+date: 2012-07-01 02:23:38 Z
 categories:
 - Uncategorized
 author: sarahendren

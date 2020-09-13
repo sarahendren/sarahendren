@@ -1,6 +1,6 @@
 ---
 title: jennifer crupi's "unguarded gestures"
-date: 2013-03-19 11:00:57 -04:00
+date: 2013-03-19 15:00:57 Z
 categories:
 - Uncategorized
 author: sarahendren

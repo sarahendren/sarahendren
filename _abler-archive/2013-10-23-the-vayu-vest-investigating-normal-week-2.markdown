@@ -1,6 +1,6 @@
 ---
 title: the vayu vest (investigating normal, week 2)
-date: 2013-10-23 16:16:30 -04:00
+date: 2013-10-23 20:16:30 Z
 categories:
 - Uncategorized
 author: sarahendren

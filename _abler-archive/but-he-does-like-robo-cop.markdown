@@ -1,6 +1,6 @@
 ---
 title: But he does like Robo-Cop
-date: 2010-09-13 20:31:55 -04:00
+date: 2010-09-14 00:31:55 Z
 categories:
 - Uncategorized
 author: sarahendren

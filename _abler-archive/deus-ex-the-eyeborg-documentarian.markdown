@@ -1,6 +1,6 @@
 ---
 title: 'deus ex: the eyeborg documentarian'
-date: 2011-08-30 21:25:50 -04:00
+date: 2011-08-31 01:25:50 Z
 categories:
 - re-blog
 author: sarahendren

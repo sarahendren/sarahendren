@@ -1,6 +1,6 @@
 ---
 title: wearable workarounds for "defensive architecture"
-date: 2014-03-20 16:47:35 -04:00
+date: 2014-03-20 20:47:35 Z
 categories:
 - Uncategorized
 author: sarahendren

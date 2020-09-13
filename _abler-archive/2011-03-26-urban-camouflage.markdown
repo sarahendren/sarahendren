@@ -1,6 +1,6 @@
 ---
 title: urban camouflage
-date: 2011-03-26 08:26:04 -04:00
+date: 2011-03-26 12:26:04 Z
 categories:
 - re-blog
 author: sarahendren

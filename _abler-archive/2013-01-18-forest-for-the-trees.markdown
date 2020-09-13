@@ -1,6 +1,6 @@
 ---
 title: forest for the trees
-date: 2013-01-17 20:21:56 -05:00
+date: 2013-01-18 01:21:56 Z
 categories:
 - Uncategorized
 author: sarahendren

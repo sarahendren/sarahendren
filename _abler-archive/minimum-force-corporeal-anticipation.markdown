@@ -1,6 +1,6 @@
 ---
 title: corporeal anticipation
-date: 2015-02-10 19:59:50 -05:00
+date: 2015-02-11 00:59:50 Z
 categories:
 - Uncategorized
 author: sarahendren

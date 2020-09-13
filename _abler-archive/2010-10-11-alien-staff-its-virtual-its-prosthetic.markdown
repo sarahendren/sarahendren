@@ -1,6 +1,6 @@
 ---
 title: 'Alien Staff: it''s virtual, it''s prosthetic'
-date: 2010-10-11 13:46:33 -04:00
+date: 2010-10-11 17:46:33 Z
 categories:
 - Uncategorized
 author: sarahendren

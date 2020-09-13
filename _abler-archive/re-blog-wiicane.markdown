@@ -1,6 +1,6 @@
 ---
 title: the Wiicane
-date: 2010-06-28 19:33:45 -04:00
+date: 2010-06-28 23:33:45 Z
 categories:
 - re-blog
 tags:

@@ -1,6 +1,6 @@
 ---
 title: the importance of being a cyborg ableist
-date: 2011-11-10 14:34:45 -05:00
+date: 2011-11-10 19:34:45 Z
 categories:
 - Uncategorized
 author: sarahendren

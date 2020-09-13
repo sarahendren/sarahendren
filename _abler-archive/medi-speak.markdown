@@ -1,6 +1,6 @@
 ---
 title: Medi-Speak
-date: 2010-10-03 13:36:36 -04:00
+date: 2010-10-03 17:36:36 Z
 categories:
 - Uncategorized
 author: sarahendren

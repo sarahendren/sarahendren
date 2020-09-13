@@ -1,6 +1,6 @@
 ---
 title: 'studio : lab : workshop'
-date: 2014-06-16 10:53:17 -04:00
+date: 2014-06-16 14:53:17 Z
 categories:
 - Uncategorized
 author: sarahendren

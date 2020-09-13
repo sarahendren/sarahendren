@@ -1,6 +1,6 @@
 ---
 title: '"a real form" (audre lorde)'
-date: 2012-07-12 11:42:50 -04:00
+date: 2012-07-12 15:42:50 Z
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: introducing abler at gizmodo
-date: 2013-11-25 10:37:03 -05:00
+date: 2013-11-25 15:37:03 Z
 categories:
 - Uncategorized
 author: sarahendren

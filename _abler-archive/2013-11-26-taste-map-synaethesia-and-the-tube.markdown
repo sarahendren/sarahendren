@@ -1,6 +1,6 @@
 ---
 title: 'taste map: synaesthesia and the tube'
-date: 2013-11-26 13:04:48 -05:00
+date: 2013-11-26 18:04:48 Z
 categories:
 - Uncategorized
 author: sarahendren

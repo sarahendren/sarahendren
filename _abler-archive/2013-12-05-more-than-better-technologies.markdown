@@ -1,6 +1,6 @@
 ---
 title: more than "better technologies"
-date: 2013-12-05 10:30:26 -05:00
+date: 2013-12-05 15:30:26 Z
 categories:
 - Uncategorized
 author: sarahendren

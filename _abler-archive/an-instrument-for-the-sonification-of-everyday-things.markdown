@@ -1,6 +1,6 @@
 ---
 title: an instrument for the sonification of everyday things
-date: 2013-03-28 16:48:19 -04:00
+date: 2013-03-28 20:48:19 Z
 categories:
 - Uncategorized
 author: sarahendren

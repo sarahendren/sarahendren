@@ -1,6 +1,6 @@
 ---
 title: empathy and education
-date: 2014-05-18 20:31:08 -04:00
+date: 2014-05-19 00:31:08 Z
 categories:
 - Uncategorized
 author: sarahendren

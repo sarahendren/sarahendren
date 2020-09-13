@@ -1,6 +1,6 @@
 ---
 title: "\"I am, rather, an impresario of scientists.\"\x9D"
-date: 2010-06-04 12:02:50 -04:00
+date: 2010-06-04 16:02:50 Z
 categories:
 - Uncategorized
 author: sarahendren

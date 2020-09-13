@@ -1,6 +1,6 @@
 ---
 title: strategies and tactics
-date: 2013-03-25 17:55:43 -04:00
+date: 2013-03-25 21:55:43 Z
 categories:
 - Uncategorized
 author: sarahendren

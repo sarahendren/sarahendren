@@ -1,6 +1,6 @@
 ---
 title: 'iPad use footnote: adaptive passivity?'
-date: 2010-09-11 15:34:46 -04:00
+date: 2010-09-11 19:34:46 Z
 categories:
 - Uncategorized
 author: sarahendren

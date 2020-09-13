@@ -1,6 +1,6 @@
 ---
 title: 'investigating normal, week 1: thoughtless acts'
-date: 2013-09-23 21:02:13 -04:00
+date: 2013-09-24 01:02:13 Z
 categories:
 - Uncategorized
 author: sarahendren

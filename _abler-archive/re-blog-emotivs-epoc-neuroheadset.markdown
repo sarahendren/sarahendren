@@ -1,6 +1,6 @@
 ---
 title: Emotiv's EPOC neuroheadset
-date: 2010-07-28 10:50:47 -04:00
+date: 2010-07-28 14:50:47 Z
 categories:
 - re-blog
 tags:

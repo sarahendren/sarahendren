@@ -1,6 +1,6 @@
 ---
 title: sensory substitution
-date: 2009-11-21 10:54:16 -05:00
+date: 2009-11-21 15:54:16 Z
 categories:
 - Uncategorized
 author: sarahendren

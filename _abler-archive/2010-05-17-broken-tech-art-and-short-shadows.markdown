@@ -1,6 +1,6 @@
 ---
 title: not Luddite but ludic
-date: 2010-05-17 14:31:53 -04:00
+date: 2010-05-17 18:31:53 Z
 categories:
 - Uncategorized
 author: sarahendren

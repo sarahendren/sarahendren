@@ -1,6 +1,6 @@
 ---
 title: 'BigDog: a robotic tank mule for the future'
-date: 2010-02-22 10:22:57 -05:00
+date: 2010-02-22 15:22:57 Z
 categories:
 - re-blog
 tags:

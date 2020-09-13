@@ -1,6 +1,6 @@
 ---
 title: 'jae rhim lee: furniture'
-date: 2013-11-04 12:59:58 -05:00
+date: 2013-11-04 17:59:58 Z
 categories:
 - Uncategorized
 author: sarahendren

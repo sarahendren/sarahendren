@@ -1,6 +1,6 @@
 ---
 title: the edited city, 2.0
-date: 2011-04-14 10:38:37 -04:00
+date: 2011-04-14 14:38:37 Z
 published: false
 categories:
 - Uncategorized

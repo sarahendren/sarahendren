@@ -1,6 +1,6 @@
 ---
 title: nyu lectures
-date: 2013-04-03 13:58:56 -04:00
+date: 2013-04-03 17:58:56 Z
 categories:
 - Uncategorized
 author: sarahendren
