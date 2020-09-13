@@ -1,6 +1,6 @@
 ---
 title: user-adjustable, upcycled lower leg
-date: 2013-04-04 22:49:25 Z
+date: 2013-04-04 18:49:25 -04:00
 categories:
 - Uncategorized
 author: sarahendren

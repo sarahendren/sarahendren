@@ -1,6 +1,6 @@
 ---
 title: shock of the old
-date: 2012-12-17 22:16:19 Z
+date: 2012-12-17 17:16:19 -05:00
 categories:
 - Uncategorized
 author: sarahendren

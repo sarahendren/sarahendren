@@ -1,6 +1,6 @@
 ---
 title: artificial parts, practical lives
-date: 2012-08-06 16:35:23 Z
+date: 2012-08-06 12:35:23 -04:00
 categories:
 - Uncategorized
 author: sarahendren

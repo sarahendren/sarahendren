@@ -1,6 +1,6 @@
 ---
 title: morse code jewelry
-date: 2011-01-20 16:48:17 Z
+date: 2011-01-20 11:48:17 -05:00
 categories:
 - re-blog
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: ana rajcevic's "other side of evolution"
-date: 2012-12-19 14:22:12 Z
+date: 2012-12-19 09:22:12 -05:00
 categories:
 - Uncategorized
 author: sarahendren

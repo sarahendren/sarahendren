@@ -1,6 +1,6 @@
 ---
 title: sleep suit for urban power nappers
-date: 2010-02-28 00:20:20 Z
+date: 2010-02-27 19:20:20 -05:00
 categories:
 - re-blog
 tags:

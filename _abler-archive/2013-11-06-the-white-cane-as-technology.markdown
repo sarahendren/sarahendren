@@ -1,6 +1,6 @@
 ---
 title: the white cane as technology
-date: 2013-11-06 20:28:59 Z
+date: 2013-11-06 15:28:59 -05:00
 categories:
 - Uncategorized
 author: sarahendren

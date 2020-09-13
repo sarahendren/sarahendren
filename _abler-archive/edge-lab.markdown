@@ -1,6 +1,6 @@
 ---
 title: EDGE lab
-date: 2011-11-01 16:45:46 Z
+date: 2011-11-01 12:45:46 -04:00
 categories:
 - re-blog
 author: sarahendren

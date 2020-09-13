@@ -1,6 +1,6 @@
 ---
 title: the collection
-date: 2014-02-07 16:23:57 Z
+date: 2014-02-07 11:23:57 -05:00
 categories:
 - Uncategorized
 author: sarahendren

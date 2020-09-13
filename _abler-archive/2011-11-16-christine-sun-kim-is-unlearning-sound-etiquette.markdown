@@ -1,6 +1,6 @@
 ---
 title: christine sun kim is unlearning sound etiquette
-date: 2011-11-16 02:11:08 Z
+date: 2011-11-15 21:11:08 -05:00
 categories:
 - re-blog
 author: sarahendren

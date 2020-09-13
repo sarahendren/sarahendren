@@ -1,6 +1,6 @@
 ---
 title: power of ideas and some updates
-date: 2014-04-30 14:47:50 Z
+date: 2014-04-30 10:47:50 -04:00
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: "$3 device speeds up healing process"
-date: 2010-04-16 18:20:25 Z
+date: 2010-04-16 14:20:25 -04:00
 categories:
 - re-blog
 tags:

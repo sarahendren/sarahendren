@@ -1,6 +1,6 @@
 ---
 title: mark shepard's CCD-me-not
-date: 2011-09-13 21:37:34 Z
+date: 2011-09-13 17:37:34 -04:00
 categories:
 - re-blog
 author: sarahendren

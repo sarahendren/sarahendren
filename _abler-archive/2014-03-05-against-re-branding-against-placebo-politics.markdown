@@ -1,6 +1,6 @@
 ---
 title: against re-branding; against placebo politics
-date: 2014-03-05 15:02:33 Z
+date: 2014-03-05 10:02:33 -05:00
 categories:
 - Uncategorized
 author: sarahendren

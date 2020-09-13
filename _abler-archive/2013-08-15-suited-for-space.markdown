@@ -1,6 +1,6 @@
 ---
 title: suited for space
-date: 2013-08-15 13:25:47 Z
+date: 2013-08-15 09:25:47 -04:00
 categories:
 - Uncategorized
 author: sarahendren

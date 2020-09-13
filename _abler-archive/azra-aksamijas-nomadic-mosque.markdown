@@ -1,6 +1,6 @@
 ---
 title: azra aksamija's nomadic mosque
-date: 2013-11-01 15:19:14 Z
+date: 2013-11-01 11:19:14 -04:00
 categories:
 - Uncategorized
 author: sarahendren

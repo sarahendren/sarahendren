@@ -1,6 +1,6 @@
 ---
 title: all my geek dreams coming true
-date: 2011-08-23 18:42:34 Z
+date: 2011-08-23 14:42:34 -04:00
 categories:
 - Uncategorized
 author: sarahendren

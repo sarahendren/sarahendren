@@ -1,6 +1,6 @@
 ---
 title: what's wrong with "prosthetics porn"? (part I)
-date: 2011-02-20 13:27:30 Z
+date: 2011-02-20 08:27:30 -05:00
 categories:
 - Uncategorized
 author: sarahendren

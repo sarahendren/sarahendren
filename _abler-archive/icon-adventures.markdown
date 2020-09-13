@@ -1,6 +1,6 @@
 ---
 title: icon adventures
-date: 2011-02-21 13:12:15 Z
+date: 2011-02-21 08:12:15 -05:00
 categories:
 - Uncategorized
 author: sarahendren

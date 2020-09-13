@@ -1,6 +1,6 @@
 ---
 title: pretty ramp machine
-date: 2013-12-29 15:39:55 Z
+date: 2013-12-29 10:39:55 -05:00
 categories:
 - Uncategorized
 author: sarahendren

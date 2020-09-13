@@ -1,6 +1,6 @@
 ---
 title: 'get your personal space: spike away'
-date: 2014-01-15 04:07:33 Z
+date: 2014-01-14 23:07:33 -05:00
 categories:
 - Uncategorized
 author: sarahendren

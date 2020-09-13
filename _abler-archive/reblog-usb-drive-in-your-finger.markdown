@@ -1,6 +1,6 @@
 ---
 title: USB drive in your finger
-date: 2010-02-12 16:33:26 Z
+date: 2010-02-12 11:33:26 -05:00
 categories:
 - re-blog
 tags:

@@ -1,6 +1,6 @@
 ---
 title: an alterpodium (design for one series)
-date: 2014-08-28 14:30:53 Z
+date: 2014-08-28 10:30:53 -04:00
 categories:
 - Uncategorized
 author: sarahendren

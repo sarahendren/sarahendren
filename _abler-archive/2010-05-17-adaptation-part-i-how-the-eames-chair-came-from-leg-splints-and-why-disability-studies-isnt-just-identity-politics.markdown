@@ -1,7 +1,7 @@
 ---
 title: 'Adaptation, Part I: How the Eames chair came from leg splints, and why "disability
   studies" isn''t just identity politics'
-date: 2010-05-17 19:01:15 Z
+date: 2010-05-17 15:01:15 -04:00
 categories:
 - new here?
 author: sarahendren

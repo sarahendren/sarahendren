@@ -1,6 +1,6 @@
 ---
 title: bodies at work
-date: 2013-07-05 18:00:12 Z
+date: 2013-07-05 14:00:12 -04:00
 categories:
 - Uncategorized
 author: sarahendren

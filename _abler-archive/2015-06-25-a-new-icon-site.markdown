@@ -1,6 +1,6 @@
 ---
 title: a new icon site
-date: 2015-06-25 20:16:01 Z
+date: 2015-06-25 16:16:01 -04:00
 categories:
 - Uncategorized
 author: sarahendren

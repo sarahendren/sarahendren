@@ -1,6 +1,6 @@
 ---
 title: recognizing openness
-date: 2012-03-05 22:56:38 Z
+date: 2012-03-05 17:56:38 -05:00
 categories:
 - Uncategorized
 author: sarahendren

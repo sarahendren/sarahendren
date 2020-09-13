@@ -1,6 +1,6 @@
 ---
 title: material interfaces, part ii
-date: 2011-10-13 15:32:17 Z
+date: 2011-10-13 11:32:17 -04:00
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: '"curiosity is a vice"'
-date: 2011-10-15 02:46:13 Z
+date: 2011-10-14 22:46:13 -04:00
 categories:
 - Uncategorized
 author: sarahendren

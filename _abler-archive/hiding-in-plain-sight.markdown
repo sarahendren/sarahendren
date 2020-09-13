@@ -1,6 +1,6 @@
 ---
 title: hiding in plain sight
-date: 2013-06-04 16:43:33 Z
+date: 2013-06-04 12:43:33 -04:00
 categories:
 - Uncategorized
 author: sarahendren

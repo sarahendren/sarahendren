@@ -1,6 +1,6 @@
 ---
 title: 'talk-o-meter: so many, many uses'
-date: 2011-06-12 01:00:37 Z
+date: 2011-06-11 21:00:37 -04:00
 categories:
 - re-blog
 author: sarahendren

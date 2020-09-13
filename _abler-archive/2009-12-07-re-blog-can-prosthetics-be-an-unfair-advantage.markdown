@@ -1,6 +1,6 @@
 ---
 title: " Can prosthetics be an unfair advantage?"
-date: 2009-12-07 01:25:45 Z
+date: 2009-12-06 20:25:45 -05:00
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: physical touchscreen knobs
-date: 2010-05-11 14:48:34 Z
+date: 2010-05-11 10:48:34 -04:00
 categories:
 - re-blog
 tags:

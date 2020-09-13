@@ -1,6 +1,6 @@
 ---
 title: the public amateur
-date: 2011-03-24 15:06:18 Z
+date: 2011-03-24 11:06:18 -04:00
 categories:
 - Uncategorized
 author: sarahendren

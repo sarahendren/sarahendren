@@ -1,6 +1,6 @@
 ---
 title: the adjacent possible
-date: 2010-10-15 13:38:56 Z
+date: 2010-10-15 09:38:56 -04:00
 categories:
 - Uncategorized
 author: sarahendren

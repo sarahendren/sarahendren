@@ -1,6 +1,6 @@
 ---
 title: normal/abnormal in prague
-date: 2013-05-21 16:07:42 Z
+date: 2013-05-21 12:07:42 -04:00
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: magic arms
-date: 2012-08-03 01:19:19 Z
+date: 2012-08-02 21:19:19 -04:00
 categories:
 - Uncategorized
 author: sarahendren

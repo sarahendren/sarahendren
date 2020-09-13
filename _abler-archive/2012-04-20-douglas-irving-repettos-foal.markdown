@@ -1,6 +1,6 @@
 ---
 title: douglas irving repetto's 'foal'
-date: 2012-04-20 19:57:06 Z
+date: 2012-04-20 15:57:06 -04:00
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: getting up
-date: 2014-02-03 18:53:22 Z
+date: 2014-02-03 13:53:22 -05:00
 categories:
 - Uncategorized
 author: sarahendren

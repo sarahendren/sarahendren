@@ -1,6 +1,6 @@
 ---
 title: what can a body do?
-date: 2012-10-08 00:12:15 Z
+date: 2012-10-07 20:12:15 -04:00
 categories:
 - Uncategorized
 author: sarahendren

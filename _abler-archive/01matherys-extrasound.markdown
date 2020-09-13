@@ -1,6 +1,6 @@
 ---
 title: 01Mathery's Extrasound
-date: 2010-09-25 19:16:48 Z
+date: 2010-09-25 15:16:48 -04:00
 categories:
 - re-blog
 author: sarahendren

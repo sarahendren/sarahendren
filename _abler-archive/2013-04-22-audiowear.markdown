@@ -1,6 +1,6 @@
 ---
 title: audiowear
-date: 2013-04-22 19:57:33 Z
+date: 2013-04-22 15:57:33 -04:00
 categories:
 - Uncategorized
 author: sarahendren

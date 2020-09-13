@@ -1,6 +1,6 @@
 ---
 title: radicalism and "miniaturized music"
-date: 2011-10-04 02:01:08 Z
+date: 2011-10-03 22:01:08 -04:00
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: signage/billboards (ongoing series)
-date: 2009-05-01 14:44:56 Z
+date: 2009-05-01 10:44:56 -04:00
 categories:
 - Uncategorized
 author: sarahendren

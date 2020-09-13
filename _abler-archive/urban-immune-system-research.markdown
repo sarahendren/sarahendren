@@ -1,6 +1,6 @@
 ---
 title: urban immune system research
-date: 2011-09-19 14:12:08 Z
+date: 2011-09-19 10:12:08 -04:00
 categories:
 - re-blog
 author: sarahendren

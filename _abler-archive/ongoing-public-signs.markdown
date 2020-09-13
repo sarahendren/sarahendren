@@ -1,6 +1,6 @@
 ---
 title: signage/wheelchair (ongoing series)
-date: 2010-03-29 11:58:56 Z
+date: 2010-03-29 07:58:56 -04:00
 categories:
 - Uncategorized
 author: sarahendren

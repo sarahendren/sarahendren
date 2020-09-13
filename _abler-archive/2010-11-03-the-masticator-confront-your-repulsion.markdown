@@ -1,6 +1,6 @@
 ---
 title: 'the masticator: confront your repulsion'
-date: 2010-11-03 01:41:11 Z
+date: 2010-11-02 21:41:11 -04:00
 categories:
 - re-blog
 author: sarahendren

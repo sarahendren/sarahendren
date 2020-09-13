@@ -1,6 +1,6 @@
 ---
 title: Alex Dodge's Sleep Talker
-date: 2010-09-04 01:28:11 Z
+date: 2010-09-03 21:28:11 -04:00
 categories:
 - re-blog
 author: sarahendren

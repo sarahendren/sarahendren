@@ -1,6 +1,6 @@
 ---
 title: cane camera
-date: 2013-05-11 23:59:24 Z
+date: 2013-05-11 19:59:24 -04:00
 categories:
 - Uncategorized
 author: sarahendren

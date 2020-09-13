@@ -1,6 +1,6 @@
 ---
 title: disability / visibility
-date: 2014-08-25 19:57:07 Z
+date: 2014-08-25 15:57:07 -04:00
 categories:
 - Uncategorized
 author: sarahendren

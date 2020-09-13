@@ -1,6 +1,6 @@
 ---
 title: two kinds of invisibility
-date: 2013-07-26 00:59:48 Z
+date: 2013-07-25 20:59:48 -04:00
 categories:
 - Uncategorized
 author: sarahendren

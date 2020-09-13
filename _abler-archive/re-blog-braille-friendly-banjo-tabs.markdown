@@ -1,6 +1,6 @@
 ---
 title: braille-friendly banjo tabs
-date: 2010-01-05 19:19:44 Z
+date: 2010-01-05 14:19:44 -05:00
 categories:
 - re-blog
 tags:

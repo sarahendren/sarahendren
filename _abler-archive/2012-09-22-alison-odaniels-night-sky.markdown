@@ -1,6 +1,6 @@
 ---
 title: '"sound is a character"'
-date: 2012-09-22 17:55:38 Z
+date: 2012-09-22 13:55:38 -04:00
 categories:
 - Uncategorized
 author: sarahendren

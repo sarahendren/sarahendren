@@ -1,6 +1,6 @@
 ---
 title: sequencing and synecdoche
-date: 2014-01-06 17:04:35 Z
+date: 2014-01-06 12:04:35 -05:00
 categories:
 - Uncategorized
 author: sarahendren

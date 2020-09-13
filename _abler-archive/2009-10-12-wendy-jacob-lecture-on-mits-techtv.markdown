@@ -1,6 +1,6 @@
 ---
 title: Wendy Jacob lectures on MIT's TechTV
-date: 2009-10-12 20:25:12 Z
+date: 2009-10-12 16:25:12 -04:00
 categories:
 - Uncategorized
 author: sarahendren

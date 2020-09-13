@@ -1,6 +1,6 @@
 ---
 title: walking social
-date: 2014-03-26 18:45:17 Z
+date: 2014-03-26 14:45:17 -04:00
 categories:
 - Uncategorized
 author: sarahendren

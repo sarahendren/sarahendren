@@ -1,6 +1,6 @@
 ---
 title: Jessica Field's Maladjusted Ecosystem
-date: 2010-12-02 14:44:51 Z
+date: 2010-12-02 09:44:51 -05:00
 categories:
 - re-blog
 author: sarahendren

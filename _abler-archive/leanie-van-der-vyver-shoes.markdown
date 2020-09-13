@@ -1,6 +1,6 @@
 ---
 title: 'Leanie van der Vyver: "heels."'
-date: 2012-10-26 17:02:59 Z
+date: 2012-10-26 13:02:59 -04:00
 categories:
 - Uncategorized
 author: sarahendren

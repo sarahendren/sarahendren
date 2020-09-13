@@ -1,7 +1,7 @@
 ---
 title: 'Adaptation, Part II: hearing aid jewelry, chairs that give hugs, and the art
   of changing the question.'
-date: 2010-05-01 16:26:08 Z
+date: 2010-05-01 12:26:08 -04:00
 categories:
 - new here?
 author: sarahendren

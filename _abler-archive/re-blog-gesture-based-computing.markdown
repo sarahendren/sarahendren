@@ -1,6 +1,6 @@
 ---
 title: gesture-based computing
-date: 2010-05-27 20:48:09 Z
+date: 2010-05-27 16:48:09 -04:00
 categories:
 - re-blog
 tags:

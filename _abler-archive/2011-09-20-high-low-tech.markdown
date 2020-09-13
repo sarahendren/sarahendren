@@ -1,6 +1,6 @@
 ---
 title: high-low tech
-date: 2011-09-20 17:48:53 Z
+date: 2011-09-20 13:48:53 -04:00
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: rhizome interview
-date: 2012-10-05 01:15:06 Z
+date: 2012-10-04 21:15:06 -04:00
 categories:
 - Uncategorized
 author: sarahendren

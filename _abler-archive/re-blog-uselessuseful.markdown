@@ -1,6 +1,6 @@
 ---
 title: useless/useful
-date: 2009-10-16 18:41:57 Z
+date: 2009-10-16 14:41:57 -04:00
 categories:
 - Uncategorized
 author: sarahendren

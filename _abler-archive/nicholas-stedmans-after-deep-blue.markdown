@@ -1,6 +1,6 @@
 ---
 title: Nicholas Stedman's 'After Deep Blue'
-date: 2010-10-19 16:05:23 Z
+date: 2010-10-19 12:05:23 -04:00
 categories:
 - re-blog
 author: sarahendren

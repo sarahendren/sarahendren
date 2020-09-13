@@ -1,6 +1,6 @@
 ---
 title: 'slope : intercept in toronto'
-date: 2014-08-06 14:02:35 Z
+date: 2014-08-06 10:02:35 -04:00
 categories:
 - Uncategorized
 author: sarahendren

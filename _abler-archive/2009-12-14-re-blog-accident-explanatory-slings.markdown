@@ -1,6 +1,6 @@
 ---
 title: accident-explanatory slings
-date: 2009-12-14 16:09:00 Z
+date: 2009-12-14 11:09:00 -05:00
 categories:
 - re-blog
 tags:

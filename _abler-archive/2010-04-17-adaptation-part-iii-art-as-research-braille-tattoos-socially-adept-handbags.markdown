@@ -1,6 +1,6 @@
 ---
 title: 'Adaptation, Part III: Art as Research (Braille tattoos! Socially-adept handbags!)'
-date: 2010-04-17 16:06:46 Z
+date: 2010-04-17 12:06:46 -04:00
 categories:
 - new here?
 author: sarahendren

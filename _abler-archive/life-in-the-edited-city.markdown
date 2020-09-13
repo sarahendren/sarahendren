@@ -1,6 +1,6 @@
 ---
 title: 'life in the edited city: update'
-date: 2013-06-08 08:34:52 Z
+date: 2013-06-08 04:34:52 -04:00
 categories:
 - Uncategorized
 author: sarahendren

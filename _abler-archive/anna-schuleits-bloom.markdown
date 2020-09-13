@@ -1,6 +1,6 @@
 ---
 title: anna schuleit's "bloom"
-date: 2014-09-30 18:19:07 Z
+date: 2014-09-30 14:19:07 -04:00
 categories:
 - Uncategorized
 author: sarahendren

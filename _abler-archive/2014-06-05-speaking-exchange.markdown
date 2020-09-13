@@ -1,6 +1,6 @@
 ---
 title: speaking exchange
-date: 2014-06-05 20:05:13 Z
+date: 2014-06-05 16:05:13 -04:00
 categories:
 - Uncategorized
 author: sarahendren

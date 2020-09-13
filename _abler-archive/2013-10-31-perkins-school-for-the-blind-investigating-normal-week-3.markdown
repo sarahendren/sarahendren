@@ -1,6 +1,6 @@
 ---
 title: perkins school for the blind (investigating normal, week 3)
-date: 2013-10-31 15:25:33 Z
+date: 2013-10-31 11:25:33 -04:00
 categories:
 - Uncategorized
 author: sarahendren

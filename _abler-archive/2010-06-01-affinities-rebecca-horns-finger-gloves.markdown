@@ -1,6 +1,6 @@
 ---
 title: rebecca horn's 'finger gloves'
-date: 2010-06-01 23:46:26 Z
+date: 2010-06-01 19:46:26 -04:00
 categories:
 - Uncategorized
 author: sarahendren

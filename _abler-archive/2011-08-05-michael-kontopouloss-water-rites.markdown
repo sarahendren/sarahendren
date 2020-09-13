@@ -1,6 +1,6 @@
 ---
 title: michael kontopoulos's "water rites"
-date: 2011-08-05 00:27:11 Z
+date: 2011-08-04 20:27:11 -04:00
 categories:
 - re-blog
 author: sarahendren

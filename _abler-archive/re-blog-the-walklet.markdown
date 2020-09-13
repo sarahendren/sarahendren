@@ -1,6 +1,6 @@
 ---
 title: the walklet
-date: 2010-06-15 00:18:39 Z
+date: 2010-06-14 20:18:39 -04:00
 categories:
 - re-blog
 tags:

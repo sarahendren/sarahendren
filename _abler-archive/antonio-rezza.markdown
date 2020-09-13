@@ -1,6 +1,6 @@
 ---
 title: antonio rezza
-date: 2011-10-01 02:36:09 Z
+date: 2011-09-30 22:36:09 -04:00
 categories:
 - re-blog
 author: sarahendren

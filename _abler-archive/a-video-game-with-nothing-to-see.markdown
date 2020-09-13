@@ -1,6 +1,6 @@
 ---
 title: a video game with nothing to see
-date: 2013-12-09 18:46:24 Z
+date: 2013-12-09 13:46:24 -05:00
 categories:
 - Uncategorized
 author: sarahendren

@@ -1,6 +1,6 @@
 ---
 title: a "technology of distance"
-date: 2011-05-19 16:23:12 Z
+date: 2011-05-19 12:23:12 -04:00
 categories:
 - Uncategorized
 author: sarahendren
