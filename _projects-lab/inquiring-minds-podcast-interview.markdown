@@ -1,6 +1,7 @@
 ---
 title: Inquiring Minds podcast interview
 date: 2020-09-21 09:26:00 -04:00
+date-display: 2020
 type: interview
 ---
 
