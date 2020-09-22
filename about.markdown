@@ -11,7 +11,7 @@ Sara Hendren is an artist, design researcher, writer, and professor at [Olin Col
 
 Sara is a humanist in tech. Her work of the last decade—[lab](http://aplusa.org/) and [projects](https://sarahendren.com/projects-lab/#project)—includes collaborative
 public art and social design that engages
-the human body, technology, and the politics of disability — things like [a lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/) or a [ramp for wheelchair dancing](http://aplusa.org/projects/ramp-alice-sheppard/). She also co-founded the [Accessible Icon Project](https://sarahendren.com/projects-lab/accessible-icon-project/), co-created [a digital archive of low-tech prosthetics](https://sarahendren.com/projects-lab/engineering-at-home/), and has a long-running obsession [with the inclined plane](https://sarahendren.com/projects-lab/slope-intercept/).
+the human body, technology, and the politics of disability: things like [a lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/) or a [ramp for wheelchair dancing](http://aplusa.org/projects/ramp-alice-sheppard/). She also co-founded the [Accessible Icon Project](https://sarahendren.com/projects-lab/accessible-icon-project/), co-created [a digital archive of low-tech prosthetics](https://sarahendren.com/projects-lab/engineering-at-home/), and has a long-running obsession [with the inclined plane](https://sarahendren.com/projects-lab/slope-intercept/).
 
 
 
