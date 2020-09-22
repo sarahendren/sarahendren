@@ -1,5 +1,5 @@
 ---
-title: 'infrastructure song: audible crosswalk sound piece'
+title: 'infrastructure song: sound piece'
 date: 2019-06-13 16:47:00 -04:00
 tags:
 - accessibility
