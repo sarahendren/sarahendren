@@ -18,7 +18,7 @@ layout: default
         </div>
         <div class="row abler__list_item">
             <div class="col-xs-12 col-md-2">
-                <p class="date">{{ item.date-display }}</p>
+                <p class="date">{{ item.date | date: "%b %-d, %Y" }}</p>
             </div>
             <div class="col-xs-12 col-md-8 abler__title">
                 <h1 class="name">{{ item.title }}</h1>
