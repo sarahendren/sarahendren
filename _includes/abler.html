@@ -1,6 +1,6 @@
 <div class="row ablers__list_item">
     <div class="col-xs-12 col-md-2">
-        <p class="date">{{ item.date-display }}</p>
+        <p class="date">{{ item.date | date: "%b %-d, %Y" }}</p>
     </div>
     {% if item.type == 'archive' %}
     <div class="col-xs-12 col-md-8 abler-content-col">
