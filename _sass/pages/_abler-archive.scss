@@ -20,6 +20,7 @@ body#abler-archive, body.abler-archive, body.abler-guides {
     }
     img {
       width: 100%;
+      height: auto;
       margin-top: 1rem;
       @media only screen and (min-width: $break_md) {
         margin-top: -.5rem;
