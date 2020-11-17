@@ -17,7 +17,7 @@ But you should also write a fake first page that is the introduction talk for yo
 
 —**Write for and write against.** Take your idea and test it in a couple of directions. Figuring out "what you think" about some idea can be hard in a vacuum. If you're unclear what you're writing *for*, think for a while in the *against* mode. As in: "Most people think that [common misconception about your topic], but the more interesting and urgent truth is that [key overlooked insight]." Identifying that common misconception—or misinterpretation, or lazy thinking, or some other unsatisfying treatment of knowledge—is a ground against which you can imagine your ideas taking shape. Or do the opposite. If you know the things you want to critique, ask yourself what the mode of criticism might argue *for* instead. These can also be just games—modes of stretching and elasticizing your ideas-in-progress to make them more pliable, more recognizable, and finally, more concrete. Or they might grow from the game to form some of your real text. But either way, they force you to think in terms of figure and ground, the ideas set on a backdrop so they come alive.
 
-*Who *is* the writer who describes that train-ride technique? I can't recall.
+*Who is the writer who describes that train-ride technique? I can't recall.
 
 
 
