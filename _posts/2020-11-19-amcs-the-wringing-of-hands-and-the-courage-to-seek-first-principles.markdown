@@ -4,3 +4,11 @@ date: 2020-11-19 16:13:00 -05:00
 published: false
 ---
 
+I think a lot of people my age might remember reading about Paul Farmer for the first time, [in the New Yorker profile](https://www.newyorker.com/magazine/2000/07/10/the-good-doctor) by Tracy Kidder in 2000. It contains all kinds of insight, but it's this passage that has stayed with me most vividly:
+
+>Farmer told me, “It stands to reason that a person who lives the way I do is trying to lessen some psychic discomfort.” He had wanted to avoid “ambivalence,” he said, and had tried to build his life around “areas of moral clarity”—“A.M.C.s,” in Partners in Health lingo. These are areas, rare in the world, where what ought to be done seems perfectly clear. But the doing was always complicated, always difficult, in his experience. Thinking of those difficulties, I imagine that most people wouldn’t willingly take them on, giving up their comforts. Yet many would like to wake up knowing what they ought to do and that they were doing it. Farmer’s life looked hard, but by the time we left Haiti I also thought that it was enviable.
+
+AMCs—rare in the world indeed. Many of us "live the questions" instead—knowing, as we do, that most principles lie in the gray. My family takes part in volunteerism that's pretty squarely in the AMC realm, and that's in part, as in Farmer's case, a matter of faith and in part a matter of lessening the psychic discomfort that comes from living our lives in the semi-compromised way we feel compelled or constrained to do. What we own and what we spend and how we plan for the future. The gray areas, punctuated by some work in the AMCs.
+
+
+
