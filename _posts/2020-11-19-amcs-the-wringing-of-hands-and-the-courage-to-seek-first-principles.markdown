@@ -10,5 +10,5 @@ I think a lot of people my age might remember reading about Paul Farmer for the 
 
 AMCs—rare in the world indeed. Many of us "live the questions" instead—knowing, as we do, that most principles lie in the gray. My family takes part in volunteerism that's pretty squarely in the AMC realm, and that's in part, as in Farmer's case, a matter of faith and in part a matter of lessening the psychic discomfort that comes from living our lives in the semi-compromised way we feel compelled or constrained to do. What we own and what we spend and how we plan for the future. The gray areas, punctuated by some work in the AMCs.
 
-
+It's a particular accomplishment, too, to name the facets of the gray areas, as Sarah Zhang did in this long piece on Down syndrome and selective termination. Zhang got at all the issues, from high-level bioethics to on-the-ground gendered realities of caregiving. And the ironies of northern European cultures, where social safety nets are strong, leading the world in what amounts to passive eugenics, one private decision at a time. It's truly gray, and a thrny set of issies  
 
