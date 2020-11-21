@@ -12,5 +12,11 @@ AMCs—rare in the world indeed. Many of us "live the questions" instead—knowi
 
 It's a particular accomplishment, too, to name the facets of these many gray areas, as Sarah Zhang did in this [long piece on Down syndrome and selective termination](https://www.theatlantic.com/magazine/archive/2020/12/the-last-children-of-down-syndrome/616928/). Zhang got at all the issues, from high-level bioethics to on-the-ground gendered realities of caregiving. And the ironies of northern European cultures, where social safety nets are strong, leading the world in what amounts to passive eugenics, one private decision at a time. It's truly gray, and a thorny set of issues for which there's no right side of history. Reproductive autonomy, a political provision that I support, is necessarily on a collision course with selective termination as a matter of private choice, and especially when screening is not just a private matter, but a policy-level standard of care, as is the case in Denmark.
 
+Too few people speak about [agonistic pluralism](https://en.wikipedia.org/wiki/Agonism), Chantal Mouffe's idea that democracy necessarily includes states of contestation. This is something more than simply acknowledging gray areas, and something more than living the questions. Agonistic pluralism implies vigorous debate, uncomfortable conversations, publicizing ideas that can easily remain tacit, held in the background in favor of more feel-good affirmations of universally held beliefs: about the value of each person, about the good of diversity for its own sake.
+
+So Zhang makes the subtext into text, and rightly so: 
+
+
+
 
 
