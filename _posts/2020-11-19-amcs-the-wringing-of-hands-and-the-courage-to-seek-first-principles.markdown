@@ -1,7 +1,6 @@
 ---
 title: A.M.C.s, the wringing of hands, and the courage to seek first principles
 date: 2020-11-19 16:13:00 -05:00
-published: false
 ---
 
 I think a lot of people my age might remember reading about Paul Farmer for the first time, [in the New Yorker profile](https://www.newyorker.com/magazine/2000/07/10/the-good-doctor) by Tracy Kidder in 2000. It contains all kinds of insight, but it's this passage that has stayed with me most vividly:
