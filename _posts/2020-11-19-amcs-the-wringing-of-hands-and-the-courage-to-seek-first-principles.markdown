@@ -17,7 +17,7 @@ So Zhang [makes the subtext](https://www.theatlantic.com/magazine/archive/2020/1
 
 And yet—no A.M.C.s in sight here. How I envy my peers' clever tweets and poster slogans, their tidy neologisms for diagnosing what's wrong with the world, and how to fix it. But this is one of those topics that just won't compress and distill, no matter how you try. It takes all the words that Zhang brought to bear.
  
-And–so—what's the effect of a lengthy journalistic exploration like this? Much as I respect the form, I fear that it's pure hand-wringing. How fraught, how thought-provoking, and how important, people will say. And most of all, that unsatisfying refrain, how *complicated*.
+And–so—what's the effect of a lengthy journalistic exploration like this? Much as I respect the form, I fear that its results are pure hand-wringing. How fraught, how thought-provoking, and how important, people will say. And most of all, that unsatisfying refrain, how *complicated*.
 
 It happened that this article came out in the days after I watched talks by two scholars connected to disability rights, from two political positions that are *very* far apart, as far apart as two can nearly be. And in both, purely as side remarks, the speakers noted the Biden administration's troubling appointment of Ezekiel Emanuel to its COVID task force—he who made a big splash with his hopes not to live past the age of 75, on grounds that little quality of life [exists in old age](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/). 
 
