@@ -15,7 +15,7 @@ Too few people speak about [agonistic pluralism](https://en.wikipedia.org/wiki/A
 
 So Zhang [makes the subtext](https://www.theatlantic.com/magazine/archive/2020/12/the-last-children-of-down-syndrome/616928/) into text, and rightly so: "Few people speak publicly about wanting to “eliminate” Down syndrome," she writes. "Yet individual choices are adding up to something very close to that." It's a relief to someone like me to see it spelled out as such.
 
-And yet—no A.M.C.s in sight here. How I envy my peers' clever tweets and poster slogans, their tidy neologisms for diagnosing what's wrong with the world, and how to fix it. But this is one of those topics that just won't distill, no matter how you try. It takes all the words that Zhang brought to bear.
+And yet—no A.M.C.s in sight here. How I envy my peers' clever tweets and poster slogans, their tidy neologisms for diagnosing what's wrong with the world, and how to fix it. But this is one of those topics that just won't compress and distill, no matter how you try. It takes all the words that Zhang brought to bear.
  
 And–so—what's the effect of a longform journalistic exploration like this? I fear that it's pure hand-wringing. How fraught, how thought-provoking, and how important, people will say. And most of all, that unsatisfying refrain, how *complicated*.
 
