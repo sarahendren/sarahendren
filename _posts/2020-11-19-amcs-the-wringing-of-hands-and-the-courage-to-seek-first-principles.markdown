@@ -14,7 +14,15 @@ It's a particular accomplishment, too, to name the facets of these many gray are
 
 Too few people speak about [agonistic pluralism](https://en.wikipedia.org/wiki/Agonism), Chantal Mouffe's idea that democracy necessarily includes states of contestation. This is something more than simply acknowledging gray areas, and something more than living the questions. Agonistic pluralism implies vigorous debate, uncomfortable conversations, publicizing ideas that can easily remain tacit, held in the background in favor of more feel-good affirmations of universally held beliefs: about the value of each person, about the good of diversity for its own sake.
 
-So Zhang makes the subtext into text, and rightly so: 
+So Zhang [makes the subtext](https://www.theatlantic.com/magazine/archive/2020/12/the-last-children-of-down-syndrome/616928/) into text, and rightly so: "Few people speak publicly about wanting to “eliminate” Down syndrome," she writes. "Yet individual choices are adding up to something very close to that." It's a relief to someone like me to see it spelled out as such.
+
+And yet—no AMCs here, so what's the effect of a longform journalistic exploration like this? I fear that it's pure hand-wringing. How complicated, how thought-provoking, and how important, people will say. And most of all, that unsatisfying refrain, how *complicated*.
+
+It happened that this article came out in the days after I watched talks by two scholars in disability rights, from two political positions that are *very* apart, as far apart as two can nearly be. And in both, purely as side remarks, the speakers noted the Biden administration's troubling appointment of Ezekiel Emmanuel to its COVID task force—he who made a big splash with his hopes not to live past the age of 75, on grounds that little quality of life [exists in old age](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/). 
+
+Never mind the 
+
+
 
 
 
