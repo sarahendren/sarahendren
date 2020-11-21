@@ -18,9 +18,9 @@ So Zhang [makes the subtext](https://www.theatlantic.com/magazine/archive/2020/1
 
 And yet—no AMCs here, so what's the effect of a longform journalistic exploration like this? I fear that it's pure hand-wringing. How complicated, how thought-provoking, and how important, people will say. And most of all, that unsatisfying refrain, how *complicated*.
 
-It happened that this article came out in the days after I watched talks by two scholars in disability rights, from two political positions that are *very* apart, as far apart as two can nearly be. And in both, purely as side remarks, the speakers noted the Biden administration's troubling appointment of Ezekiel Emmanuel to its COVID task force—he who made a big splash with his hopes not to live past the age of 75, on grounds that little quality of life [exists in old age](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/). 
+It happened that this article came out in the days after I watched talks by two scholars connected to disability rights, from two political positions that are *very* apart, as far apart as two can nearly be. And in both, purely as side remarks, the speakers noted the Biden administration's troubling appointment of Ezekiel Emanuel to its COVID task force—he who made a big splash with his hopes not to live past the age of 75, on grounds that little quality of life [exists in old age](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/). 
 
-Never mind the 
+What struck me about this mention was not the Emanuel appointment itself but the parallels in these two disparate political universes, both of whom made strong calls for a definition of human worth and dignity outside culturally normative ideas of productivity, efficiency, and independence. The parallels and the gulf between them, both. No wonder that the hand-wringing stance—my, how *complicated*—is the most we can hope for in our thinking spaces and our best journalism. 
 
 
 
