@@ -18,3 +18,5 @@ Now—must we choose? Is the critique OR repair choice even necessary here? Lots
 So then, what to do? Perhaps we better welcome and amplify the white-hot critiques, words that are not our own, sending them as much oxygen as possible. Perhaps we augment our own habits of critique, aloud and in public, with the modest, quieter reparative words in DMs and email and text: Keep going with the what-ifs. I'm with you. 
 
 No one has to do any of it, of course, and only some of this rhetorical work will be visible to the public eye. But to ask yourself: What is my post? is to acknowledge that your own ways of speaking up and speaking out are not the only ones. It might be otherwise.
+
+**Update: Thanks to friends like Anne Galloway, Aimi Hamraie, and Amy Gaeta for reminding me about related texts, like Eve Sedgwick's [Paranoid Reading and Reparative Reading](http://www.bu.edu/honoringeve/files/2009/09/paranoid-reading-and-reparative-reading.pdf) and Sara Ahmed's "[Complaint as Diversity Work](https://feministkilljoys.com/2017/11/10/complaint-as-diversity-work/)." Lots more to unpack here. Still thinking it over.
