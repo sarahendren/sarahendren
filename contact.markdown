@@ -6,7 +6,7 @@ layout: contact
 ---
 
 Please do get in touch! I'd love to hear from you. With 
-a full time job and no childcare in sight for the foreseeable future, I'm not very available for informal meetups and conversations. But I do (still) love email and [Twitter](https://twitter.com/ablerism), and, if you like, I'll send you occasional news via Tinyletter. Sign up is [here](https://tinyletter.com/sarahendren).
+a full time job and no childcare in sight for the foreseeable future, I'm not very available for informal meetups and conversations. I'm no longer on Twitter but, if you like, I'll send you occasional news via Tinyletter. Sign up is [here](https://tinyletter.com/sarahendren).
 
 Speaking requests go through Kate Berner (kberner@penguinrandomhouse.com) at [Penguin Random House Speakers Bureau](https://www.prhspeakers.com/about-us). Media inquiries go through Shailyn Tavella at Riverhead (stavella@penguinrandomhouse.com).
 
