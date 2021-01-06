@@ -4,7 +4,7 @@ date: 2021-01-06 13:53:00 -05:00
 published: false
 ---
 
-Gonna try out doing Friday posts called "The Rattle"—for the things that I've been reading that are still rattling around in my brain and heart since. I've always loved the big ol' proviso [over at reading.am](https://www.reading.am/)that the things you share aren't the things you obediently agree with or "fav," but just things that have staying power for whatever reason. They're still rattling around when you're in the shower, on a run, cooking dinner. It should go without saying, since "RTs are not endorsements" has been around forever, but still: it seems to be worth saying.
+Gonna try out doing Friday posts called "The Rattle"—for the things that I've been reading that are still rattling around in my brain and heart since first encountering them. I've always loved the big ol' proviso [over at reading.am](https://www.reading.am/)that the things you share aren't the things you obediently agree with or "fav," but just things that have staying power for whatever reason. They're still rattling around when you're in the shower, on a run, cooking dinner. It should go without saying, since "RTs are not endorsements" has been around forever, but still: it seems to be worth saying.
 
 So:
 
