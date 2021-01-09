@@ -16,3 +16,5 @@ So:
 
 —Alice McDermott on her *brilliant* book, The Ninth Hour, [and on teaching fiction writing to students](https://www.youtube.com/watch?v=jd-8ZDf2NLk): "Don't let your story be too much about what it's about."
 
+You can get Sara's newsletter [here](https://tinyletter.com/sarahendren), a monthly piece that includes a roundup of these posts.
+
