@@ -13,3 +13,4 @@ More about the rattle [here](https://sarahendren.com/2021/01/08/the-rattle-1-sla
 —"meaningful inefficiencies" Eric Gordon
 
 —something from Shirley Hazzard? Or Chekhov intro?
+—[All the Firsts](https://rebeccaswritingprompts.wordpress.com/2015/02/20/writing-prompt-list-of-firsts/)
