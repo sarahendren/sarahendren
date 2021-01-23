@@ -1,6 +1,6 @@
 ---
 title: the rattle 1/15
-date: 2021-01-13 14:43:00 -05:00
+date: 2021-01-15 14:43:00 -05:00
 ---
 
 More about the rattle [here](https://sarahendren.com/2021/01/08/the-rattle-1-slash-8-slash-20/).
