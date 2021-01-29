@@ -8,6 +8,8 @@ published: false
 
 So, liberals ask leftists to be extremely suspicious of a too-greedy or opportunistic essentialism that may help dismiss the critics today but that undermines the larger project of human emancipation, a project that depends, first and last, on being able to see past categories and types toward actual people and their predicaments. Antiessentialism is the universal solvent of illiberal thought." —Adam Gopnik, *A Thousand Small Sanities*, p 179
 
-—"meaningful inefficiencies" Eric Gordon
+—"Basically my whole political platform is this: RSS is the promised land." —Robin Rendle on newsletters and a more open web. (I do use RSS and I'm not that web-savvy! More on my digital clean-up [here](https://sarahendren.com/2021/01/26/digital-clean-up-2021/).)
 
-—something from Shirley Hazzard? Or Chekhov intro?
+—"We are just beginning to see glimpses of what [better public digital] spaces might look like. One model is Vermont’s [Front Porch Forum](https://frontporchforum.com/). Front Porch Forum is essentially a heavily moderated local email list for community discussions that’s been slowly and carefully developed over the past 20 years. Users can post only once a day, every post is read by a moderating team, and if you’re too salty or run afoul of other norms, you’re encouraged to rewrite. This is terrible for short-term engagement — flame wars drive attention and use, after all — and as a business model, all those moderators are costly. But there’s a long-term payoff: two-thirds of Vermont households are on the Forum, and many Vermonters find it a valuable place for thoughtful public discussions." —[Politico](https://frontporchforum.com/media/article64)
+
+Sign up for my newsletter, including a digest of these posts [here](https://tinyletter.com/sarahendren).
