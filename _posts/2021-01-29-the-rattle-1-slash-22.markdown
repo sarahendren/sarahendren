@@ -1,7 +1,6 @@
 ---
-title: the rattle 1/22
-date: 2021-01-23 13:47:00 -05:00
-published: false
+title: the rattle 1/29
+date: 2021-01-29 09:07:00 -05:00
 ---
 
 —"Essentializing anything in order to contain or dismiss it is always a false friend to reform. For essentialism is extremism, extremism in its denial of plurality, possibility, ambiguity, double usage, multiple identities. The power of nominalism lies in saying this thing can be any number of things; we'll call it when we choose. Giving up essentialism isn't an academic move; it's a way of countering the fanaticism of the single cause. A left critique that employs it, however opportunistically, will soon find itself stranded on the extreme end of public argument. Intersectionalism in a sense does not go far enough. There are countless nodes on the network of social categories. We call each one a person.
