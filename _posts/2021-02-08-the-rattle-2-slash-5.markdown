@@ -10,3 +10,5 @@ date: 2021-02-08 14:41:00 -05:00
 —  From Gail Heidi Landsman's *[Reconstructing Motherhood and Disability in the Age of "Perfect" Babies](https://bookshop.org/books/reconstructing-motherhood-and-disability-in-the-age-of-perfect-babies-9780415917896/9780415917896)*, a book about mothers of children with disabilities—a subject of much cultural patronizing and sentimental dismissal: 
 
 >The overarching question I have asked is not how do mothers cope, but rather, what have they *learned*? [...] I did not set out to help mothers but rather to explore what women who nurture young disabled children have come to know about what it means to be a person.
+
+More about the rattle [here](https://sarahendren.com/2021/01/08/the-rattle-1-slash-8-slash-20/).
