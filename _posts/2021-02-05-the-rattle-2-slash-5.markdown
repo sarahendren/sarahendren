@@ -1,6 +1,6 @@
 ---
 title: the rattle 2/5
-date: 2021-02-08 14:41:00 -05:00
+date: 2021-02-05 14:41:00 -05:00
 ---
 
 — Since reading *The Hobbit* to the kids, I picked up [Humphrey Carpenter's biography of J.R.R. Tolkien](https://bookshop.org/books/j-r-r-tolkien-a-biography-9780618057023/9780618057023). I keep thinking about this passage: 
