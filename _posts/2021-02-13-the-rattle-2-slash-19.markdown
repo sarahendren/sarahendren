@@ -1,7 +1,6 @@
 ---
 title: the rattle 2/19
 date: 2021-02-13 11:31:00 -05:00
-published: false
 ---
 
 — This was [a good conversation with Austin Kleon](https://pioneerworks.org/broadcast/austin-kleon-interview/), and reminds me of how my friend Chad always says, half-serious: Curiosity is a holy thing.
@@ -12,5 +11,5 @@ published: false
 
 >“We tend to be defensive of our work. We want it to be received well, to be instantly commended for what we’ve done. But the creative writing classroom is a place to develop the habit of wanting our original work to change,” Downing said. “That to me is the project of a life—to change, and to be changed by the people you encounter.”
 
-More about The Rattle here, and you can sign up for my newsletter if you like, with a sorta-digest of these posts, here.
+More about The Rattle [here](https://sarahendren.com/2021/01/08/the-rattle-1-slash-8-slash-20/), and you can sign up for my newsletter if you like, with a sorta-digest of these posts, [here](https://tinyletter.com/sarahendren).
 
