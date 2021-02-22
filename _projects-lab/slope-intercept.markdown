@@ -14,5 +14,5 @@ date-display: 2013–ongoing
 type: project
 ---
 
-[Slope : Intercept](http://slopeintercept.org/), begun in 2013 with a set of five modular ramps for use by skateboarders and wheelchair users, is an extended art and design research project organized around the inclined plane. Read the project's [web site](http://slopeintercept.org/) for a discussion of the inclined plane in history,  its first uses as speculative and critical design, and its growth as a provocation for events in Toronto, Seoul, and with dancer and choreographer [Alice Sheppard](https://kineticlight.org/).
+[Slope : Intercept](http://slopeintercept.org/), begun in 2013 with a set of five modular ramps for use by skateboarders and wheelchair users, is an extended art and design research project organized around the inclined plane. [Read more about the project here](http://aplusa.org/projects/ramp-alice-sheppard/) and its growth as a provocation for events in Toronto, Seoul, and with dancer and choreographer [Alice Sheppard](https://kineticlight.org/).
 
