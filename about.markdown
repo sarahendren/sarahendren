@@ -16,7 +16,7 @@ the human body and technology, much of it tied up with the condition of disabili
 
 
 
-Sara's work has been exhibited at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art and other venues and is held in the permanent collections of the Museum of Modern Art  and the Cooper Hewitt Museum. At Olin, she
+Sara's work has been exhibited at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art and other venues and is held in the permanent collections of the Museum of Modern Art  and the Cooper Hewitt Museum. She has been a National Fellow at the New America think tank, and her work has been supported by an NEH Public Scholar grant, residencies at Yaddo and the Carey Institute for Global Good, and an Artist Fellowship from the Massachusetts Cultural Council. At Olin, she
 is also the Principal Investigator on [a
 three-year initiative](http://www.olin.edu/collaborate/sketch-model/) to bring more arts experiences to engineering students and
 faculty, supported by the Mellon Foundation.
