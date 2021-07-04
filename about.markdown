@@ -16,6 +16,8 @@ the human body and technology. You might be interested in:
 — a [lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/)
  
 — a [ramp for wheelchair dancing](http://aplusa.org/projects/ramp-alice-sheppard/)
+
+— a [navigational cane that plays music](http://aplusa.org/projects/acoustic-mobility-device-carmen-papalia/)
   
 — a street art effort that became the [Accessible Icon Project](https://sarahendren.com/projects-lab/accessible-icon-project/) 
 
