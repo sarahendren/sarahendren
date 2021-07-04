@@ -13,10 +13,10 @@ Sara is a humanist in tech. ([You can find a bunch of her design lab projects he
 public art, social design, and writing that reframes
 the human body and technology. You might be interested in:
 
-— a [lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/)
-— a [ramp for wheelchair dancing](http://aplusa.org/projects/ramp-alice-sheppard/) 
-— a street art effort that became the [Accessible Icon Project](https://sarahendren.com/projects-lab/accessible-icon-project/)
-— a digital archive of low-tech prosthetics called [Engineering at Home](https://sarahendren.com/projects-lab/engineering-at-home/)
+— a [lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/). 
+— a [ramp for wheelchair dancing](http://aplusa.org/projects/ramp-alice-sheppard/).  
+— a street art effort that became the [Accessible Icon Project](https://sarahendren.com/projects-lab/accessible-icon-project/). 
+— a digital archive of low-tech prosthetics called [Engineering at Home](https://sarahendren.com/projects-lab/engineering-at-home/). 
 — a long-running obsession [with the inclined plane](https://sarahendren.com/projects-lab/slope-intercept/)
 
 
