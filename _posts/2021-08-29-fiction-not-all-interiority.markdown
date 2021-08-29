@@ -1,6 +1,10 @@
 ---
 title: 'fiction: not all interiority'
 date: 2021-08-29 12:44:00 -04:00
+tags:
+- writing
+- fiction
+- culture
 ---
 
 I'm focused on writing short stories this fall, and I loved coming across [this strong-headed affirmation](https://www.bookforum.com/print/2702/lydia-millet-discusses-her-new-novel-of-teens-biblical-allusions-and-plausible-environmental-disaster-24048) by Lydia Millet about the range of concerns in fiction, outside pure individualism and interiority:
