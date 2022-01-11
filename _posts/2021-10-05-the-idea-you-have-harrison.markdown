@@ -1,5 +1,5 @@
 ---
-title: the idea you have (harrison)
+title: the idea you have
 date: 2021-10-05 11:42:00 -04:00
 tags:
 - writing
