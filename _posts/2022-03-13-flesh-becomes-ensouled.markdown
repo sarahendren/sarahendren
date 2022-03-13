@@ -1,6 +1,9 @@
 ---
 title: flesh becomes ensouled
 date: 2022-03-13 13:15:00 -04:00
+tags:
+- philosophy
+- relationships
 ---
 
 > What a long and tricky process, no? To meet someone, to get to know them, to want to possess the good for all time by passing it down with them, and to celebrate and instantiate this in the moment of sex. It's almost as if...one couldn't do it in a single night. Surely it must take time, letting the body of another human being gradually take on this responsibility, the responsibility of being a physical symbol of a spiritual craving. 
