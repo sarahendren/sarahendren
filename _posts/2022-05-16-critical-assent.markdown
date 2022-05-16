@@ -1,6 +1,10 @@
 ---
 title: critical assent
 date: 2022-05-16 16:04:00 -04:00
+tags:
+- faith
+- repair
+- education
 ---
 
 When I was in grad school the first time around—for European history, long before design ever entered my consciousness—one of my classes was held in the UCLA faculty club lounge, where the professor held court among six or eight of us around a big wooden table. His comments, fueled by multiple glasses of white wine, were minimal and sharp. We were properly afraid. But the fear didn't stop us from frequently pulling a classic seminar move in a history class, which is to dodge the actual historical text in favor of the histori*ography* — commenting on how the book was positioning itself in its time, and how, in turn, it might have been received by its audience. The week we tackled Leo Strauss's *Natural Right and History*, our professor raised his voice for real and demanded: *yes but what does he actually say*??
