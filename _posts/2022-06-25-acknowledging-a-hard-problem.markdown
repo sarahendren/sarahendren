@@ -15,5 +15,5 @@ She had by all accounts won in an exchange with a great thinker! But there was l
 
 It's June 25, 2022, and I only want to talk with people about the overturning of Roe v. Wade if they're the kind of people who can fully assent that the weight of the issue *is hard*. Questions about the act of abortion itself, for a small unit of affected people and for a society; the role of the elected or judiciary branches in adjudicating anything about the matter; the theories of liberty at play here, including the full dimensionality and not the sound byte dismissal of originalism; the practices all around family-making that are asymmetrically meted out on women. A problem like this cannot be "won."  
 
-If you'd like a digest of these posts within the occasional newsletter from me, [sign-up is here](https://sarahendren.substack.com/).
+*If you'd like a digest of these posts within the occasional newsletter from me, [sign-up is here](https://sarahendren.substack.com/).*
 
