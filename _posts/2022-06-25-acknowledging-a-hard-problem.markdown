@@ -1,6 +1,10 @@
 ---
 title: acknowledging a hard problem
 date: 2022-06-25 12:11:00 -04:00
+tags:
+- law
+- abortion
+- philosophy
 ---
 
 Of the many stunning scenes in Benjamin J. B. Lipscomb's [The Women Are Up to Something: How Elizabeth Anscombe, Philippa Foot, Mary Midgley, and Iris Murdoch Revolutionized Ethics](https://global.oup.com/academic/product/the-women-are-up-to-something-9780197541074?cc=us&lang=en&), the one that stays with me most is in the aftermath of a 1948 debate between Anscombe and C.S. Lewis on the nature of belief and rationality. The consensus, Lipscomb reports, was that Anscombe came out the "winner" of the debate. 
@@ -11,5 +15,5 @@ She had by all accounts "won" in an exchange with a great thinker! But there was
 
 It's June 25, 2022, and I only want to talk with people about the overturning of Roe v. Wade if they're the kind of people who can fully assent that the weight of the issue *is hard*. Questions about the act of abortion itself, for a small unit of affected people and for a society; the role of the elected or judiciary branches in adjudicating anything about the matter; the theories of liberty at play here, including the full dimensionality and not the sound byte dismissal of originalism; the practices all around family-making that are asymmetrically meted out on women. A problem like this cannot be "won."  
 
-
+If you'd like a digest of these posts within the occasional newsletter from me, [sign-up is here](https://sarahendren.substack.com/).
 
