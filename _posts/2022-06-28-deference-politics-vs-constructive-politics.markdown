@@ -1,6 +1,9 @@
 ---
 title: deference politics vs. constructive politics
-date: 2022-06-23 07:01:00 -04:00
+date: 2022-06-28 07:01:00 -04:00
+tags:
+- identity
+- politics
 ---
 
 [Olúfẹ́mi O. Táíwò](https://gufaculty360.georgetown.edu/s/contact/0033600001ebL6LAAU/ol%C3%BAf%E1%BA%B9mi-t%C3%A1%C3%ADw%C3%B2), from his chapter called "Being in the Room," in [Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else)](https://www.haymarketbooks.org/books/1867-elite-capture), bringing the most careful and deliberative Marxist critique of symbolic + representational identity politics I've seen. Emphasis in bold is mine:
