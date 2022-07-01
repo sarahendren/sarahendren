@@ -24,6 +24,7 @@ tags:
 >
 >Deference as a default political orientation can work counter to marginalized groups' interests. We are surrounded by a discourse that locates attentional injustice in the selection of spokespeople and book lists taken to represent the marginalized, rather than focusing on the actions of corporations and algorithms that much more powerfully distribute attention. This discourse ultimately participates in the weaponization of attention in the service of marginalization. **It directs what little attentional power we can control at symbolic sites of power rather than at the root political issues that explain why everything is so fucked up.**
 
+
 This "Being in the Room" chapter breaks down the weakness of "deference politics" and is followed by a longer case for "constructive politics," where I am now in the book. More to come here, I think.
 
 Táíwò has two books out this year and seems like he's just getting started — I sense he's to be one of our important contemporary thinkers. Strong recommendation for [this conversation with Chris Hayes](https://podcasts.apple.com/us/podcast/how-the-powerful-took-over-identity-politics-with-ol%C3%BAf%E1%BA%B9/id1382983397?i=1000566342158) on the Why Is This Happening? podcast for more.
