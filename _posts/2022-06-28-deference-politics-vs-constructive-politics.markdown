@@ -10,8 +10,8 @@ tags:
 
 > This particular politics of deference emerged out of a theoretical orientation called standpoint epistemology, which became popular in feminist circles in the 1970s and has continued to contribute to the thinking of many activists and academics since. Standpoint epistemology comprises three seemingly innocuous ideas:
 >
-1) knowledge is socially situated\ 
-2) marginalized people have some advantages in gaining some forms of knowledge, and\
+1) knowledge is socially situated 
+2) marginalized people have some advantages in gaining some forms of knowledge, and
 3) research programs (and other areas of human activity) ought to reflect these facts.
 >
 >**These ideas should go down easy.** As Liam Kofi Bright argues, any serious empiricist philosophy would entail all three of these points. Moreover, they are politically important: they point to the value of lived experience and the knowledge that comes from it. At face value, a commitment to these ideas should help us resist and contain elite capture. **They should provide a basis for respecting knowledge that the institutions of the world otherwise want to discredit.**
