@@ -21,3 +21,5 @@ I've got a working 3-unit structure right now, each 3-4 weeks, dividing our time
 In any case, this threesome is a good-enough taxonomy for now, I think. If you have favorites in these genres (especially short film or audio), please send them my way. And if you know of syllabi that have complementary kinds of organizing structures, I'd also love to see them. 
 
 In my next [newsletter](https://sarahendren.substack.com/), I'll talk about how I'm using the first weeks in all my teaching to set up an overall framing of class time: the strong norm-setting in Danielle Allen's notion of "participatory readiness" and education. It's a ritual I plan to use for the foreseeable future. 
+
+*If you'd like a digest of these posts within the occasional newsletter from me, [sign-up is here](https://sarahendren.substack.com/).*
