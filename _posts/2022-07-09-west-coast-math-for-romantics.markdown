@@ -1,6 +1,10 @@
 ---
 title: west coast math for romantics
 date: 2022-07-09 00:14:00 -04:00
+tags:
+- writers
+- mathematics
+- faith
 ---
 
 Stephen Budiansky, in *[Journey to the End of Reason: A Life of Kurt Gödel](https://bookshop.org/books/journey-to-the-edge-of-reason-the-life-of-kurt-godel/9781324005445)*:
