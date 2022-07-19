@@ -1,6 +1,9 @@
 ---
 title: what greater condition
 date: 2022-07-18 22:01:00 -04:00
+tags:
+- christianity
+- consumerism
 ---
 
 [Phil Christman](https://philipchristman.substack.com/p/shoring-fragments?utm_source=email):
