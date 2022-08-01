@@ -1,6 +1,10 @@
 ---
 title: useful praise
 date: 2022-08-01 19:07:00 -04:00
+tags:
+- writing
+- feedback
+- criticism
 ---
 
 One of many things I did on my sabbatical this past year is write fan letters to people whose work I admire. Sometimes they wrote back, and sometimes they didn't, but I'm always glad when I've done it, regardless. After writing a whole book, I newly appreciate how much specific feedback means to anyone who's labored to make something and put it out into the world. And I worked hard on the *form* of the fan letters I wrote in the last year. I resolved only to write if I could say something very, very specific about why the book/article/podcast/whatever was working so well. 
