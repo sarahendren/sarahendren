@@ -16,5 +16,5 @@ So it's a delight to see this from [Mandy Brown](https://aworkinglibrary.com/wri
 >In an essay about [how writers should think about revising their work](https://catapult.co/dont-write-alone/stories/praise-workshop-writing-revision-teaching), A. E. Osworth argues for “useful praise”:
 >
 >"To identify strengths, a writer needs trusted readers: colleagues who understand that praise is only useful if it is specific, intellectually rigorous, and honest. Specificity is the clearest—the praise should point to a word, sentence, page, pattern, something that objectively appears in the text. Useful praise directs a writer’s attention to where the skill was deployed."
-
+>
 >Osworth’s greater point here is that writers should move *towards* their strengths, not merely *away* from criticism. This is great advice not only for writers but for all of us. This is not to say that constructive criticism is to be avoided, or that it isn’t also necessary. But if it’s the only kind of feedback you ever get, constructive criticism can have the unintended consequence of making you feel like you’re always coming up short. Useful praise reinforces that you’re learning and growing *and* gives you direction as to how to keep moving. That’s a very powerful motivator.
