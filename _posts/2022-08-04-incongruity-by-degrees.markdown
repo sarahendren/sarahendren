@@ -1,6 +1,9 @@
 ---
 title: incongruity, by degrees
 date: 2022-08-04 11:52:00 -04:00
+tags:
+- faith
+- writing
 ---
 
 Reinhold Niebuhr, "Humor and Faith":
