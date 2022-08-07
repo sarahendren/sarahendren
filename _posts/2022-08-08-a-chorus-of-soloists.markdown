@@ -1,6 +1,6 @@
 ---
 title: a choir of soloists
-date: 2022-08-05 08:05:00 -04:00
+date: 2022-08-08 08:05:00 -04:00
 tags:
 - writing
 - writers
