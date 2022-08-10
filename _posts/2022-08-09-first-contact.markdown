@@ -10,4 +10,4 @@ I've got several of [Andy Crouch](https://andy-crouch.com/)'s most recent books 
 
 This is working for me, too. I do best when I also include meditation and prayer, plus Morning Pages, though I don't have the kind of life right now that allows a really steady hour-plus morning ritual every day. But getting outside is the first contact I need.
 
-If you’d like a digest of these posts within the occasional newsletter from me, sign-up is here.
+If you’d like a digest of these posts within the occasional newsletter from me, sign-up is [here](https://sarahendren.substack.com/).
