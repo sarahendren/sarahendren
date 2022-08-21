@@ -6,7 +6,7 @@ image: "/uploads/other%20headshot%20Sara%20Hendren.jpeg"
 layout: about
 ---
 
-Sara Hendren is an artist, design researcher, writer, and professor at [Olin College of Engineering](http://www.olin.edu). She is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), published by Riverhead/Penguin Random House. It was chosen as a Best Book of the Year by NPR, won a Science in Society Journalism award, and an Honors recognition in the Massachusetts Book Awards. Sign up for her newsletter [here](https://sarahendren.substack.com/). 
+Sara Hendren is an artist, design researcher, writer, and professor at [Olin College of Engineering](http://www.olin.edu). She is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), published by Riverhead/Penguin Random House. It was chosen as a Best Book of the Year by NPR and won the Science in Society Journalism book prize. Sign up for her newsletter [here](https://sarahendren.substack.com/). 
 
 
 Sara is a humanist in tech. ([You can find a bunch of her design lab projects here](http://aplusa.org/).) Her work of 2010-2020 includes collaborative
@@ -35,4 +35,4 @@ faculty, supported by the Mellon Foundation.
 
 
 
-More: I live in Cambridge, Mass., with [my husband](http://www.brianfunck.com/) and three children. [This lecture](https://vimeo.com/134764010) remains a good summary of my work. [Full CV](https://drive.google.com/file/d/1lklO4J_0tIjVzWSm6NOOqqI3LLNEo_jb/view?usp=sharing) and [portfolio](https://drive.google.com/file/d/0B59TJ2hc29NFYmFfZUYwUlNKNHc/view?usp=sharing).
+More: I live in Cambridge, Mass., with [my husband](http://www.brianfunck.com/) and three children. [This lecture](https://vimeo.com/134764010), followed by [this one](https://vimeo.com/179040817), remain good summaries of my work. [Full CV](https://drive.google.com/file/d/1lklO4J_0tIjVzWSm6NOOqqI3LLNEo_jb/view?usp=sharing) and [portfolio](https://drive.google.com/file/d/0B59TJ2hc29NFYmFfZUYwUlNKNHc/view?usp=sharing).
