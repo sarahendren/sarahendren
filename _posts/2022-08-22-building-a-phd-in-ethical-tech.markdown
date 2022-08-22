@@ -1,6 +1,9 @@
 ---
 title: building a PhD in ethical tech
 date: 2022-08-22 15:23:00 -04:00
+tags:
+- technology
+- teaching
 ---
 
 Excerpt from [my interview](https://www.olin.edu/articles/building-purpose-how-craft-phd-ethical-tech) with Olin alum [Emily Wang](https://www.oberlin.edu/emily-wang), who just finished her PhD in HCI at Northwestern and is now heading to Oberlin for her first job. Here she's talking about building a dissertation with strong principles from disability studies and a human-centered prototyping process, including close observation to the adaptive human behaviors that are always already-present:
