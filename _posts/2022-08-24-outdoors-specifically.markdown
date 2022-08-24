@@ -7,7 +7,7 @@ In July, I went to Laity Lodge in the hill country of Texas—an incredibly raw 
 
 ![laity swimming hole-396d9d.jpg](/uploads/laity%20swimming%20hole-396d9d.jpg)
 
-I told my friend John about this when I got back. He grew in West Virginia, has lived all over the world, and said this is his favorite combination outing: a hike to a swimming hole for "agua dolce," he said. He kind of collects these experiences in as many places as he can. I see why.
+I told my friend John about this when I got back. He grew up in West Virginia, has lived all over the world, and said this is his favorite combination outing: a hike to a swimming hole for "agua dolce," he said. He kind of collects these experiences in as many places as he can. I see why.
 
 For me, I think it's canoeing-while-singing? My very best memories of church youth group in Arkansas are the Saturday paddling trips to the Buffalo River. We took it super slow, taunted each other with threats of snakes dropping from trees along the shore, and sang our hearts out. Mostly 50s and 60s-era pop songs: Everly Brothers, Roy Orbison, Patsy Cline. Youth group in its formal sense could be full of such moralizing, sentimental bullshit, but those trips were marked by an absolute freedom. 
 
