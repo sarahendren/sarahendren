@@ -11,7 +11,7 @@ I told my friend John about this when I got back. He grew up in West Virginia, h
 
 For me, I think it's canoeing-while-singing? My very best memories of church youth group in Arkansas are the Saturday paddling trips to the Buffalo River. We took it super slow, taunted each other with threats of snakes dropping from trees along the shore, and sang our hearts out. Mostly 50s and 60s-era pop songs: Everly Brothers, Roy Orbison, Patsy Cline. Youth group in its formal sense could be full of such moralizing, sentimental bullshit, but those trips were marked by an absolute freedom. 
 
-Paddling actually remains something I'll do in almost any circumstances. Several times in the last two years, I've gone kayaking with my dean of faculty from her place in the western suburbs. We talk about committee stuff while watching for herons. I am very, very lucky this way.
+Paddling actually remains something I'll do in almost any circumstances. Several times in the last two years, I've gone kayaking with my dean of faculty as our formal meeting, from her place in the western suburbs. We talk about committee stuff while watching for herons. I am very, very lucky this way.
 
 What else? The beach but only in the three seasons that aren't summer. The hike I used to do daily in Runyon Canyon in LA: a long and steady climb to the peak and then a quick descent down to the end of the loop, structured like a classic narrative, all denouement at the end. And these days, a day bookended by a run in the morning, bicycle ride in the evening.
 
