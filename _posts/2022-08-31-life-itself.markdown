@@ -1,6 +1,9 @@
 ---
 title: life itself
 date: 2022-08-31 01:55:00 -04:00
+tags:
+- work
+- repair
 ---
 
 [Clare Coffey](https://www.gawker.com/culture/failure-to-cope-under-capitalism?utm_source=substack&utm_medium=email):
