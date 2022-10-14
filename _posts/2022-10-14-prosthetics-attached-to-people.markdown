@@ -7,7 +7,7 @@ I wrote a short piece for Art In America's October issue, which has art and disa
 
 ![Finger gloves.2.jpg](/uploads/Finger%20gloves.2.jpg)
 
-(In a studio with two arched windows, Horn stands in the middle of the room with two "gloves" extending their fingers like rakes all the way to each wall, the better to scrape or caress or...?)
+(ID: In a studio with two arched windows, Horn stands in the middle of the room with two "gloves" extending their fingers like rakes all the way to each wall, the better to scrape or caress or...?)
 
 Here's an excerpt:
 
