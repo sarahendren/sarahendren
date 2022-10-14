@@ -15,4 +15,4 @@ Here's an excerpt:
 
 You can watch Horn perform the gloves in [this short video](https://www.youtube.com/watch?v=O0uNnmAudmk&t=82s)...and my [whole piece is here](https://www.artnews.com/art-in-america/features/five-artists-disability-art-1234642880/).
 
-
+If you'd like a digest of these posts in my occasional (7-8 times/year) newsletter, signup is [here](https://sarahendren.substack.com/). 
