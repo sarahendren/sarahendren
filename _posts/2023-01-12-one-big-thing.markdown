@@ -1,6 +1,7 @@
 ---
 title: one big thing
 date: 2023-01-12 17:27:00 -05:00
+published: false
 ---
 
 Chances are that you belong to some mission-minded nonprofit group that relies on your volunteerism to get its work done in a given year. Schools, churches and synagogues and mosques, kids' teams and clubs. They all have a stream of requests. And chances are also that, in the same way we all think we're slightly better than average drivers, we also think that we're slightly more busy than the average volunteer. (You're probably not.) It keeps many of us hesitating from signing up for volunteer jobs. Or it keeps us half-heartedly following along while someone else runs those jobs and feeling vaguely guilty all year long while raising our hands to lightly assist here or there.
