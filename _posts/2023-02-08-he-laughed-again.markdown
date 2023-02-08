@@ -9,7 +9,7 @@ But I daresay I have it best, in the end, because I'm reading it aloud to my 12-
 
 Much to love about the end of *The Two Towers*, but these lines are still banging around my head:
 
->[Sam]: ... I wonder if we shall ever be put into songs or tales. We're in one, of course, but I mean: put into words you know, told by the fireside, or read out of a great big book with red and black letters, years and years afterwards. And people will say: "Let's hear about Frodo and the Ring!" And they'll say: "Yes, that's one my favorite stories. Frodo was very brave, wasn't he, dad?" "Yes, my boy, the famousest of hobbits, and that's saying a lot."
+>(Sam): ... I wonder if we shall ever be put into songs or tales. We're in one, of course, but I mean: put into words you know, told by the fireside, or read out of a great big book with red and black letters, years and years afterwards. And people will say: "Let's hear about Frodo and the Ring!" And they'll say: "Yes, that's one my favorite stories. Frodo was very brave, wasn't he, dad?" "Yes, my boy, the famousest of hobbits, and that's saying a lot."
 >
 >"It's saying a lot too much," said Frodo, and he laughed, a long clear laugh from his heart. Such a sound had not been heard in those places since Sauron came to Middle-earth. To Sam suddenly it seemed as if all the stones were listening and the tall rocks leaning over them.
 >
