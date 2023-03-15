@@ -1,6 +1,6 @@
 ---
 title: against descriptive projects
-date: 2023-03-14 23:30:00 -04:00
+date: 2023-03-14 22:30:00 -04:00
 ---
 
 Becca Rothfeld, [on her hiatus from academic philosophy](https://substack.com/inbox/post/108450546) while she joins WaPo as book critic:
