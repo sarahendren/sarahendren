@@ -13,5 +13,5 @@ date: 2023-05-16 17:18:00 -04:00
 
 — Gap year in classics as a required preparatory experience before you start. Establish shared terms, historical eras, key concepts that appear in any ethics-minded curricula once technical education begins.
 
-And so forth. How will they be prepared, you ask? Ask these three graduates of St. John's College—where everybody studies math and science and classics and philosophy and literature and music, all in nearly lock=step sequence—[how they founded an AI startup](https://www.sjc.edu/news/ai-startup-natural-place-johnnies). It's not the tech that's hard.
+And so forth. How will they be prepared, you ask? Ask these three graduates of St. John's College—where everybody studies math and science and classics and philosophy and literature and music, all in nearly lock-step sequence—[how they founded an AI startup](https://www.sjc.edu/news/ai-startup-natural-place-johnnies). It's not the tech that's hard.
 
