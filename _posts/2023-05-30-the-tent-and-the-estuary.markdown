@@ -7,15 +7,9 @@ You work in inclusive design? *Ah yes, ok*, you say, so — what you inclusive d
 
 Well, yes, but this is the mental model of the **tent**: as in, *There's a historically sequestered nexus of goods, both physical goods and the civic enfranchisement that goes with them, and good designers help bring more people from outside the tent to inside.* That's desirable, of course. One could hardly be against it. But the tent assumes there are clear insiders and clear outsiders, and that the outsiders are waiting to be brought in, trickle-down style, to where knowledge is being made.
 
-![big white tent.jpg](/uploads/big%20white%20tent.jpg)
-[a big white tent on poles, erected in a green landscape]
-
 Or, in another way: the tent mentality invites some insider-outsider haggling as the whole project. Who speaks for the inclusivity? How authentic is their voice? Who can say what passes for properly inclusive, or semi-inclusive, or not inclusive at all? The tent can just as easily devolve into the groupthink pitfalls that plague so many movement spaces.
 
 The mental model for disability and design I'm trying to promote instead is an **estuary**: the place where fresh waters meet salt waters, and the extraordinarily productive habitats and ecosystems that arise there. 
-
-![estuary.jpg](/uploads/estuary.jpg)
-[an aerial shot of an estuary system, with meandering waterways and the green fecundity where they meet]
 
 The places where disability meets the built world are generous and generative. They have multiple catalysts and multiple scales on which they work: disabled people, their caregivers or families, the designers and engineers who accompany them, all working on parallel projects. Some of them are "universal" in that tent-expansion mode, but many are tiny inventive matters: things like [iPad orchestras](https://www.fastcompany.com/3004039/how-ipads-bob-marleys-one-love-help-these-autistic-high-schoolers-make-sweet-music) and the [modesty of magnetized buttons](https://magnaready.com/)  and the [sensory switch of goal ball](https://en.wikipedia.org/wiki/Goalball) and yes, the infrastructural scale of [closed captioning](https://www.ncicap.org/history-of-cc), thanks to deaf communities.
 
