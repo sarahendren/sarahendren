@@ -15,3 +15,6 @@ The places where disability meets the built world are generous and generative. T
 
 Lots of earnest people want to do this work well, and they want instructions: Tell me how to expand the tent. But the estuary is far more apt — the unpredictable and multivalent world of making, adapting, refashioning, hacking and lobbying for designs big and small.
 
+![estuary.jpg](/uploads/estuary.jpg)
+
+[an aerial shot of a river meeting the ocean in a web of tributaries and surrounded by the fecundity of green growth]
