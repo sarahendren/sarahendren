@@ -13,7 +13,7 @@ The mental model for disability and design I'm trying to promote instead is an *
 
 The places where disability meets the built world are generous and generative. They have multiple catalysts and multiple scales on which they work: disabled people, their caregivers or families, the designers and engineers who accompany them, all working on parallel projects. Some of them are "universal" in that tent-expansion mode, but many are tiny inventive matters: things like [iPad orchestras](https://www.fastcompany.com/3004039/how-ipads-bob-marleys-one-love-help-these-autistic-high-schoolers-make-sweet-music) and the [modesty of magnetized buttons](https://magnaready.com/)  and the [sensory switch of goal ball](https://en.wikipedia.org/wiki/Goalball) and yes, the infrastructural scale of [closed captioning](https://www.ncicap.org/history-of-cc), thanks to deaf communities.
 
-Lots of earnest people want to do this work well, and they want instructions: Tell me how to expand the tent. But the estuary is far more apt — the unpredictable and multivalent world of making, adapting, refashioning, hacking and lobbying for designs big and small.
+Lots of earnest people want to do this work well, and they want simple instructions: Tell me how to expand the tent. But the estuary is far more apt — the unpredictable and multivalent world of making, adapting, refashioning, hacking and lobbying for designs big and small.
 
 ![estuary.jpg](/uploads/estuary.jpg)
 
