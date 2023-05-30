@@ -6,6 +6,8 @@ date: 2023-05-30 10:13:00 -04:00
 You work in inclusive design? *Ah yes, ok*, you say, so — what you inclusive designers want is a world designed in ways that connect more people to the social and political goods of the polis. You want us all to be more aware, to gather more people into the mainstream. You want your fellow designers to make more flexible sidewalks, and thresholds, and bus stops, and apps and interfaces, right? You want a world that had been restricted by its orientation toward the great average middle — people who ambulate on two legs easily, who see and hear and sense in the range of the bell curve, who process the intelligible world at a quick and easy rate - you want that world expanded at its edges, made more welcoming for all?
 
 Well, yes, but this is the mental model of the **tent**: as in, *There's a historically sequestered nexus of goods, both physical goods and the civic enfranchisement that goes with them, and good designers help bring more people from outside the tent to inside.* That's desirable, of course. One could hardly be against it! But the tent assumes there are clear insiders and clear outsiders, and that the outsiders are waiting to be brought in, trickle-down style, to where knowledge is being made.
+>
+![big white tent.jpg](/uploads/big%20white%20tent.jpg)
 
 Or, in another way: the tent mentality invites some insider-outsider haggling as the whole project. Who speaks for the inclusivity? How authentic is their voice? Who can say what passes for properly inclusive, or semi-inclusive, or not inclusive at all? The tent can just as easily devolve into the groupthink pitfalls that plague so many movement spaces.
 
