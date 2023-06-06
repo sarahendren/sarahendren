@@ -1,6 +1,11 @@
 ---
 title: idealism and modesty
 date: 2023-06-06 13:12:00 -04:00
+tags:
+- bioethics
+- medical humanities
+- disability
+- health
 ---
 
 [Farr Curlin and Christopher Tollefsen](https://undpress.nd.edu/9780268200862/the-way-of-medicine/):
