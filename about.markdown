@@ -6,7 +6,7 @@ image: "/uploads/sara%20headshot.jpg"
 layout: about
 ---
 
-Sara Hendren is an artist, design researcher, writer, professor at [Olin College of Engineering](http://www.olin.edu), and the creator and host of [the Sketch Model podcast](https://open.spotify.com/show/7k84pjLtVVssV1bWzT6Bxv). She is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), published by Riverhead/Penguin Random House. It was chosen as a Best Book of the Year by NPR and won the Science in Society Journalism book prize. Sign up for her newsletter [here](https://sarahendren.substack.com/). 
+Sara Hendren is an artist, design researcher, writer, professor at [Olin College of Engineering](http://www.olin.edu). She is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), published by Riverhead/Penguin Random House. It was chosen as a Best Book of the Year by NPR and won the Science in Society Journalism book prize. Sign up for her newsletter [here](https://sarahendren.substack.com/). 
 
 
 Sara is a humanist in tech. Her work of 2010-2020 includes collaborative
