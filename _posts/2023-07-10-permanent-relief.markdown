@@ -3,7 +3,7 @@ title: permanent relief
 date: 2023-07-10 14:38:00 -04:00
 ---
 
-[Dhananjay Jagannathan](https://plus.thebulwark.com/p/what-canadas-euthanasia-advocates)
+[Dhananjay Jagannathan](https://plus.thebulwark.com/p/what-canadas-euthanasia-advocates):
 
 >Not only is having a mental health issue on the verge of becoming a qualifying condition; advocacy groups are now calling for Canada to expand access to so-called “mature minors” who meet the government’s criteria for making their own decisions about their health. If the MAiD law is reformed again to make this further accommodation, suicidal teenagers seeking help could find themselves choosing between two sets of public resources: one intended to help them get through their crisis, and one intended to help them end it all. Trouble is already here: In 2021, fully one in six euthanasia recipients cited “isolation or loneliness” as one source of the suffering from which they sought permanent relief.
 
