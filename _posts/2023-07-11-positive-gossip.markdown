@@ -1,5 +1,5 @@
 ---
-title: positive gossip
+title: positive gossipers
 date: 2023-07-11 13:10:00 -04:00
 ---
 
