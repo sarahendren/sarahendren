@@ -9,7 +9,7 @@ Useful to see Jarrett Fuller's [meditation on](https://www.jarrettfuller.blog/20
 
 [a house drawing with concentric lines around its perimeter labeled site, structure, skin, service, space plan, and stuff]
 
-This image helps students see all the scales of design at work in the envelope of a building — all the little dials one could turn to change the weight of stylistic emphasis or deploy adaptive reuse. And here's Jarrett's own version for graphic design education:
+This image helps students see all the scales of design at work in the envelope of a building — all the little dials one could turn to, say, change the weight of stylistic emphasis or deploy adaptive reuse. And here's Jarrett's own version for graphic design education:
 
 ![230727_design-ed.jpg](/uploads/230727_design-ed.jpg)
 
