@@ -1,0 +1,19 @@
+---
+title: shearing layers and finishing sentences
+date: 2023-07-31 10:52:00 -04:00
+---
+
+Useful to see Jarrett Fuller's [meditation on](https://www.jarrettfuller.blog/2023/07/shearing-layers/) architect Frank Duffy's "shearing layers" to understand what's happening in architecture:
+
+![Shearing layers jpg.jpg](/uploads/Shearing%20layers%20jpg.jpg)
+
+This image helps students see all the scales of design at work in the envelope of a building — all the little dials one could turn to change the weight of stylistic emphasis or deploy adaptive reuse. And here's Jarrett's own version for graphic design education:
+
+![230727_design-ed.jpg](/uploads/230727_design-ed.jpg)
+
+I agree with him that the "slower layers" are really the bedrock of our work together, making possible a considered and prudent use of the professionally-oriented and timely, topical layers. But as [I've been reporting here](https://sarahendren.com/2023/07/27/not-a-philosophy-of-architecture/), I want first-order questions even more than a midlevel "ethics." Jarrett says the following, admirably:
+
+>Every project, every class, would be grounded in thinking about environmental concerns, capitalism and consumerism, power and inequality. Students would question who gets left out of processes and who doesn’t have access to technology. They’d have to consider how the work is paid for and who is benefitting.  
+
+And yes — these are worthy subjects! But I want students to have to dig into the philosophical *foundations* for these ethics (sometimes called meta-ethics) to see what's happening in their power analysis. (After all, power analysis, as typically framed in the American university, has a specific history owed to Foucault and his heirs. This approach is essential! And/but it can also create the same kinds of parochial dogma that the ethics layer is trying to circumvent.) The bottom line is this: I don't want students to be able to finish each other's sentences. I want the ethics layer to be sufficiently thorny that a variety of design approaches would have to be considered.
+
