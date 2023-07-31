@@ -1,6 +1,8 @@
 ---
 title: shearing layers and finishing sentences
 date: 2023-07-31 10:52:00 -04:00
+tags:
+- teaching
 ---
 
 Useful to see Jarrett Fuller's [meditation on](https://www.jarrettfuller.blog/2023/07/shearing-layers/) architect Frank Duffy's "shearing layers" to understand what's happening in architecture:
