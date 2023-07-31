@@ -7,9 +7,13 @@ Useful to see Jarrett Fuller's [meditation on](https://www.jarrettfuller.blog/20
 
 ![Shearing layers jpg.jpg](/uploads/Shearing%20layers%20jpg.jpg)
 
+[a house drawing with concentric lines around its perimeter labeled site, structure, skin, service, space plan, and stuff]
+
 This image helps students see all the scales of design at work in the envelope of a building — all the little dials one could turn to change the weight of stylistic emphasis or deploy adaptive reuse. And here's Jarrett's own version for graphic design education:
 
 ![230727_design-ed.jpg](/uploads/230727_design-ed.jpg)
+
+[the same house drawing with concentric lines around its perimeter labeled ethics, theory, methods, profession, technology, visual trends]
 
 I agree with him that the "slower layers" are really the bedrock of our work together, making possible a considered and prudent use of the professionally-oriented and timely, topical layers. But as [I've been reporting here](https://sarahendren.com/2023/07/27/not-a-philosophy-of-architecture/), I want first-order questions even more than a midlevel "ethics." Jarrett says the following, admirably:
 
