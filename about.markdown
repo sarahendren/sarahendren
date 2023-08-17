@@ -19,9 +19,9 @@ the human body and technology. You might be interested in:
 
 — a [navigational cane that plays music](http://aplusa.org/projects/acoustic-mobility-device-carmen-papalia/)
   
-— a street art effort that became the [Accessible Icon Project](https://sarahendren.com/projects-lab/accessible-icon-project/) 
+— a street art effort that became the [Accessible Icon Project](https://accessibleicon.org/) 
 
-— a digital archive of low-tech prosthetics called [Engineering at Home](https://sarahendren.com/projects-lab/engineering-at-home/)
+— a digital archive of low-tech prosthetics called [Engineering at Home](http://engineeringathome.org/)
  
 — a long-running obsession [with the inclined plane](https://sarahendren.com/projects-lab/slope-intercept/)
 
