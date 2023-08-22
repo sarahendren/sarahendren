@@ -3,9 +3,8 @@ title: home
 date: 2016-05-01 10:28:00 -04:00
 permalink: "/"
 position: 0
-welcome-text: "<b>sara hendren</b> is an artist, design researcher, writer, and professor.
-  her internal engine is built of questions: the restless kind, the impractical and
-  the practical together. maybe yours is too? >>"
+welcome-text: "<b>sara hendren</b> is an artist, design researcher, writer, and professor
+  >>"
 layout: home
 ---
 
