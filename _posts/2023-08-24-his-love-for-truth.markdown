@@ -1,5 +1,5 @@
 ---
-title: his love for truth
+title: his love of truth
 date: 2023-08-24 20:58:00 -04:00
 ---
 
