@@ -3,7 +3,7 @@ title: less well rehearsed
 date: 2023-08-31 12:51:00 -04:00
 ---
 
-— The song that you save, even hide from yourself and your audio landscape, so that you won't hear it too often and therefore preserve the direct heat-and-light connection to its association in your memory. The song that is tied to a memory so sweet — or maybe so painful — that you want to preserve its power over you. Some songs you reach for, wanting this time capsule. But the more precious ones you withhold from yourself.
+— The song that you save, even hide from yourself and your audio landscape, so that you won't hear it too often and therefore preserve the direct heat-and-light connection to its association in your memory. The song that is tied to a memory so sweet — or maybe so painful — that you want to preserve its power over you. Some songs you reach for, wanting the time capsule. But the more precious ones you withhold from yourself.
 
 — Conversely: the song that you drag out of the bin because it is just *so* melancholy to hear it — there is so much pathos in its DNA — and you need a hit of it occasionally to remind yourself that you survived that era. A little like pushing on a loose tooth, an assurance that there's relief when you decide to stop. You came through that time but that song holds you in amber, that time you thought things would never change, when you were too young to know that (blah blah) only-change-coming-at-ya is both the good news and the bad news. Still, though: that was then, this is now.
 
