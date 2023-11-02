@@ -8,7 +8,7 @@ layout: about
 
 Sara Hendren is a writer, design researcher, artist, and cultural producer. Sign up for her newsletter [here](https://sarahendren.substack.com/). 
 
-Sara is a humanist in tech. Her work of 2010-2020 includes collaborative
+Sara's work of 2010-2020 includes collaborative
 public art, social design, and writing that reframes
 the human body and technology. You might be interested in:
 
