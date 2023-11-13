@@ -11,7 +11,7 @@ Ursula LeGuin, near the end of *The Tombs of Atuan*:
 >
 >What she had begun to learn was the weight of liberty. Freedom is a heavy load, a great and strange burden for the spirit to undertake. It is not easy. It is not a gift given, but a choice made, and the choice may be a hard one. The road goes upward toward the light; but the laden traveler may never reach the end of it.
 
-Malcolm and I finished the *Tombs* and will move on to see Tenar through in *The Farthest Shore*, but first we're taking a break with Tim O'Brien's *The Things They Carried*. 
+Malcolm and I finished *Tombs* and will move on to see Tenar through in *The Farthest Shore*, but first we're taking a break with Tim O'Brien's *The Things They Carried*. 
 
 More, though: I needed the little message from LeGuin, mother and writer, packed into the Afterword of *Tombs*. She had no plans for a sequel, much less a trilogy. She even resisted the idea, since Tolkien's influential trilogy weighed so heavily on the literature of fantasy. But, she said, "a writer sometimes writes a message for herself, to be read when she begins to understand it." And a road trip that followed her completion of *The Left Hand of Darkness* set her mind alight:
 
