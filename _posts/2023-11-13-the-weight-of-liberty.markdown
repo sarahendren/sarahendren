@@ -1,6 +1,6 @@
 ---
 title: the weight of liberty
-date: 2023-11-11 22:28:00 -05:00
+date: 2023-11-13 11:40:00 -05:00
 ---
 
 Ursula LeGuin, near the end of *The Tombs of Atuan*:
