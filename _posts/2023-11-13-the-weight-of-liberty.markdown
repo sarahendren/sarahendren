@@ -13,7 +13,7 @@ Ursula LeGuin, near the end of *The Tombs of Atuan*:
 
 Malcolm and I finished *Tombs* and will move on to *The Farthest Shore*, but first we're taking a break with Tim O'Brien's *The Things They Carried*. 
 
-More, though: I needed the little message from LeGuin, mother and writer, packed into the Afterword of *Tombs*. She had no plans for a sequel, much less a trilogy. She even resisted the idea, since Tolkien's influential trilogy weighed so heavily on the literature of fantasy. But, she said, "a writer sometimes writes a message for herself, to be read when she begins to understand it." And a road trip that followed her completion of *The Left Hand of Darkness* set her mind alight:
+More, though: I needed the little message from LeGuin, mother and writer, packed into the Afterword of *Tombs*. She had no plans for a sequel, much less a trilogy (and beyond!). She even resisted the idea, since Tolkien's influence weighed so heavily on the literature of fantasy. But, she said, "a writer sometimes writes a message for herself, to be read when she begins to understand it." And a road trip that followed her completion of *The Left Hand of Darkness* set her mind alight:
 
 >When [*Left Hand of Darkness*] was done, I thought: *What next?* and looked around in my mind. There was Ged and his world, Earthsea, vivid and alive, ready to be explored further. And there was that interesting phrase about bringing a ring from the Tombs of Atuan...Atuan was a Kargish island. I hadn't thought much about the Kargs. Very different people from the Archipelagans. White-skinned barbarians, pirates, untrustworthy folk. But if you were a Karg, who might you be? Whom would you trust? Where would you live? What was Atuan like?
 >
