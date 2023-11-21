@@ -1,7 +1,6 @@
 ---
 title: sara hendren
 timezone: America/New_York
-url: https://sarahendren.com
 collections:
   abler-archive:
     title: Abler Archive
@@ -58,6 +57,7 @@ defaults:
   values:
     parent: "/reading-notes/"
     layout: reading-note
+url: https://sarahendren.com
 permalink: pretty
 plugins:
 - jekyll-redirect-from
