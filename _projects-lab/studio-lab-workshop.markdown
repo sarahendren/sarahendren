@@ -20,7 +20,7 @@ I’m happy to be joining [Olin College](http://www.olin.edu/) next year, as a p
 
 I’ve been saying for some years now that my wish is to be as close to science-making as possible: that is, not merely teaching complementary art and design practices for young scientists in training, but to be in the formative stages of research and development much further upstream in the process. Asking collaboratively: What research questions are worthy questions? What populations and individuals hold stakes in these questions? Are there important queries that are forgotten? Could parallel questions be pursued in tandem—some quantitative, others qualitative? And how do we engage multiple publics in high-stakes research?
 
-![TheImmortal_3158-A4.jpg](/uploads/TheImmortal_3158-A4.jpg)
+![TheImmortal_3158-A4.jpg]({{ site.url }}/uploads/TheImmortal_3158-A4.jpg)
 
 The Immortal, described by Cohen van Balen: Webs of tubes and electric cords are interwoven in closed circuits through a Heart-Lung Machine, Dialysis Machine, an Infant Incubator, a Mechanical Ventilator and an Intraoperative Cell Salvage Machine. The organ replacement machines operate in orchestrated loops, keeping each other alive through circulation of electrical impulses, oxygen and artificial blood.
 
@@ -30,7 +30,7 @@ To put it another way: What happens when extra-disciplinary inquiry lives alongs
 
 Gray has drawn a rectangular box, indicating the crossing paths of flows across the surface as the generalist's domain, and the lines down into its depth as the specialist's pursuit.
 
-![david_gray_generalists.jpg](/uploads/david_gray_generalists.jpg)
+![david_gray_generalists.jpg]({{ site.url }}/uploads/david_gray_generalists.jpg)
 
 Breadth, he says, is the characteristic of the generalist, and depth the characteristic of the specialist. A thriving academic research program surely needs both: but not just in the forms of symposia, scholarly ethics, or data visualization to (once more) “complement” or even complicate the science. It’s the last note of Gray’s that I’m particularly paying attention to, because it’s what good critical design and hybrid arts practices often do best: They act as boundary objects. 
 

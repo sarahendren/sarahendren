@@ -7,13 +7,13 @@ tags:
 
 Useful to see Jarrett Fuller's [meditation on](https://www.jarrettfuller.blog/2023/07/shearing-layers/) architect Frank Duffy's "shearing layers" to understand what's happening in architecture:
 
-![Shearing layers jpg.jpg](/uploads/Shearing%20layers%20jpg.jpg)
+![Shearing layers jpg.jpg]({{ site.url }}/uploads/Shearing%20layers%20jpg.jpg)
 
 [a house drawing with concentric lines around its perimeter labeled site, structure, skin, service, space plan, and stuff]
 
 This image helps students see all the scales of design at work in the envelope of a building — all the little dials one could turn to, say, change the weight of stylistic emphasis or deploy adaptive reuse. And here's Jarrett's own version for graphic design education:
 
-![230727_design-ed.jpg](/uploads/230727_design-ed.jpg)
+![230727_design-ed.jpg]({{ site.url }}/uploads/230727_design-ed.jpg)
 
 [the same house drawing with concentric lines around its perimeter labeled ethics, theory, methods, profession, technology, visual trends]
 

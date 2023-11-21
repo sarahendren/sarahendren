@@ -5,7 +5,7 @@ tags:
 - design
 ---
 
-![eyeo new nouns jpg-901b6f.jpg](/uploads/eyeo%20new%20nouns%20jpg-901b6f.jpg)
+![eyeo new nouns jpg-901b6f.jpg]({{ site.url }}/uploads/eyeo%20new%20nouns%20jpg-901b6f.jpg)
 
 Speaking of [roles for the designer](http://sarahendren.com/reading-notes/ninety-percent-of-the-job/): I gave a talk last year at the Eyeo Festival about (among other things) [finding new names for describing design](https://vimeo.com/179040817): as translator, believer, impresario, midwife and more. 
 

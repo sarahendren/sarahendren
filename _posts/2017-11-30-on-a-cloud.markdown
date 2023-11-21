@@ -7,6 +7,6 @@ Gizmodo [has a story](https://gizmodo.com/the-last-of-the-iron-lungs-1819079169)
 
 Lately I've been reading about the disability rights pioneer [Ed Roberts](https://en.wikipedia.org/wiki/Ed_Roberts_(activist)), pictured below. He also used an iron lung and, like some of the characters in the Gizmodo piece, thought of it as an extension of his body—a friend, even. He said it felt like "floating on a cloud."
 
-![ed roberts.jpg](/uploads/ed%20roberts.jpg)
+![ed roberts.jpg]({{ site.url }}/uploads/ed%20roberts.jpg)
 
 Giz link via [David Perry](http://www.thismess.net/).

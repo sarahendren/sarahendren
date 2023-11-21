@@ -6,4 +6,4 @@ published: false
 
 Chris was one of the collaborators in my lab of the last several years. He was born with one arm, so he 
 
-[clamp1.mov](/uploads/clamp1.mov)
+[clamp1.mov]({{ site.url }}/uploads/clamp1.mov)
