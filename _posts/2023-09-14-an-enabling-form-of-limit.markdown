@@ -11,5 +11,5 @@ Steve Connor, in [A Philosophy of Sport](https://www.amazon.com/Philosophy-Sport
 
 I'm writing a short essay about disability and sports, but mostly I'm anticipating the new season of Unified Basketball for young Graham, 17, shown here poised under the basket. He misses most attempts. But we got the miracle of a buzzer beater he made as a freshman on video and it is — just, well, pure joy.
 
-![smaller graham unified.jpg](/uploads/smaller%20graham%20unified.jpg)
+![smaller graham unified.jpg]({{ site.url }}/uploads/smaller%20graham%20unified.jpg)
 

@@ -3,7 +3,7 @@ title: a cutting of chai
 date: 2017-12-19 07:26:00 -05:00
 ---
 
-![a cutting of chai.jpg](/uploads/a%20cutting%20of%20chai.jpg)
+![a cutting of chai.jpg]({{ site.url }}/uploads/a%20cutting%20of%20chai.jpg)
 
 I'm in Ahmedabad doing book research, and it's my first time to India. I could say so much about being here, and eventually I will in the book or elsewhere. But one tiny thing is this serving of chai that you get on the street. A small cupful, like an espresso shot. You call it "a cutting"—as though you were ordering a clipped portion of the whole, even though the whole is an unspecified and varying amount.
 

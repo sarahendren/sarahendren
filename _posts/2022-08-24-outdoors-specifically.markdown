@@ -5,7 +5,7 @@ date: 2022-08-24 07:58:00 -04:00
 
 In July, I went to Laity Lodge in the hill country of Texas—an incredibly raw and beautiful landscape—and twice I hiked to a swimming hole with my friend [Claire](https://www.claireholley.com/). It was sublime: afternoon walk in dappled shade, breaking a sweat, climbing up and up, and then arriving to deep water for instant resuscitation. Here's that swimming hole, a deep blue glassy surface surrounded by rock edge, and crowned by low-growing green brush on the surrounding hill of oyster-colored stone: 
 
-![laity swimming hole-396d9d.jpg](/uploads/laity%20swimming%20hole-396d9d.jpg)
+![laity swimming hole-396d9d.jpg]({{ site.url }}/uploads/laity%20swimming%20hole-396d9d.jpg)
 
 I told my friend John about this when I got back. He grew up in West Virginia, has lived all over the world, and said this is his favorite combination outing: a hike to a swimming hole for "agua dolce," he said. He kind of collects these experiences in as many places as he can. I see why.
 
