@@ -1,5 +1,5 @@
 ---
-title: public-facing dog
+title: public-facing
 date: 2023-11-27 13:50:00 -05:00
 ---
 
