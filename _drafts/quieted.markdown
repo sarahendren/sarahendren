@@ -1,6 +1,6 @@
 ---
 title: quieted
-date: 2023-11-29 09:02:00 -05:00
+date: 2023-12-05 16:33:00 -05:00
 ---
 
 My father spent his working life as a small-town doctor in Arkansas, and the longest period of it in a clinic that was first owner-operated by the physicians themselves, and then sold, and then sold again, in the way we've all watched play out in healthcare over the last several decades.
