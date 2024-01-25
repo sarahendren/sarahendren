@@ -6,7 +6,7 @@ image: "/uploads/sara%20headshot.jpg"
 layout: about
 ---
 
-Sara Hendren is a writer, design researcher, artist, and cultural producer. Sign up for her newsletter [here](https://sarahendren.substack.com/). 
+Sara Hendren is a writer, design researcher, artist, and cultural producer. Sign up for her newsletter [here](https://sarahendren.substack.com/). You can also sign up for a weekly digest of all the things I write [here](https://ablerism.micro.blog/subscribe/).
 
 Sara's work of 2010-2020 includes collaborative
 public art, social design, and writing that reframes
