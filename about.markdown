@@ -6,9 +6,9 @@ image: "/uploads/sara%20headshot.jpg"
 layout: about
 ---
 
-Sara Hendren is a writer, design researcher, artist, and cultural producer. Sign up for her newsletter [here](https://sarahendren.substack.com/). You can also sign up for a weekly digest of all the things I write [here](https://ablerism.micro.blog/subscribe/).
+Sara Hendren is a writer, design researcher, artist, and cultural producer. Sign up for my newsletter [here](https://sarahendren.substack.com/). You can also sign up for a weekly digest of all the things I write [here](https://ablerism.micro.blog/subscribe/). A condensed bio is at the bottom of this page.
 
-Sara's work of 2010-2020 includes collaborative
+My work of 2010-2020 includes collaborative
 public art, social design, and writing that reframes
 the human body and technology. You might be interested in:
 
@@ -30,7 +30,11 @@ She is the author of [What Can A Body Do? How We Meet the Built World](https://w
 
 Starting in 2023, after nine years at Olin College of Engineering, Sara will join the CAMD faculty at Northeastern University, where she'll pursue an expanded research program on the material culture of the assisted body over the life span: birth, death, and acute conditions of vulnerability. She is also a Newbigin Fellow with the Carver Project.
 
-Sara's work has been exhibited on the White House lawn under the Obama administration, at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art, among other venues, and is held in the permanent collections of the Museum of Modern Art and the Cooper Hewitt Museum. She has been a National Fellow at the New America think tank, and her work has been supported by an NEH Public Scholar grant, the Graham Foundation, residencies at Yaddo and the Carey Institute for Global Good, and an Artist Fellowship from the Massachusetts Cultural Council. Her writing has appeared in the [New York Times](https://www.nytimes.com/2021/07/16/opinion/cities-reopening-time.html), [Wired](https://www.wired.com/story/prosthetics-disability-future-of-work/), [Art in America](https://www.artnews.com/art-in-america/features/five-artists-disability-art-1234642880/), and other publications.
+Sara's work has been exhibited on the White House lawn under the Obama administration, at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art, among other venues, and is held in the permanent collections of the Museum of Modern Art and the Cooper Hewitt Museum. She has been a National Fellow at the New America think tank, and her work has been supported by an NEH Public Scholar grant, the Graham Foundation, residencies at Yaddo and the Carey Institute for Global Good, and an Artist Fellowship from the Massachusetts Cultural Council. Her writing has appeared in [Harper's](https://harpers.org/archive/2023/12/bonnyrigg-scotland-sensory-workshop/) the [New York Times](https://www.nytimes.com/2021/07/16/opinion/cities-reopening-time.html), [Wired](https://www.wired.com/story/prosthetics-disability-future-of-work/), [Art in America](https://www.artnews.com/art-in-america/features/five-artists-disability-art-1234642880/), and other publications.
 
 
 More: I live in Cambridge, Mass., with [my husband](http://www.brianfunck.com/) and three children. [This lecture](https://vimeo.com/134764010), followed by [this one](https://vimeo.com/179040817), remain good introductions to my last decade of work. [Full CV](https://drive.google.com/file/d/1cGcNBLj9LSz7miF5c_v3xQ_7pCvv9wya/view?usp=sharing) and [portfolio](https://drive.google.com/file/d/1pQ_b_FmzbFdQzK3AIGRBU3EiTIyIrdpm/view?usp=sharing).
+
+Short bio: 
+
+Sara Hendren is an artist, design researcher, writer, and professor at Northeastern University. Her book *What Can A Body Do? How We Meet the Built World* explores the places where disability shows up in design at all scales: assistive technology, furniture, architecture, urban planning, and more. It was named one of the Best Books of 2020 by NPR and won the 2021 Science in Society Journalism book prize. Her art and design works have been exhibited on the White House lawn under the Obama presidency, at the Victoria & Albert Museum, the Seoul Museum of Art, the Vitra Museum, and many others, and her work is held in the permanent collections at MoMA and the Cooper Hewitt. She has been an NEH Public Scholar and a fellow at New America, and her commentary and criticism have been published in Harper’s, Art in America, The New York Times, the Washington Post, and elsewhere.
