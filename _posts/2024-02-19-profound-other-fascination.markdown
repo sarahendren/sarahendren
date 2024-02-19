@@ -1,5 +1,5 @@
 ---
-title: profound other fascination
+title: profound-other-fascination
 date: 2024-02-19 14:24:00 -05:00
 ---
 
