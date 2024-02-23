@@ -6,9 +6,9 @@ image: "/uploads/sara%20headshot.jpg"
 layout: about
 ---
 
-Sara Hendren is a writer, design researcher, artist, and cultural producer. Sign up for my newsletter [here](https://sarahendren.substack.com/). You can also sign up for a weekly digest of all the things I write [here](https://ablerism.micro.blog/subscribe/). A condensed bio is at the bottom of this page.
+Sara Hendren is a writer, design researcher, artist, and cultural producer. Sign up for her newsletter [here](https://sarahendren.substack.com/). You can also sign up for a weekly digest of all the things she writes [here](https://ablerism.micro.blog/subscribe/). A condensed bio is at the bottom of this page.
 
-My work of 2010-2020 includes collaborative
+Sara's work of 2010-2020 includes collaborative
 public art, social design, and writing that reframes
 the human body and technology. You might be interested in:
 
@@ -23,6 +23,8 @@ the human body and technology. You might be interested in:
 — a digital archive of low-tech prosthetics called [Engineering at Home](http://engineeringathome.org/)
  
 — a long-running obsession [with the inclined plane](https://sarahendren.com/projects-lab/slope-intercept/)
+
+— a six-part podcast I produced and hosted about [ethics in engineering education](https://open.spotify.com/show/7k84pjLtVVssV1bWzT6Bxv)
 
 — [a four-year effort](https://www.olin.edu/sketchmodel) to bring more arts and humanities to higher-ed STEM called Sketch Model: artists' residencies, student fellowships, and seed funds for faculty and staff.
 
