@@ -24,7 +24,7 @@ the human body and technology. You might be interested in:
  
 — a long-running obsession [with the inclined plane](https://sarahendren.com/projects-lab/slope-intercept/)
 
-— a six-part podcast I produced and hosted about [ethics in engineering education](https://open.spotify.com/show/7k84pjLtVVssV1bWzT6Bxv)
+— a six-part podcast Sara produced and hosted about [ethics in engineering education](https://open.spotify.com/show/7k84pjLtVVssV1bWzT6Bxv)
 
 — [a four-year effort](https://www.olin.edu/sketchmodel) to bring more arts and humanities to higher-ed STEM called Sketch Model: artists' residencies, student fellowships, and seed funds for faculty and staff.
 
