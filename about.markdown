@@ -8,7 +8,7 @@ layout: about
 
 Sara Hendren is a writer, design researcher, artist, and cultural producer. Sign up for her newsletter [here](https://sarahendren.substack.com/). You can also sign up for a weekly digest of all the things she writes [here](https://ablerism.micro.blog/subscribe/). A condensed bio is at the bottom of this page.
 
-Sara's work of 2010-2020 includes collaborative
+She is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), published by Riverhead/Penguin Random House. It was chosen as a Best Book of the Year by NPR and won the 2021 Science in Society Journalism book prize. Sara's work of 2010-2020 includes collaborative
 public art, social design, and writing that reframes
 the human body and technology. You might be interested in:
 
@@ -27,8 +27,6 @@ the human body and technology. You might be interested in:
 — a six-part podcast Sara produced and hosted about [ethics in engineering education](https://open.spotify.com/show/7k84pjLtVVssV1bWzT6Bxv), and relatedly:
 
 — [a four-year effort](https://www.olin.edu/sketchmodel) to bring more arts and humanities to higher-ed STEM called Sketch Model: artists' residencies, student fellowships, and seed funds for faculty and staff.
-
-She is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), published by Riverhead/Penguin Random House. It was chosen as a Best Book of the Year by NPR and won the Science in Society Journalism book prize. 
 
 Starting in 2023, after nine years at Olin College of Engineering, Sara will join the CAMD faculty at Northeastern University, where she'll pursue an expanded research program on the material culture of the assisted body over the life span: birth, death, and acute conditions of vulnerability. She is also a Newbigin Fellow with the Carver Project.
 
