@@ -1,0 +1,8 @@
+---
+title: postmodern nihilism after all
+date: 2024-05-05 14:27:00 -04:00
+---
+
+>Parfit’s mistake was the same as Moore’s. Moore thought that the open-question argument showed that goodness was special. But that argument can be deployed against any conceptual analysis (e.g. coconutness, chairness, bachelorhood); it doesn’t single out goodness in particular. Parfit thought that the repugnant conclusion showed that goodness was special. But the repugnant conclusion can be deployed against any natural relation – is-bigger-than, is-mightier-than, is-clearer-than, is-more-useful-than – and not to goodness (or is-better-than) in particular. The open-question argument and the repugnant conclusion are manifestations of the same general problem – a failure of analysis – a gap that forms whenever one seeks clarity by breaking wholes into parts. They’re no more endemic to goodness than natural selection is to finches or gravity is to apples.
+>
+>Humanity suffers from the crippling problem that it’s always possible to make things x-er (bigger, better, stronger, clearer). That, plus the desire, is all the repugnant conclusion needs to turn goodness into badness, strength into weakness, reason into madness, clarity into mud, A to B to C and all the way to Z. It targets governments, bureaucracies and institutions but it targets people too. We’re all trying to make ourselves x-er along some dimension or other, moving along a continuum, making incremental improvements and each time adding just a little bit of shit. And shit accumulates. Marx thought that capitalism would collapse under the weight of its own shit (its own “contradictions,” as he lovingly put it). The repugnant conclusion shouts back: so shall you all!
