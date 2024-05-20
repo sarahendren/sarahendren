@@ -13,7 +13,7 @@ Here's Egginton in a characteristically lucid explanation of the profundity of l
 >
 >Take one metaphor for knowledge, that of sight. Sight grants us an image of the world, yes, but an exceedingly partial one. Not only do we see very few images in any given moment, but even when we envision an object, we can only ever do so one aspect at a time. Now try to generalize or expand on that ability. Even to stretch the visualization of a single object beyond a single facet quickly runs aground. What is a cube when simultaneously viewed from all six sides? We quickly see that freeing the constraints of our perspective in such a way doesn't sharpen our understanding of the cube; instead, it obliterates it. Indeed, the very "cubeness" or "cubity" of the cube depends on our *not* being able to see more than three sides at a time. When we start to push the boundaries of this thought ever wider, this limitation becomes all the more apparent. Not only all visual discernment but every possible form of knowledge we can obtain about the world depends, radically and entirely, on its limitations in time and space. Seeing everything simultaneously or knowing all time in the blink of an eye would obliterate the very connection between objects and instances that constitutes knowing. Thus, although godlike knowledge in its ostensible freedom from bias may seem like a desirable goal, its realization even in theory leads to an absolute contradiction in terms.
 >
-And, with my emphasis added:
+And:
 >
 >What I can know is **always conditioned on an unconditioned whole** that I must presume to exist but that remains unknowable. Put another way, the minimum condition of any experience whatsoever is not being a god, whether a god of very small things or of very large ones.
 
