@@ -17,4 +17,4 @@ And:
 >
 >What I can know is **always conditioned on an unconditioned whole** that I must presume to exist but that remains unknowable. Put another way, the minimum condition of any experience whatsoever is not being a god, whether a god of very small things or of very large ones.
 
-If more thinkers were willing, like Egginton, to extend and elucidate the philosophical *implications* of physics in the actual physics classroom, we'd quickly realize much more of the so-called interdisciplinarity that so many of us claim to want. But the mastery of calculations is just easier in the end. To take uncertainty seriously would cede too much ground to the humanist's conundrum.
+If more thinkers were willing, like Egginton, to extend and elucidate the philosophical implications of physics in the actual physics classroom, we'd quickly realize much more of the so-called interdisciplinarity that so many of us claim to want. But the mastery of calculations is just easier in the end. To take uncertainty seriously would cede too much ground to the humanist's conundrum. 
