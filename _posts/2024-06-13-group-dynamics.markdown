@@ -9,4 +9,4 @@ Hoftstader: *[Godel, Escher, Bach](https://www.amazon.com/G%C3%B6del-Escher-Bach
 
 Jacobs: *[The Year of Our Lord 1943: Christian Humanism in an Age of Crisis](https://global.oup.com/academic/product/the-year-of-our-lord-1943-9780190864651?cc=us&lang=en&)* (on Maritain, Eliot, Lewis, Auden, Weil)
 
-Mann: *[The Wizard and the Prophet: Two Remarkable Scientists and their Dueling Visions to Shape Tomorrow's World](https://www.penguinrandomhouse.com/books/220698/the-wizard-and-the-prophet-by-charles-c-mann/* (on Norman Borlaug and William Vogt)
+Mann: *[The Wizard and the Prophet: Two Remarkable Scientists and their Dueling Visions to Shape Tomorrow's World](https://www.penguinrandomhouse.com/books/220698/the-wizard-and-the-prophet-by-charles-c-mann/)* (on Norman Borlaug and William Vogt)
