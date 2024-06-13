@@ -12,3 +12,5 @@ Jacobs: *[The Year of Our Lord 1943: Christian Humanism in an Age of Crisis](htt
 Mann: *[The Wizard and the Prophet: Two Remarkable Scientists and their Dueling Visions to Shape Tomorrow's World](https://www.penguinrandomhouse.com/books/220698/the-wizard-and-the-prophet-by-charles-c-mann/)* (on Norman Borlaug and William Vogt)
 
 Raboteau: *[American Prophets: Seven Religious Radicals and Their Struggle for Social and Political Justice](https://press.princeton.edu/books/hardcover/9780691164304/american-prophets)* (on Heschel, A.J. Muste, Day, Howard Thurman, Merton, King, Fannie Lou Hamer)
+
+Lindley: *[Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science](https://www.penguinrandomhouse.com/books/101691/uncertainty-by-david-lindley/)*
