@@ -14,3 +14,5 @@ Mann: *[The Wizard and the Prophet: Two Remarkable Scientists and their Dueling 
 Raboteau: *[American Prophets: Seven Religious Radicals and Their Struggle for Social and Political Justice](https://press.princeton.edu/books/hardcover/9780691164304/american-prophets)* (on Heschel, A.J. Muste, Day, Howard Thurman, Merton, King, Fannie Lou Hamer)
 
 Lindley: *[Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science](https://www.penguinrandomhouse.com/books/101691/uncertainty-by-david-lindley/)*
+
+Eichler: *[Time's Echo: The Second World War, the Holocaust, and the Music of Remembrance](https://www.penguinrandomhouse.com/books/576272/times-echo-by-jeremy-eichler/)* (on Strauss, Shostakovich, Schoenberg, Britten)
