@@ -1,6 +1,6 @@
 ---
 title: the how and the why, part 2
-date: 2024-06-11 10:03:00 -04:00
+date: 2024-06-14 10:03:00 -04:00
 tags:
 - higher ed
 ---
