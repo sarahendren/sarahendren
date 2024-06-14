@@ -1,6 +1,8 @@
 ---
 title: the how and the why
 date: 2024-06-10 11:08:00 -04:00
+tags:
+- higher ed
 ---
 
 This is likely to be the first in a series of meditations on the college decision-making process. My two younger kids are embarking on the process now, so I'm thinking about the subject personally; my job as a professor means I'm thinking about it in my workplace, too. And I hardly need to say that the big questions are in the zeitgeist after this academic year: What kind of four-year experiences are worth paying for? What's available in that developmental window that can be nurtured and drawn out in young people? For people who go to college, that period is one of the hinge moments to adulthood that can be life-changing in lasting ways. How should a parent think about it?
@@ -22,5 +24,7 @@ I think college should also be a mix of choices and constraints on a young perso
 Yuval Levin points to this as the need for [*formation* to be free](https://www.hachettebookgroup.com/titles/yuval-levin/a-time-to-build/9781541699281/?lens=basic-books). It's an old and celebrated idea, not unique to Levin. But he helpfully contrasts formation with the opposite incentives powering most contemporary institutions and media: that the self needs not formation but instead (acceptance-style) "platforms" for actualization. *Just decide what your values are*, we tell young people. *And then live them out.* As though each person could absorb a vapor of morality and politics and ethics, unaided, and produce a program for living from whole cloth. "Platforms" are needed to boost the atomized self alone. Formation, liberal-arts style, brings us in concert with the most durable historical ideas we should consider, internalize, reject or reform. Most "student-centered" educational models are structured to maximize choices of all kinds, with a facile, acceptance-led view of freedom. My own view is that true student-centeredness would require the paces of formation, in the pursuit of a freedom that has a better chance of making us both wise and happy. Not all people need college to be free and happy and wise. But if you're academically inclined and capable enough to *go* to college, the liberating arts should arrive to shape you.**
 
 So I don't think my job is to just facilitate my kids' shopping for a vibe-mood-and-maybe-my-major college selection experience. I think they need formative experiences to be free. But formation is in short supply everywhere! I don't get very far, even among fellow professors, when I bring this up. The autonomy-led, buffet-style, platform-burnishing model for higher education is thoroughly internalized in most places. You have to look pretty far and wide to find a strong sense of mission for forming young people into their free future selves. In upcoming posts I'll walk through some of my research and working criteria for thinking through this mix of choices and constraint for my own family.  
+
+Part 2 is [here](https://sarahendren.com/2024/06/11/the-how-and-the-why-part-2/).
 
 **In one of my future posts, I'll talk about the ways having one child with Down syndrome, and therefore not traditionally college-bound, has also shaped my convictions about the liberal arts.
