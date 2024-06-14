@@ -1,6 +1,8 @@
 ---
 title: the how and the why, part 2
 date: 2024-06-11 10:03:00 -04:00
+tags:
+- higher ed
 ---
 
 So we've [looked at formation and freedom](https://sarahendren.com/2024/06/10/the-how-and-the-why/) in the college decision process. I want to examine next the framework of *readiness* in higher education to get at formation in another way — what should four years make a student ready for? I've written [about this subject before](https://sarahendren.substack.com/p/a-classroom-is-for-readiness), but today I want to restate the strengths and add some of the weaknesses of this frame.
