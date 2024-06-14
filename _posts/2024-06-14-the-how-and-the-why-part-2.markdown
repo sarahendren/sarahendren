@@ -25,7 +25,7 @@ Do I need to say this? Power *is* always operative in civic life, but collapsing
 
 There are signs of life in shoring up the deliberative side of participatory readiness. This [civil discourse project at Duke](https://civildiscourse.duke.edu/) is representative of some of that effort. Civics education is generally experiencing another reinvigoration; I see lots of people talking about it. But in pre-professional settings like mine, there's a tinderbox mix of mostly-job-skills, plus the thinnest layer of power, that stands in too handily for participatory readiness.
 
-And even if we fortify the means and methods of disinterested deliberation, even if we diversify and enrich the participatory with greater humanities, fine arts, and social sciences exposure, another conundrum presents itself. *Deliberation* presupposes contested *visions of the good life* among Democratic citizens. How are those visions, those strongly-held first principles that are the bedrock of our lifeworlds, to be formed? That's next.
+And even if we fortify the means and methods of disinterested deliberation, even if we diversify and enrich the participatory with greater humanities, fine arts, and social sciences exposure, another conundrum presents itself. *Deliberation* presupposes contested *visions of the good life* among democratic citizens. How are those visions, those strongly-held first principles that are the bedrock of our lifeworlds, to be formed? That's next.
 
 
 
