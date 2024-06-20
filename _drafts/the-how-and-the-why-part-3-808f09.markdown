@@ -3,7 +3,7 @@ title: the how and the why, part 3
 date: 2024-06-20 12:55:00 -04:00
 ---
 
-In Wendell Berry's incomparable novel [Jayber Crow](https://www.penguinrandomhouse.com/books/674667/jayber-crow-by-wendell-berry/), an exchange happens between the young Jayber, then at a religious college, and a professor named Dr. Ardmire. Jayber had been laboring under the impression that maybe he was called into religious ministry full time, but while in school, he loses this call. He goes to Ardmire to talk it out:
+In Wendell Berry's incomparable novel [*Jayber Crow*](https://www.penguinrandomhouse.com/books/674667/jayber-crow-by-wendell-berry/), an exchange happens between the young Jayber, then at a religious college, and a professor named Dr. Ardmire. Jayber had been laboring under the impression that maybe he was called into religious ministry full time, but while in school, he loses this call. He goes to Ardmire to talk it out:
 
 >"So, I said, I reckon it all comes down to this, how can I preach if I don't have any ansers?"
 >
