@@ -29,7 +29,7 @@ In Wendell Berry's incomparable novel [*Jayber Crow*](https://www.penguinrandomh
 >
 >"I will tell you a further mystery," he said. "It may take longer."
 
-This dialogue is the bit we're all supposed to wonder at — the mystery of any one life and how it adds up, the idea that our story and its purpose are probably not calculable. Our lives exceed our grasp, and maybe indeed our time on the planet. But the memorable line for me happens just after this exchange: Jayber, filled with gratitude, "turned around. I was going to thank him, but he had gone back to his book."
+This dialogue is the bit we're all supposed to wonder at — the mystery of any one life and how it adds up, the idea that our story and its purpose are probably not calculable. Our lives exceed our grasp and maybe indeed our time on the planet. But the memorable line for me happens just after this exchange: Jayber, filled with gratitude, "turned around. I was going to thank him, but he had gone back to his book."
 
 The professor had gone back to his book! No mystical mood hung in the air. No prolonged and meaningful parting ensues. For Professor Ardmire, a conversation with a young person about the nature of ultimate things was important but also *ordinary*, not exceptional.
 
