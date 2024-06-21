@@ -47,16 +47,3 @@ With my own kids, I'm looking at core curricula with strong humanities, especial
 
 Part 1 on formation [is here](https://sarahendren.com/2024/06/10/the-how-and-the-why/) and Part 2 on readiness [is here](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/).
 
-
-
-
-
-
-
-
-
-
->
-
-
-So now we've looked at [formation](https://sarahendren.com/2024/06/10/the-how-and-the-why/) and at [readiness](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/). I 
