@@ -25,6 +25,6 @@ Yuval Levin points to this as the need for [*formation* to be free](https://www.
 
 So I don't think my job is to just facilitate my kids' shopping for a vibe-mood-and-maybe-my-major college selection experience. I think they need formative experiences to be free. But formation is in short supply everywhere! I don't get very far, even among fellow professors, when I bring this up. The autonomy-led, buffet-style, platform-burnishing model for higher education is thoroughly internalized in most places. You have to look pretty far and wide to find a strong sense of mission for forming young people into their free future selves. In upcoming posts I'll walk through some of my research and working criteria for thinking through this mix of choices and constraint for my own family.  
 
-Part 2 is [here](https://sarahendren.com/2024/06/11/the-how-and-the-why-part-2/).
+Part 2 is [here](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/).
 
 **In one of my future posts, I'll talk about the ways having one child with Down syndrome, and therefore not traditionally college-bound, has also shaped my convictions about the liberal arts.
