@@ -27,8 +27,7 @@ There are signs of life in shoring up the deliberative side of participatory rea
 
 And even if we fortify the means and methods of disinterested deliberation, even if we diversify and enrich the participatory with greater humanities, fine arts, and social sciences exposure, another conundrum presents itself. *Deliberation* presupposes contested *visions of the good life* among democratic citizens. How are those visions, those strongly-held first principles that are the bedrock of our lifeworlds, to be formed? That's next.
 
-
-
+Part 3 is [here](https://sarahendren.com/2024/06/21/the-how-and-the-why-part-3/).
 
 
 
