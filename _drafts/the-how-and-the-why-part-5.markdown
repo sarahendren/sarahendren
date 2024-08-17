@@ -14,14 +14,17 @@ Buried in a footnote in Lewis Hyde's classic study on gift economies called *[Th
 
 [Hyde]
 
-Great Books at St John's
+One of my godsons is starting his sophomore year at St John's in Santa Fe, and this is probably the most formative curriculum on offer: sequential, nearly lockstep all the way through. Everyone takes singing class in the first year! Glorious. We'll be visiting him sometime this year, though I sort of doubt it's the thing for my two college-bound ones.
 
-Great Books-style plans within larger universities:
+I am very excited by some of the great books-style plans within larger universities:
+
 Notre Dame's [Program of Liberal Studies](https://pls.nd.edu/)
 [Honors College at Fordham's Rose Hill campus](https://www.fordham.edu/fordham-college-at-rose-hill/honors-programs-societies-and-awards/honors-program/program-overview/curriculum-at-a-glance/)
 [UT Austin's Plan II program](https://liberalarts.utexas.edu/plan2/)
 [Baylor's Honors College](https://honors.baylor.edu/) 
 [Marquette's Honors Core program](https://bulletin.marquette.edu/resources-opportunities/marquette-core-curriculum/#requirementstext)
+
+There are first-year programs that offer foundations, like Yale's [Directed Studies program](https://directedstudies.yale.edu/). 
 
 Christian Study Centers
 UNC Chapel Hill
