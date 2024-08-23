@@ -1,6 +1,9 @@
 ---
 title: credential agnostic
 date: 2024-08-23 13:23:00 -04:00
+tags:
+- disability
+- parenting
 ---
 
 Our 18 year old son, Graham, who has Down syndrome, just completed a summer working in our city's [youth employment program](https://www.cambridgema.gov/Services/mayorssummeryouthemploymentprogram). His placement was as a classroom aide in our city's subsidized summer camps for young children: affordable day care with twice weekly field trips and time at the pool for middle- and working-class families to get coverage, by lottery, in summertime. (Why these kinds of pro-family provisions are coded as left-wing will always mystify me.) 
