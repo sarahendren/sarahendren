@@ -12,5 +12,7 @@ Whenever Graham starts out with a new team, my husband and I watch and wait to s
 
 The good news and the bad news is that this form of human and humane perception is absolutely unrelated to the level of credentials a person has. We have seen him be babied and cosseted by people with advanced degrees; we've also seen people with serious training do genius and inventive work in adapting school curricula. We've seen almost entirely untrained people show the same dramatic range. Some people get it, and some people don't. Turns out there's no prescribed way to fill a person's head with the cultivation of insight.
 
+* I put "Down syndrome person" in scare quotes not because I'm interested in euphemism treadmills, but just because I'm a regular parent. What parent would speak about their singular human being of a child as a type, of any kind, with any words? How do you like parenting your tall person child? Your left handed child? 
+
 
 
