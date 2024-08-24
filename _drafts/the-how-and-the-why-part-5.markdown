@@ -18,9 +18,9 @@ Buried in a footnote in Lewis Hyde's classic study on gift economies called *[Th
 
 The best heuristic guides I can generate for thinking through college operate with this gift disposition as their engine. I think young people need 1) formation (a good number of experiences they don't self-select), 2) readiness (rehearsal experiences for civic mindedness, not just the professions), 3) the prescriptive domains of philosophy and theology (getting beyond everyday issues to the big enduring questions) — all to help young people encounter this life-as-gift invitation. And it's clear to me now that one need not look for a one-size-fits-all university structure to see of these things. The spaces for learning (that's #4) might be arranged in a few different ways that together provide those first three.
 
-[Here's the to-be-sure part of this piece] Reader: I have been parenting for 18 years, so I'm fully aware that you don't cook up and serve an experience to your child with the expectation that your good intentions will take root in their minds and souls. Trust me. But I do think the question of what's worth paying for is a good one, given the various muddled mission statements of the contemporary university. I'm doing the best I can — and in the spirit of formation, the best I can requires more than faciltating my kids' shopping for their choice.
+[Here's the to-be-sure part of this piece] Reader: I have been parenting for 18 years, so I'm fully aware that you don't cook up and serve an experience to your child with the expectation that your good intentions will take root in their minds and souls. Trust me. But I do think the question of what's worth paying for is a good one, given the various muddled mission statements of the contemporary university. I'm doing the best I can — and in the spirit of formation, the best I can requires more than facilitating my kids' shopping for their choice.
 
- 
+First model: Great Books
 
 
 One of my godsons is starting his sophomore year at St John's in Santa Fe, and this is probably the most formative curriculum on offer: sequential, nearly lockstep all the way through. Everyone takes singing class in the first year! Glorious. We'll be visiting him sometime this year, though I sort of doubt it's the thing for my two college-bound ones.
