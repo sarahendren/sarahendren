@@ -20,15 +20,17 @@ The best heuristics I can generate for thinking through college operate with thi
 
 [Here's the to-be-sure part of this piece] Reader: I have been parenting for 18 years, so I'm fully aware that you don't cook up and serve an experience to your children with the expectation that your good intentions will take root in their minds and souls. Trust me. But I do think the question of what kind of college is worth paying for is an important one, given the various muddled mission statements of the contemporary university. I'm doing the best I can — and in the spirit of formation, the best I can requires more than just facilitating my kids' shopping for their choices.
 
-First model: A strong required core curriculum
+**First model: A strong required core curriculum**
 
 The big questions and enduring ideas that make up the "great books" style of college go a long way toward formation and readiness, ideally with the prescriptive domains taught with enough primary sources and [critical assent](https://sarahendren.com/2022/05/16/critical-assent/).
 
-One of my godsons is starting his sophomore year at St John's College in Santa Fe, and this is probably the most formative core curriculum on offer: sequential, nearly lockstep all the way through. Everyone takes singing class in the first year! Glorious. We'll be visiting him sometime this year, though I sort of doubt it's the thing for my two college-bound ones.
+One of my godsons is starting his sophomore year at [St John's College](https://www.sjc.edu/academic-programs/undergraduate) in Santa Fe, and this is probably the most formative core curriculum on offer in the US: sequential, nearly lockstep all the way through. Everyone takes singing class in the first year! Glorious. We'll be visiting him sometime this year, though I sort of doubt it's the thing for my two.
 
-I'm also a fan of the traditional Jesuit core, since it includes good sophisticated philosophy and theology. It seems like a number of the Jesuit universities are trending like the rest of higher ed — with more choices for meeting broad categorical requirements than prescribed topics — but 
+I'm also a fan of the traditional Jesuit core, since it includes good sophisticated philosophy and theology. It seems like a number of the Jesuit universities are trending like the rest of higher ed,  with more choices for meeting broad categorical requirements than prescribed topics, but ADD HERE
 
-Second model: Opt-in core curriculum in smaller programs
+Other programs of note: William and Mary has a [sequential-ish core that spans all four years](https://www.wm.edu/as/undergraduate/coll/), and Furman's innovative [Cultural Life program](https://www.furman.edu/academics/cultural-life-program/) has students attend lectures, concerts, exhibitions, and other humanistic programs in a required set of hours over four years.
+
+**Second model: Opt-in core curriculum in smaller programs**
 
 I am very excited by some of the great books-style plans within larger universities:
 
@@ -43,6 +45,12 @@ The [Honors College at Fordham's Rose Hill campus](https://www.fordham.edu/fordh
 [Marquette's sequential Honors Core program](https://bulletin.marquette.edu/resources-opportunities/marquette-core-curriculum/#requirementstext)
 
 There are first-year programs that offer foundations, like Yale's [Directed Studies program](https://directedstudies.yale.edu/). 
+
+**Third model: Formative early classes with available follow-on resource**
+
+There are really interesting single classes that go a long way to foreground prescriptive disciplines: Georgetown's required "[The Problem of God](https://theology.georgetown.edu/about/problem-of-god/)" — a beautiful framing that helps students of all background encounter one of the most important human questions. And Notre Dame's optional (but very popular) "[God and the Good Life](goodlife.nd.edu)." Both of these are historically religious institutions, so they have plenty of ongoing resources in the prescriptive domains, campus ministry, wisdom traditions of all kinds. In this model, the core might be mostly chosen as in the mainstream, but the integrating big questions are in students' faces  more than most places.
+
+And then — to think creatively about spaces for learning outside the classroom, I'm interested in the  
 
 Christian Study Centers
 UNC Chapel Hill
