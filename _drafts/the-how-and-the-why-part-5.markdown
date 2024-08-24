@@ -18,7 +18,7 @@ Buried in a footnote in Lewis Hyde's classic study on gift economies, *[The Gift
 
 The best heuristics I can generate for thinking through college operate with this gift disposition as their engine. I think young people need 1) formation (a good number of experiences they don't self-select), 2) readiness (rehearsal experiences for civic mindedness, not just the professions), and 3) the prescriptive domains of philosophy and theology (getting beyond everyday issues to the big enduring questions) — all to help young people encounter this life-as-gift invitation. And it's clear to me now that we don't have to look for a one-size-fits-all university structure to see these elements at work. The spaces for learning (that's #4) might be arranged in a few different ways that together provide those first three.
 
-[Here's the to-be-sure part of this post] Reader: I have been parenting for 18 years, so I'm fully aware that you don't assemble and serve an experience to your children with the expectation that your good intentions will take root in their minds and souls. Trust me. But I do think the question of whether and what kind of college is worth paying for is an important one, given the various muddled mission statements and practices of the contemporary university. I'm doing the best I can — and in the spirit of formation, the best I can requires more than just facilitating my kids' shopping for their choices.
+[Here's the to-be-sure part of this post] Reader: I have been parenting for 18 years, so I'm fully aware that you don't assemble and serve an experience to your children with the expectation that your good intentions will automatically take root in their minds and souls. Trust me. But I do think the question of whether and what kind of college is worth paying for is an important one, given the various muddled mission statements and practices of the contemporary university. I'm doing the best I can — and in the spirit of formation, the best I can requires more than just facilitating my kids' shopping for their choices.
 
 **First model: A strong required core curriculum**
 
@@ -48,11 +48,13 @@ There are also first-year programs that offer foundations, like Yale's [Directed
 
 **Third model: Formative early classes with available follow-on resources**
 
-There are really interesting single classes that go a long way to foreground prescriptive disciplines: Georgetown has its required course called "[The Problem of God](https://theology.georgetown.edu/about/problem-of-god/)" — a beautiful framing that helps students of all background encounter one of the most important human questions. And Notre Dame has its optional (but very popular) "[God and the Good Life](goodlife.nd.edu)." Both of these are historically religious institutions, so they have additional required core classes, plenty of ongoing resources in the prescriptive domains, campus ministry, and exposure to wisdom traditions of all kinds. In this model, the core might offer more choices as in the mainstream, but the integrating big questions are in students' faces  more than most places.
+There are really interesting single classes that go a long way to foreground prescriptive disciplines: Georgetown has its required course called "[The Problem of God](https://theology.georgetown.edu/about/problem-of-god/)" — a beautiful framing that helps students of all background encounter one of the most important human questions. And Notre Dame has its optional (but very popular) "[God and the Good Life](goodlife.nd.edu)." Both of these are historically religious institutions, so they have additional required core classes, plenty of ongoing resources in the prescriptive domains, campus ministry, and exposure to wisdom traditions of all kinds. In this model, the core might offer more choices as in the mainstream, but the integrating big questions are in students' faces  more than most campuses.
 
 **Fourth model: Spaces outside the classroom**
 
 If we think creatively about spaces for learning outside the classroom, we might pay attention to a couple of recent developments.  
+
+First is the creation of centers for civic education, most of which have some humanistic and readiness framing, or the Hamilton Center at the University of Florida. There's bound to be talk that these are right-reactionary centers meant to reverse the perceived excesses in left-coded hiring statements and viewpoint homogeneity, but [as this piece in the Chronicle of Higher Ed makes clear](https://www.chronicle.com/article/will-republicans-save-the-humanities), it's just too soon to tell.
 
 Christian Study Centers
 UNC Chapel Hill
