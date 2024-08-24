@@ -5,14 +5,19 @@ date: 2024-08-17 18:02:00 -04:00
 
 This is the last in my series on thinking about the state of higher education, which I think I'll also summarize in a newsletter. If you're interested:
 
-Part 1 on formation.
-Part 2 on readiness.
-Part 3 on prescriptive disciplines.
-Part 4 on spaces for learning.
+[Part 1 on formation](https://sarahendren.com/2024/06/10/the-how-and-the-why/).
+[Part 2 on readiness](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/).
+[Part 3 on prescriptive disciplines](https://sarahendren.com/2024/06/21/the-how-and-the-why-part-3/).
+[Part 4 on spaces for learning](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/).
 
-Buried in a footnote in Lewis Hyde's classic study on gift economies called *[The Gift](https://bookshop.org/p/books/the-gift-how-the-creative-spirit-transforms-the-world-lewis-hyde/18408257?ean=9781984897787)* is a stirring question that sums up the adventure I hope holds my children — at least some of the time — in their years at university. Hyde has named the gift economy as operating on *eros* in its classical sense, a form of unfettered attachment, as opposed to the *logos* of the transactional market economy. 
+Buried in a footnote in Lewis Hyde's classic study on gift economies called *[The Gift](https://bookshop.org/p/books/the-gift-how-the-creative-spirit-transforms-the-world-lewis-hyde/18408257?ean=9781984897787)* is a stirring question that sums up the adventure I hope holds my two college-bound children — at least some of the time — in their years at university. Note that earlier in the book, Hyde has named the gift economy as operating on *eros* in its classical sense, a form of unfettered attachment, as opposed to the *logos* of the transactional market economy: 
 
-[Hyde]
+>In the modern world the rights that adults have in their children  normally pass slowly from parent to child during adolescence and become fully vested in the child when he or she is ready to leave home.
+>
+>If our lives are gifts to begin with, however, in some sense they are not "ours" even when we become adults. Or perhaps they are, but only until such time as we find a way to bestow them. The belief that life is a gift carries with it the corollary feeling that the gift should not be hoarded. As we mature, and particularly as we come into the isolation of being "on our own," we begin to feel the desire to give ourselves away — in love, in marriage, to our work, to the gods, to politics, to our children. And adolescence is marked by that restless, erotic, disturbing inquisition: Is this person, this nation, this work, worthy of the life I have to give?
+
+In making my way through 
+
 
 One of my godsons is starting his sophomore year at St John's in Santa Fe, and this is probably the most formative curriculum on offer: sequential, nearly lockstep all the way through. Everyone takes singing class in the first year! Glorious. We'll be visiting him sometime this year, though I sort of doubt it's the thing for my two college-bound ones.
 
