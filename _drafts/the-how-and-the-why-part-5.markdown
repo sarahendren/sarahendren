@@ -28,15 +28,19 @@ One of my godsons is starting his sophomore year at St John's College in Santa F
 
 I'm also a fan of the traditional Jesuit core, since it includes good sophisticated philosophy and theology. It seems like a number of the Jesuit universities are trending like the rest of higher ed — with more choices for meeting broad categorical requirements than prescribed topics — but 
 
-Second model: Opt-in core curriculum
+Second model: Opt-in core curriculum in smaller programs
 
 I am very excited by some of the great books-style plans within larger universities:
 
 Notre Dame's [Program of Liberal Studies](https://pls.nd.edu/)
-[Honors College at Fordham's Rose Hill campus](https://www.fordham.edu/fordham-college-at-rose-hill/honors-programs-societies-and-awards/honors-program/program-overview/curriculum-at-a-glance/)
+
+The [Honors College at Fordham's Rose Hill campus](https://www.fordham.edu/fordham-college-at-rose-hill/honors-programs-societies-and-awards/honors-program/program-overview/curriculum-at-a-glance/)
+
 [UT Austin's Plan II program](https://liberalarts.utexas.edu/plan2/)
+
 [Baylor's Honors College](https://honors.baylor.edu/) 
-[Marquette's Honors Core program](https://bulletin.marquette.edu/resources-opportunities/marquette-core-curriculum/#requirementstext)
+
+[Marquette's sequential Honors Core program](https://bulletin.marquette.edu/resources-opportunities/marquette-core-curriculum/#requirementstext)
 
 There are first-year programs that offer foundations, like Yale's [Directed Studies program](https://directedstudies.yale.edu/). 
 
