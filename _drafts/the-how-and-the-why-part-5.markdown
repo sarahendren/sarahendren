@@ -16,7 +16,11 @@ Buried in a footnote in Lewis Hyde's classic study on gift economies called *[Th
 >
 >If our lives are gifts to begin with, however, in some sense they are not "ours" even when we become adults. Or perhaps they are, but only until such time as we find a way to bestow them. The belief that life is a gift carries with it the corollary feeling that the gift should not be hoarded. As we mature, and particularly as we come into the isolation of being "on our own," we begin to feel the desire to give ourselves away — in love, in marriage, to our work, to the gods, to politics, to our children. And adolescence is marked by that restless, erotic, disturbing inquisition: Is this person, this nation, this work, worthy of the life I have to give?
 
-In making my way through 
+The best heuristic guides I can generate at this time for thinking through college have this gift disposition as their engine. I think young people need 1) formation (a good number of experiences they don't self-select), 2) readiness (rehearsal experiences for civic mindedness, not just the professions), 3) the prescriptive domains of philosophy and theology (getting beyond issues to the big enduring questions). And it's clear to me now that one need not look for a one-size-fits-all combination of these things. The spaces for learning (that's #4) might be arranged in a few different ways that together provide those first three.
+
+[Here's the to-be-sure part of this piece] Reader: I have been parenting for 18 years, so I'm fully aware that you don't cook up and serve an experience to your child with the expectation that your good intentions will take root in their minds and souls. Trust me. But I do think the question of what's worth paying for is a good one, given the various muddled mission statements of the contemporary university. I'm doing the best I can — and in the spirit of formation, the best I can requires more than faciltating my kids' shopping for their choice.
+
+ 
 
 
 One of my godsons is starting his sophomore year at St John's in Santa Fe, and this is probably the most formative curriculum on offer: sequential, nearly lockstep all the way through. Everyone takes singing class in the first year! Glorious. We'll be visiting him sometime this year, though I sort of doubt it's the thing for my two college-bound ones.
