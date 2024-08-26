@@ -50,7 +50,9 @@ There are also first-year programs that offer foundations, like Yale's [Directed
 
 **Third model: Formative early classes with available follow-on resources**
 
-There are really interesting single classes that go a long way to foreground prescriptive disciplines: Georgetown has its required course called "[The Problem of God](https://theology.georgetown.edu/about/problem-of-god/)" — a beautiful framing that helps students of all backgrounds encounter one of the most important human questions. And Notre Dame has its optional (but very popular) "[God and the Good Life](goodlife.nd.edu)." Both of these are historically religious institutions, so they have additional required core classes, plenty of ongoing resources in the prescriptive domains, campus ministry, and exposure to wisdom traditions of all kinds. But one could imagine this model working at lots of places — a small intervention in the form of a Great Questions class for all students, even without a further required core. 
+There are really interesting single classes that go a long way to foreground prescriptive disciplines: Georgetown has its required course called "[The Problem of God](https://theology.georgetown.edu/about/problem-of-god/)" — a beautiful framing that helps students of all backgrounds encounter one of the most important human questions. And Notre Dame has its optional (but very popular) "[God and the Good Life](goodlife.nd.edu)." Both of these are historically religious institutions, so they have additional required core classes, plenty of ongoing resources in the prescriptive domains, campus ministry, and exposure to wisdom traditions of all kinds. But one could imagine this model working at lots of places — a small intervention in the form of a Great Questions class for all students, even without a further required core.
+
+Update: my friend Ben Lipscomb directs the [Honors London semester program](https://www.houghton.edu/undergraduate/majors/honors/london/) for first-year students at Houghton University. He sent me the syllabus, and it looks *fantastic*. 
 
 **Fourth model: Spaces outside the classroom**
 
