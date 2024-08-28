@@ -23,6 +23,8 @@ Conceptually, these separate functions are self-evident, but in practice, they'r
 
 You may be asking whether campuses are really committed to making those distinctions more productively, frictionfully sharp in an era of [low viewpoint diversity](https://righteousmind.com/viewpoint-diversity/). As I think alongside my own kids' exploration of college, I'm looking at the spaces that appear on campus, or perhaps as campuses-within-campus, or perhaps spaces on the periphery of campus, to round out the formation offerings in the contemporary university. Next I'll list some of the institutions — spaces and programs and curricula — that I've got my eye on (some of which might be interesting to my kids, and some not, we'll see!).
 
+Part 5 is [here](https://sarahendren.com/2024/08/24/the-how-and-the-why-part-5/).
+
 
 
  
