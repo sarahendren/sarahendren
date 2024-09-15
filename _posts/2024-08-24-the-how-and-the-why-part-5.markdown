@@ -12,7 +12,7 @@ This is the last in my series on higher education, which I'll also summarize in 
 [Part 3 on prescriptive disciplines](https://sarahendren.com/2024/06/21/the-how-and-the-why-part-3/).
 [Part 4 on spaces for learning](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/).
 
-Buried in a footnote in Lewis Hyde's [classic study on gift economies](https://bookshop.org/p/books/the-gift-how-the-creative-spirit-transforms-the-world-lewis-hyde/18408257?ean=9781984897787) is a stirring question that sums up the adventure I hope holds my two college-bound children — at least some of the time — in their years at university. Earlier in the book, Hyde names the gift economy as operating on *eros* in its classical sense, a form of unfettered attachment, a "shaping into one": 
+Buried in a footnote in Lewis Hyde's [classic study on gift economies](https://bookshop.org/p/books/the-gift-how-the-creative-spirit-transforms-the-world-lewis-hyde/18408257?ean=9781984897787) is a stirring question that sums up the adventure I hope holds my two college-bound children — at least some of the time — in their years at university. Earlier in the book, Hyde names the gift economy as operating on *eros* in its classical sense, a form of unfettered attachment, a "shaping into one." And then, later on: 
 
 >In the modern world the rights that adults have in their children...normally pass slowly from parent to child during adolescence and become fully vested in the child when he or she is ready to leave home.
 >
