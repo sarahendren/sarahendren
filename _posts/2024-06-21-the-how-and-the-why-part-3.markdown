@@ -43,7 +43,9 @@ My friend Sandra and I took a long road trip last summer, and she told me a stor
 
 With my own kids, I'm looking at core curricula with strong humanities, especially because they're history lovers. But I'm also looking especially for universities where the prescriptive disciplines are robust and shared across campus. They're out there — sometimes in the formal curriculum, and sometimes in adjacent spaces. We'll get to that next time. 
 
-*For what it's worth, I tell my students that ending college with far more questions than answers is a success story.
+[Part 4 is here](https://sarahendren.com/2024/07/25/the-how-and-the-why-part-4/).
 
 Part 1 on formation [is here](https://sarahendren.com/2024/06/10/the-how-and-the-why/) and Part 2 on readiness [is here](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/).
+
+*For what it's worth, I tell my students that ending college with far more questions than answers is a success story.
 
