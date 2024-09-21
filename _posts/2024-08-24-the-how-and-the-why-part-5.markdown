@@ -5,7 +5,7 @@ tags:
 - higher ed
 ---
 
-This is the last in my series on higher education, which I'll also summarize in a newsletter. If you're interested:
+This is the last in my series on higher education, which I'll also summarize in a newsletter. (Update: [newsletter here](https://sarahendren.substack.com/p/unmuddling-the-university).) If you're interested:
 
 [Part 1 on formation](https://sarahendren.com/2024/06/10/the-how-and-the-why/).
 [Part 2 on readiness](https://sarahendren.com/2024/06/14/the-how-and-the-why-part-2/).
