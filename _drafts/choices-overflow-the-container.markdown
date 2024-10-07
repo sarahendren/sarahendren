@@ -1,0 +1,8 @@
+---
+title: choices overflow the container
+date: 2024-10-07 12:12:00 -04:00
+---
+
+The always-probing Mandy Brown muses [on some findings](https://aworkinglibrary.com/writing/what-are-we-making-together) about human behavior as it meets technology in *[The Ordinal Society](https://bookshop.org/p/books/the-ordinal-society-marion-fourcade/20543470)*. Brown picks up the data on social media that complicates the two myths that pervade most commentary about this technology: Neither "it just depends on how you use it, for good or ill," or "the design itself is the sole culprit" will suffice. As always, human behavior (including very ugly behavior) is both incentivized by design but also inventive on its own, thereby shaping design. I've written before about the general cognitive bias 
+
+>I’m not interested in paternalistic nudges or vapid prompts to think twice, but rather, something like the way a well-designed park creates space both to gather and to wander—quiet benches tucked under trees alongside open fields fit for games, pathways for walking in ones and twos, blooms and birdhouses that invite a moment of rest. What if our social spaces had more ways to get lost? More places to sit a spell? What if we brought more intention to the way we contribute to these patterns? To the way our own choices overflow the container, and push on what’s possible. *What is it that we are making together?*
