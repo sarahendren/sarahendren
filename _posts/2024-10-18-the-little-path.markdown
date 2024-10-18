@@ -1,5 +1,5 @@
 ---
-title: the little path
+title: the small path
 date: 2024-10-18 07:15:00 -04:00
 ---
 
