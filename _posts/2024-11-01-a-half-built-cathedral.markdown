@@ -1,5 +1,5 @@
 ---
-title: a half-built cathedral
+title: another half-built cathedral
 date: 2024-11-01 08:34:00 -04:00
 ---
 
