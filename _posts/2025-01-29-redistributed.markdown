@@ -1,5 +1,5 @@
 ---
-title: redistributed
+title: medical reckoning
 date: 2025-01-29 09:22:00 -05:00
 ---
 
