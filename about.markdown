@@ -6,7 +6,7 @@ image: "/uploads/sara%20headshot.jpg"
 layout: about
 ---
 
-Sara Hendren is a writer, design researcher, artist, and cultural producer. Sign up for her newsletter [here](https://sarahendren.substack.com/). A condensed bio is at the bottom of this page.
+Sara Hendren is a writer, filmmaker, design researcher, and cultural producer. Sign up for her newsletter [here](https://sarahendren.substack.com/). A condensed bio is at the bottom of this page.
 
 Sara is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), published by Riverhead/Penguin Random House. It was chosen as a Best Book of the Year by NPR and won the 2021 Science in Society Journalism book prize. Sara's work of 2010-2020 includes collaborative
 public art, social design, and writing that reframes
