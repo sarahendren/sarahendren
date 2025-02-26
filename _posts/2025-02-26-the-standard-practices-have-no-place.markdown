@@ -1,6 +1,6 @@
 ---
 title: the standard practices have no place
-date: 2025-02-25 14:12:00 -05:00
+date: 2025-02-26 10:29:00 -05:00
 ---
 
 [Alan Jacobs](https://mbird.com/religion/prayer/spells-and-prayers/):
