@@ -1,5 +1,5 @@
 ---
-title: receding goalposts
+title: disability and modernity, redux
 date: 2025-02-28 11:41:00 -05:00
 ---
 
