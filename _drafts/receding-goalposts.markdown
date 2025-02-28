@@ -17,7 +17,7 @@ Consider that:
 
 — Our era also contains deep and unresolved paradoxes. The legacy of the disability rights movement unfolding in high modernity means that 1) today is a great historical moment to live as someone, say, with Down syndrome, while 2) Down syndrome is [being designed out of the world](https://www.theatlantic.com/magazine/archive/2020/12/the-last-children-of-down-syndrome/616928/). Today the resources and forms of assistance for mental health disorders are abundant, while many nations debate medically assisted suicide for treatment-resistant depression, say, in teenagers. Technologies help mediate both deliberate inclusion and a eugenic culling of bodily dependence from the imaginary of the common good. 
 
-— The long arc of demedicali
+— The long arc of demedicalizing disability in the rich countries of the West is meeting with another paradox: the *re*medicalizing and indeed pathologizing of all human variation.
 
 
 
