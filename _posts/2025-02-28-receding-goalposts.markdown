@@ -21,7 +21,6 @@ Consider that:
 
 — Disability does its best work as a stress test for naturalized presumptions about the human person. What is human needfulness, at the site of the body and as a guaranteed feature of any person's life-in-time? What sense should we make of our suffering, bodily and otherwise, and what philosophical, religious, psychological and other resources might assist us? As Wendell Berry said long ago: The future will be divided between people who want to live as creatures and people who want to live as machines. We can help our students see both the goods of inclusive design and the larger unresolved project of understanding needfulness as a constitutive part of the common good. If you really want to help course-correct alongside the next generation, you might start by verrrry slowwwwly teaching chapter 2, "An Anthropological Solution," in Carter Snead's *[What It Means to Be Human](https://www.hup.harvard.edu/books/9780674278769).* Bellah, Taylor, Sandel, Habermas: it's all there, beautifully synthesized. 
 
-
-
+You can subscribe to a weekly digest of these posts [here](https://ablerism.micro.blog/subscribe/).
 
 
