@@ -12,6 +12,8 @@ Sara is the author of [What Can A Body Do? How We Meet the Built World](https://
 public art, social design, and writing that reframes
 the human body and technology. You might be interested in:
 
+— my first short documentary film *Simple Machine*, showing this year at the Sheffield Shorts Festival, Atlanta Docufest, West Chester Film Festival, and others TBA.
+
 — a [lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/)
  
 — a [ramp for wheelchair dancing](http://aplusa.org/projects/ramp-alice-sheppard/)
