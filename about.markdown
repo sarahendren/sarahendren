@@ -12,7 +12,7 @@ Sara is the author of [What Can A Body Do? How We Meet the Built World](https://
 public art, social design, and writing that reframes
 the human body and technology. You might be interested in:
 
-— my first short documentary film *Simple Machine*, showing this year at the Sheffield Shorts Festival, Atlanta Docufest, West Chester Film Festival, and others TBA.
+— my first short documentary film *Simple Machine*, showing this year at the [Sheffield Shorts Festival](https://www.eventbrite.com/e/sheffield-shorts-film-festival-tickets-1250055181699), [Atlanta Docufest](https://docufest.com/25-6), West Chester Film Festival, and others TBA.
 
 — a [lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/)
  
