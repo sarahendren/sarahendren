@@ -6,13 +6,13 @@ image: "/uploads/sara%20headshot.jpg"
 layout: about
 ---
 
-Sara Hendren is a writer, filmmaker, design researcher, and cultural producer. Sign up for her newsletter [here](https://sarahendren.substack.com/), or for a weekly digest of all her online writing [here](https://ablerism.micro.blog/subscribe/). A condensed bio is at the bottom of this page.
+Sara Hendren is a writer, filmmaker, design researcher, and cultural producer. She is Associate Professor of Art + Design, with an additional appointment at the School of Architecture, at Northeastern University. Sign up for her newsletter [here](https://sarahendren.substack.com/), or for a weekly digest of all her online writing [here](https://ablerism.micro.blog/subscribe/). A condensed bio is at the bottom of this page.
 
 Sara is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), published by Riverhead/Penguin Random House. It was chosen as a Best Book of the Year by NPR and won the 2021 Science in Society Journalism book prize. Sara's work of 2010-2020 includes collaborative
 public art, social design, and writing that reframes
 the human body and technology. You might be interested in:
 
-— my first short documentary film *Simple Machine*, showing this year at the [Sheffield Shorts Festival](https://www.eventbrite.com/e/sheffield-shorts-film-festival-tickets-1250055181699), [Atlanta Docufest](https://docufest.com/25-6), West Chester Film Festival, and others TBA.
+— my first short documentary film *Simple Machine*, showing this year at the [Independent Film Festival Boston](https://iffboston.org/series/the-festival/screening/shorts/kenmore-documentary/), [Sheffield Shorts Festival](https://www.eventbrite.com/e/sheffield-shorts-film-festival-tickets-1250055181699), [Atlanta Docufest](https://docufest.com/25-6), West Chester Film Festival, and others TBA.
 
 — a [lectern for short stature](http://aplusa.org/projects/alterpodium-amanda-cachia/)
  
