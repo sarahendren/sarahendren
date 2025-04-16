@@ -8,6 +8,8 @@ layout: about
 
 Sara Hendren is a writer, filmmaker, design researcher, and cultural producer. She is Associate Professor of Art + Design, with an additional appointment at the School of Architecture, at Northeastern University. Sign up for her newsletter [here](https://sarahendren.substack.com/), or for a weekly digest of all her online writing [here](https://ablerism.micro.blog/subscribe/). A condensed bio is at the bottom of this page.
 
+Sara's work has been exhibited on the White House lawn under the Obama administration, at the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art, among other venues, and is held in the permanent collections of the Museum of Modern Art, the Victoria & Albert Museum, and the Cooper Hewitt Museum. She has been a National Fellow at the New America think tank, and her work has been supported by an NEH Public Scholar grant, the Graham Foundation, residencies at Yaddo and the Carey Institute for Global Good, and an Artist Fellowship from the Massachusetts Cultural Council. Her writing has appeared in [Harper's](https://harpers.org/archive/2023/12/bonnyrigg-scotland-sensory-workshop/) the [New York Times](https://www.nytimes.com/2021/07/16/opinion/cities-reopening-time.html), [Wired](https://www.wired.com/story/prosthetics-disability-future-of-work/), [Art in America](https://www.artnews.com/art-in-america/features/five-artists-disability-art-1234642880/), and other publications.
+
 Sara is the author of [What Can A Body Do? How We Meet the Built World](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/), published by Riverhead/Penguin Random House. It was chosen as a Best Book of the Year by NPR and won the 2021 Science in Society Journalism book prize. Sara's work of 2010-2020 includes collaborative
 public art, social design, and writing that reframes
 the human body and technology. You might be interested in:
@@ -31,10 +33,6 @@ the human body and technology. You might be interested in:
 — [a four-year effort](https://www.olin.edu/sketchmodel) to bring more arts and humanities to higher-ed STEM called Sketch Model: artists' residencies, student fellowships, and seed funds for faculty and staff.
 
 Starting in 2023, after nine years at Olin College of Engineering, Sara will join the CAMD faculty at Northeastern University, where she'll pursue an expanded research program on the material culture of the assisted body over the life span: birth, death, and acute conditions of vulnerability. She is also a [fellow at the Notre Dame Institute for Ethics and the Common Good](https://ethics.nd.edu/fellowships-and-grants/fellows/sara-hendren-2024-2025/) and a [Newbigin Fellow with the Carver Project](https://www.newbiginfellows.org/cohort-2).
-
-Sara's work has been exhibited on the White House lawn under the Obama administration, at the Victoria & Albert Museum, the DOX Centre for Contemporary Art, The Vitra Design Museum, the Seoul Museum of Art, among other venues, and is held in the permanent collections of the Museum of Modern Art and the Cooper Hewitt Museum. She has been a National Fellow at the New America think tank, and her work has been supported by an NEH Public Scholar grant, the Graham Foundation, residencies at Yaddo and the Carey Institute for Global Good, and an Artist Fellowship from the Massachusetts Cultural Council. Her writing has appeared in [Harper's](https://harpers.org/archive/2023/12/bonnyrigg-scotland-sensory-workshop/) the [New York Times](https://www.nytimes.com/2021/07/16/opinion/cities-reopening-time.html), [Wired](https://www.wired.com/story/prosthetics-disability-future-of-work/), [Art in America](https://www.artnews.com/art-in-america/features/five-artists-disability-art-1234642880/), and other publications.
-
-I live in Cambridge, Mass., with [my husband](http://www.brianfunck.com/) and three children. 
 
 Short bio: 
 
