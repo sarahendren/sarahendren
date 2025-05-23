@@ -1,5 +1,5 @@
 ---
-title: RIP Alasdair MacIntyre
+title: RIP alasdair macintyre
 date: 2025-05-23 14:18:00 -04:00
 ---
 
