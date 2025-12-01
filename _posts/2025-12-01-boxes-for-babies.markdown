@@ -4,7 +4,7 @@ date: 2025-12-01 09:28:00 -05:00
 ---
 
 Alexandra Lange on Mamdani's (and Adams's) [baby boxes in NYC](https://www.bloomberg.com/news/articles/2025-11-12/mayor-eric-adams-introduces-a-new-york-twist-on-finland-s-baby-boxes?utm_source=substack&utm_medium=email) and their Finnish origins. A long overdue idea in the US:
-
+>
 >The outside of the NYC Baby Boxes — the ones spearheaded by Adams’s City Hall — features a custom graphic of the cityscape, including brownstones, tenements, elevator buildings and the distinctive spires of the Chrysler Building and One World Trade. Same for the many-pocketed canvas diaper bag inside the box. Floating above the graphics are abstract sleeping babies, well swaddled and capped. A proprietary onesie and hat declare, “NYC loves me.”
 
 >![NYC baby box.jpg](/uploads/NYC%20baby%20box.jpg)
