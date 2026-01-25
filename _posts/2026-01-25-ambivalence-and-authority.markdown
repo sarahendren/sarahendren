@@ -3,7 +3,7 @@ title: ambivalence and authority
 date: 2026-01-25 09:55:00 -05:00
 ---
 
-I have plenty of disagreement with [George Scialabba's new book](https://yalebooks.yale.edu/book/9780300289633/the-sealed-envelope/) — especially on MacIntyre and Taylor so far, which I hope to write more about — but he is so brilliant on Christopher Lasch that I have to just capture this passage (originally from *[Only A Voice](https://www.versobooks.com/products/2949-only-a-voice?srsltid=AfmBOopzdy1Kt1zJ3pcshG8zmZ5JVDVrMgqHJlXy3SOsV4syTAP8e9ED)*:
+I have plenty of disagreement with [George Scialabba's new book](https://yalebooks.yale.edu/book/9780300289633/the-sealed-envelope/) — especially on MacIntyre and Taylor so far, which I hope to write more about — but he is so brilliant on Christopher Lasch that I have to just capture this passage (originally from *[Only A Voice](https://www.versobooks.com/products/2949-only-a-voice?srsltid=AfmBOopzdy1Kt1zJ3pcshG8zmZ5JVDVrMgqHJlXy3SOsV4syTAP8e9ED)*):
 
 >Lasch's work is an extended quarrel with modernity, defined as the advance of an overlapping, mutually reinforcing phalanx of political centralization, mass production, expanded consumption, automation, geographic mobility, the bureaucratization of education, medicine, and family life, moral cosmopolitanism, and legal universalism. Against this barrage of abstractions, Lasch insisted on the fact of human scale. 
 >
