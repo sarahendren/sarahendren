@@ -10,3 +10,7 @@ I didn't become Catholic and a foundationalist because *liberalism just needs a 
 remembrance in *Common Knowledge* in 2008, after Rorty's death:
 
 >Time spent with Dick Rorty in this period was time well spent. I learned more in a shorter period, during lunchtime walks by the lake in Princeton, than I have ever done before or since, and not only because he had insightful things to say about so many issues. If one presented him with some half-worked-out, stumbling line of thought of one's own, he would identify its key weakness, suggest three possible alternative ways of remedying that weakness, perhaps express doubts about all of them, but nonetheless leave one excited about the work yet to be done. He made those with whom he talked into better philosophers than they would otherwise have been.
+
+I went to hear George speak about his book, asked him whether he had given MacIntyre his due. A friend teased me afterwards: Still on that foundationalism? Can't let it go, can you.
+
+How I wish, some days.
