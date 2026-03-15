@@ -1,8 +1,6 @@
 ---
 title: elevations
 date: 2026-02-23 09:30:00 -05:00
-tags:
-- politics
 ---
 
 Jack Goldsmith [on the tariff decision](https://www.execfunctions.org/p/quick-thoughts-on-the-tariff-decision):
